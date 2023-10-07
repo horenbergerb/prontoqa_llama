@@ -724,7 +724,7 @@ else:
 				fig.savefig(first_error_chart_filename, dpi=128, bbox_inches=Bbox([[0.0, (xlabel_line_count + 1) * -0.1], [10.0 - 0.3, first_error_figure_height]]))
 			plt.clf()
 
-
+	'''
 	logfiles = ['gpt_textdavinci002_1hop.log', 'gpt_textdavinci002_1hop_preorder.log', 'gpt_textdavinci002_3hop.log', 'gpt_textdavinci002_3hop_preorder.log', 'gpt_textdavinci002_5hop.log', 'gpt_textdavinci002_5hop_preorder.log'] \
 			 + ['gpt_textdavinci002_1hop_falseontology.log', 'gpt_textdavinci002_1hop_preorder_falseontology.log', 'gpt_textdavinci002_3hop_falseontology.log', 'gpt_textdavinci002_3hop_preorder_falseontology.log', 'gpt_textdavinci002_5hop_falseontology.log', 'gpt_textdavinci002_5hop_preorder_falseontology.log'] \
 			 + ['gpt_textdavinci002_1hop_trueontology.log', 'gpt_textdavinci002_1hop_preorder_trueontology.log', 'gpt_textdavinci002_3hop_trueontology.log', 'gpt_textdavinci002_3hop_preorder_trueontology.log', 'gpt_textdavinci002_5hop_trueontology.log', 'gpt_textdavinci002_5hop_preorder_trueontology.log'] \
@@ -734,6 +734,8 @@ else:
 			 + ['gpt_textada001_1hop_preorder.log', 'gpt_textbabbage001_1hop_preorder.log', 'gpt_textcurie001_1hop_preorder.log', 'gpt_davinci_1hop_preorder.log', 'gpt_textdavinci001_1hop_preorder.log', 'gpt_textdavinci002_1hop_preorder.log'] \
 			 + ['gpt_textada001_1hop_preorder_falseontology.log', 'gpt_textbabbage001_1hop_preorder_falseontology.log', 'gpt_textcurie001_1hop_preorder_falseontology.log', 'gpt_davinci_1hop_preorder_falseontology.log', 'gpt_textdavinci001_1hop_preorder_falseontology.log', 'gpt_textdavinci002_1hop_preorder_falseontology.log'] \
 			 + ['gpt_textada001_1hop_preorder_trueontology.log', 'gpt_textbabbage001_1hop_preorder_trueontology.log', 'gpt_textcurie001_1hop_preorder_trueontology.log', 'gpt_davinci_1hop_preorder_trueontology.log', 'gpt_textdavinci001_1hop_preorder_trueontology.log', 'gpt_textdavinci002_1hop_trueontology.log']
+	'''
+	logfiles = ['llama_{}hop.log'.format(x) for x in range(1,5)]
 	logfiles = set(logfiles)
 	example_count = []
 	label_accuracy = []
@@ -828,7 +830,8 @@ else:
 			elif "_textdavinci002_" in logfile:
 				point_colors.append(colors[5])
 			else:
-				raise Exception("Unable to determine model size.")
+				point_colors.append(colors[0])
+				# raise Exception("Unable to determine model size.")
 
 
 	example_count = np.array(example_count)

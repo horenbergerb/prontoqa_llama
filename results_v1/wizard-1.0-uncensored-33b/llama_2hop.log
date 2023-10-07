@@ -1,0 +1,1440 @@
+Q: Vumpuses are earthy. Vumpuses are yumpuses. Every yumpus is transparent. Every dumpus is not transparent. Each yumpus is an impus. Each impus is not kind. Impuses are wumpuses. Wumpuses are small. Each wumpus is a numpus. Polly is a vumpus. True or false: Polly is not transparent.
+A: Polly is a vumpus. Vumpuses are yumpuses. Polly is a yumpus. Every yumpus is transparent. Polly is transparent. False
+
+Q: Zumpuses are not earthy. Zumpuses are jompuses. Each jompus is sour. Each impus is not angry. Every jompus is a wumpus. Every wumpus is liquid. Each wumpus is a numpus. Every numpus is not brown. Numpuses are yumpuses. Each yumpus is nervous. Yumpuses are tumpuses. Every tumpus is angry. Tumpuses are rompuses. Each rompus is opaque. Rompuses are vumpuses. Each vumpus is temperate. Each vumpus is a dumpus. Max is a yumpus. True or false: Max is not angry.
+A: Max is a yumpus. Yumpuses are tumpuses. Max is a tumpus. Every tumpus is angry. Max is angry. False
+
+Q: Each tumpus is large. Tumpuses are rompuses. Rompuses are transparent. Each impus is not wooden. Rompuses are dumpuses. Every dumpus is feisty. Each dumpus is a yumpus. Yumpuses are orange. Yumpuses are vumpuses. Each vumpus is not amenable. Each vumpus is a numpus. Numpuses are wooden. Numpuses are zumpuses. Zumpuses are sour. Zumpuses are jompuses. Jompuses are bright. Each jompus is a wumpus. Polly is a vumpus. True or false: Polly is wooden.
+A: Polly is a vumpus. Each vumpus is a numpus. Polly is a numpus. Numpuses are wooden. Polly is wooden. True
+
+Q: Each tumpus is not small. Tumpuses are wumpuses. Wumpuses are opaque. Wumpuses are zumpuses. Every zumpus is not kind. Dumpuses are not brown. Every zumpus is a vumpus. Every vumpus is happy. Each vumpus is a numpus. Numpuses are not bright. Numpuses are impuses. Impuses are sour. Impuses are yumpuses. Yumpuses are brown. Yumpuses are rompuses. Every rompus is liquid. Rompuses are jompuses. Sam is an impus. True or false: Sam is not brown.
+A: Sam is an impus. Impuses are yumpuses. Sam is a yumpus. Yumpuses are brown. Sam is brown. False
+
+Q: Dumpuses are metallic. Dumpuses are numpuses. Each numpus is not floral. Every numpus is a wumpus. Yumpuses are floral. Polly is a dumpus. True or false: Polly is not floral.
+A: Polly is a dumpus. Dumpuses are numpuses. Polly is a numpus. Each numpus is not floral. Polly is not floral. True
+
+Q: Yumpuses are orange. Each yumpus is a wumpus. Every wumpus is transparent. Wumpuses are impuses. Impuses are not dull. Every impus is a jompus. Every jompus is metallic. Each vumpus is not metallic. Every jompus is a numpus. Wren is an impus. True or false: Wren is metallic.
+A: Wren is an impus. Every impus is a jompus. Wren is a jompus. Every jompus is metallic. Wren is metallic. True
+
+Q: Every jompus is liquid. Zumpuses are not transparent. Zumpuses are numpuses. Numpuses are not orange. Each numpus is a yumpus. Each yumpus is sweet. Yumpuses are tumpuses. Tumpuses are not liquid. Tumpuses are wumpuses. Wren is a yumpus. True or false: Wren is liquid.
+A: Wren is a yumpus. Yumpuses are tumpuses. Wren is a tumpus. Tumpuses are not liquid. Wren is not liquid. False
+
+Q: Every dumpus is luminous. Each dumpus is a zumpus. Zumpuses are not fruity. Every zumpus is a tumpus. Every tumpus is temperate. Tumpuses are numpuses. Each numpus is blue. Numpuses are jompuses. Each jompus is transparent. Each jompus is a wumpus. Wumpuses are large. Wumpuses are impuses. Each impus is not bitter. Impuses are rompuses. Each rompus is not amenable. Yumpuses are not blue. Rompuses are vumpuses. Alex is a tumpus. True or false: Alex is blue.
+A: Alex is a tumpus. Tumpuses are numpuses. Alex is a numpus. Each numpus is blue. Alex is blue. True
+
+Q: Dumpuses are amenable. Dumpuses are jompuses. Jompuses are opaque. Each jompus is a tumpus. Each tumpus is not fruity. Tumpuses are yumpuses. Yumpuses are spicy. Impuses are brown. Yumpuses are zumpuses. Every zumpus is not brown. Each zumpus is a wumpus. Each wumpus is not cold. Each wumpus is a rompus. Rompuses are nervous. Rompuses are numpuses. Numpuses are dull. Every numpus is a vumpus. Rex is a yumpus. True or false: Rex is not brown.
+A:
+
+Predicted answer: Rex is a yumpus. Yumpuses are tumpuses. Rex is a tumpus. Tumpuses are not fruity. Rex is not brown. False
+
+Q:
+
+Expected answer: Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Every zumpus is not brown. Rex is not brown.
+ True
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is angry. Each vumpus is a zumpus. Zumpuses are large. Impuses are bright. Zumpuses are numpuses. Each numpus is luminous. Numpuses are dumpuses. Every dumpus is not bright. Dumpuses are tumpuses. Tumpuses are opaque. Each tumpus is a rompus. Sam is a numpus. True or false: Sam is not bright.
+A: Sam is a numpus. Numpuses are dumpuses. Sam is a dumpus. Every dumpus is not bright. Sam is not bright. True
+
+Q: Rompuses are bitter. Every rompus is a wumpus. Every wumpus is not hot. Wumpuses are jompuses. Zumpuses are small. Every jompus is not small. Jompuses are impuses. Every impus is not red. Each impus is a numpus. Rex is a wumpus. True or false: Rex is not small.
+A: Rex is a wumpus. Wumpuses are jompuses. Rex is a jompus. Every jompus is not small. Rex is not small. True
+
+Q: Every yumpus is not luminous. Yumpuses are jompuses. Each jompus is earthy. Every jompus is a dumpus. Dumpuses are red. Dumpuses are numpuses. Each numpus is not happy. Every numpus is a tumpus. Tumpuses are opaque. Every tumpus is a vumpus. Vumpuses are not amenable. Wumpuses are happy. Each vumpus is a rompus. Every rompus is not bright. Each rompus is a zumpus. Zumpuses are cold. Each zumpus is an impus. Alex is a dumpus. True or false: Alex is not happy.
+A: Alex is a dumpus. Dumpuses are numpuses. Alex is a numpus. Each numpus is not happy. Alex is not happy. True
+
+Q: Every yumpus is dull. Yumpuses are rompuses. Each rompus is not hot. Each rompus is an impus. Impuses are metallic. Jompuses are hot. Every impus is a dumpus. Each dumpus is not red. Every dumpus is a tumpus. Every tumpus is kind. Each tumpus is a vumpus. Vumpuses are large. Each vumpus is a zumpus. Zumpuses are fruity. Zumpuses are numpuses. Each numpus is not opaque. Numpuses are wumpuses. Wren is a yumpus. True or false: Wren is not hot.
+A: Wren is a yumpus. Yumpuses are rompuses. Wren is a rompus. Each rompus is not hot. Wren is not hot. True
+
+Q: Rompuses are large. Every rompus is a wumpus. Each wumpus is not opaque. Yumpuses are sour. Every wumpus is a tumpus. Tumpuses are not happy. Tumpuses are vumpuses. Vumpuses are blue. Every vumpus is a dumpus. Every dumpus is temperate. Every dumpus is a zumpus. Zumpuses are not sour. Every zumpus is a numpus. Each numpus is angry. Every numpus is an impus. Impuses are dull. Every impus is a jompus. Polly is a dumpus. True or false: Polly is sour.
+A: Polly is a dumpus. Every dumpus is a zumpus. Polly is a zumpus. Zumpuses are not sour. Polly is not sour. False
+
+Q: Every zumpus is small. Every impus is temperate. Each zumpus is a rompus. Each rompus is orange. Rompuses are jompuses. Jompuses are not spicy. Every jompus is a vumpus. Each vumpus is transparent. Every vumpus is a wumpus. Each wumpus is happy. Each wumpus is a numpus. Numpuses are mean. Every numpus is a dumpus. Every dumpus is not temperate. Dumpuses are yumpuses. Yumpuses are dull. Yumpuses are tumpuses. Sam is a numpus. True or false: Sam is temperate.
+A: Sam is a numpus. Every numpus is a dumpus. Sam is a dumpus. Every dumpus is not temperate. Sam is not temperate. False
+
+Q: Every zumpus is transparent. Every zumpus is a wumpus. Each wumpus is temperate. Wumpuses are dumpuses. Impuses are not kind. Dumpuses are not spicy. Dumpuses are jompuses. Jompuses are not small. Every jompus is a rompus. Every rompus is kind. Rompuses are vumpuses. Vumpuses are not fruity. Every vumpus is a numpus. Numpuses are not luminous. Every numpus is a tumpus. Tumpuses are orange. Tumpuses are yumpuses. Rex is a jompus. True or false: Rex is not kind.
+A: Rex is a jompus. Every jompus is a rompus. Rex is a rompus. Every rompus is kind. Rex is kind. False
+
+Q: Tumpuses are cold. Each tumpus is an impus. Impuses are fruity. Every impus is a vumpus. Each vumpus is not feisty. Vumpuses are numpuses. Every wumpus is spicy. Each numpus is not spicy. Numpuses are yumpuses. Rex is a vumpus. True or false: Rex is spicy.
+A: Rex is a vumpus. Vumpuses are numpuses. Rex is a numpus. Each numpus is not spicy. Rex is not spicy. False
+
+Q: Each rompus is feisty. Rompuses are jompuses. Jompuses are orange. Each yumpus is not floral. Jompuses are dumpuses. Dumpuses are floral. Dumpuses are wumpuses. Alex is a jompus. True or false: Alex is not floral.
+A:
+
+Predicted answer: Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Dumpuses are floral. Alex is floral. True
+
+Q:
+
+Expected answer: Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Dumpuses are floral. Alex is floral.
+ False
+n: 2, (beta prior) mean: 0.25, 95% lower bound: 0.008403758659612636, 95% upper bound: 0.7075982261787133
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is bitter. Every vumpus is a yumpus. Every yumpus is large. Each yumpus is a jompus. Jompuses are dull. Every jompus is a tumpus. Tumpuses are not floral. Dumpuses are metallic. Each tumpus is a wumpus. Wumpuses are not transparent. Each wumpus is a rompus. Every rompus is not metallic. Rompuses are impuses. Impuses are not amenable. Every impus is a numpus. Every numpus is happy. Numpuses are zumpuses. Sam is a wumpus. True or false: Sam is not metallic.
+A: Sam is a wumpus. Each wumpus is a rompus. Sam is a rompus. Every rompus is not metallic. Sam is not metallic. True
+
+Q: Impuses are opaque. Every numpus is small. Numpuses are zumpuses. Each zumpus is not opaque. Zumpuses are yumpuses. Each yumpus is not blue. Each yumpus is a vumpus. Alex is a numpus. True or false: Alex is opaque.
+A: Alex is a numpus. Numpuses are zumpuses. Alex is a zumpus. Each zumpus is not opaque. Alex is not opaque. False
+
+Q: Zumpuses are not mean. Zumpuses are dumpuses. Dumpuses are not spicy. Every dumpus is a tumpus. Each vumpus is not bright. Each tumpus is bright. Each tumpus is a jompus. Sally is a dumpus. True or false: Sally is not bright.
+A: Sally is a dumpus. Every dumpus is a tumpus. Sally is a tumpus. Each tumpus is bright. Sally is bright. False
+
+Q: Each zumpus is opaque. Each vumpus is not bitter. Zumpuses are impuses. Impuses are not kind. Every impus is a rompus. Each rompus is bitter. Every rompus is a yumpus. Every yumpus is not liquid. Yumpuses are numpuses. Every numpus is hot. Each numpus is a wumpus. Every wumpus is fruity. Every wumpus is a jompus. Jompuses are not dull. Every jompus is a tumpus. Each tumpus is large. Every tumpus is a dumpus. Fae is an impus. True or false: Fae is not bitter.
+A: Fae is an impus. Every impus is a rompus. Fae is a rompus. Each rompus is bitter. Fae is bitter. False
+
+Q: Numpuses are bright. Wumpuses are not transparent. Numpuses are tumpuses. Every tumpus is transparent. Tumpuses are vumpuses. Rex is a numpus. True or false: Rex is transparent.
+A: Rex is a numpus. Numpuses are tumpuses. Rex is a tumpus. Every tumpus is transparent. Rex is transparent. True
+
+Q: Every rompus is happy. Each rompus is a numpus. Numpuses are not floral. Every numpus is a dumpus. Jompuses are not dull. Each dumpus is not kind. Each dumpus is an impus. Each impus is not bitter. Each impus is a vumpus. Every vumpus is cold. Vumpuses are zumpuses. Zumpuses are not orange. Zumpuses are wumpuses. Every wumpus is dull. Every wumpus is a tumpus. Tumpuses are not opaque. Each tumpus is a yumpus. Sally is a zumpus. True or false: Sally is dull.
+A: Sally is a zumpus. Zumpuses are wumpuses. Sally is a wumpus. Every wumpus is dull. Sally is dull. True
+
+Q: Impuses are bitter. Impuses are yumpuses. Yumpuses are blue. Every dumpus is not bright. Yumpuses are vumpuses. Each vumpus is floral. Every vumpus is a jompus. Jompuses are large. Every jompus is a zumpus. Each zumpus is transparent. Each zumpus is a numpus. Every numpus is bright. Each numpus is a wumpus. Wumpuses are shy. Wumpuses are rompuses. Rompuses are not angry. Each rompus is a tumpus. Sally is a zumpus. True or false: Sally is bright.
+A: Sally is a zumpus. Each zumpus is a numpus. Sally is a numpus. Every numpus is bright. Sally is bright. True
+
+Q: Rompuses are not hot. Vumpuses are not opaque. Vumpuses are wumpuses. Each wumpus is hot. Wumpuses are numpuses. Each numpus is not bright. Numpuses are tumpuses. Sam is a vumpus. True or false: Sam is hot.
+A: Sam is a vumpus. Vumpuses are wumpuses. Sam is a wumpus. Each wumpus is hot. Sam is hot. True
+
+Q: Every tumpus is not dull. Tumpuses are yumpuses. Yumpuses are hot. Each yumpus is a numpus. Every numpus is metallic. Numpuses are rompuses. Each rompus is small. Rompuses are wumpuses. Every wumpus is happy. Every wumpus is a jompus. Each jompus is opaque. Jompuses are dumpuses. Every impus is not fruity. Every dumpus is fruity. Dumpuses are vumpuses. Alex is a jompus. True or false: Alex is fruity.
+A:
+
+Predicted answer: Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Every dumpus is fruity. Alex is fruity. True
+
+Q:
+
+Expected answer: Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Every dumpus is fruity. Alex is fruity.
+ True
+n: 3, (beta prior) mean: 0.2, 95% lower bound: 0.006309463209709866, 95% upper bound: 0.6023646356164746
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are small. Every jompus is a wumpus. Wumpuses are kind. Wumpuses are impuses. Every impus is not hot. Impuses are tumpuses. Tumpuses are bitter. Tumpuses are rompuses. Every rompus is earthy. Yumpuses are hot. Rompuses are vumpuses. Vumpuses are nervous. Each vumpus is a numpus. Every numpus is not opaque. Every numpus is a zumpus. Zumpuses are wooden. Every zumpus is a dumpus. Polly is a wumpus. True or false: Polly is hot.
+A: Polly is a wumpus. Wumpuses are impuses. Polly is an impus. Every impus is not hot. Polly is not hot. False
+
+Q: Numpuses are floral. Numpuses are dumpuses. Every jompus is small. Dumpuses are not small. Dumpuses are zumpuses. Max is a numpus. True or false: Max is not small.
+A: Max is a numpus. Numpuses are dumpuses. Max is a dumpus. Dumpuses are not small. Max is not small. True
+
+Q: Rompuses are bright. Impuses are not orange. Every rompus is a yumpus. Each yumpus is large. Each yumpus is a jompus. Each jompus is not hot. Jompuses are zumpuses. Zumpuses are sour. Zumpuses are numpuses. Every numpus is orange. Numpuses are wumpuses. Each wumpus is not shy. Wumpuses are tumpuses. Rex is a zumpus. True or false: Rex is not orange.
+A: Rex is a zumpus. Zumpuses are numpuses. Rex is a numpus. Every numpus is orange. Rex is orange. False
+
+Q: Zumpuses are not angry. Jompuses are not temperate. Each jompus is a yumpus. Every yumpus is nervous. Yumpuses are rompuses. Each rompus is angry. Every rompus is an impus. Stella is a yumpus. True or false: Stella is not angry.
+A: Stella is a yumpus. Yumpuses are rompuses. Stella is a rompus. Each rompus is angry. Stella is angry. False
+
+Q: Wumpuses are shy. Each wumpus is a rompus. Each rompus is not kind. Rompuses are yumpuses. Yumpuses are hot. Each yumpus is a vumpus. Vumpuses are sour. Every vumpus is a tumpus. Each tumpus is not brown. Jompuses are not sour. Tumpuses are dumpuses. Dumpuses are floral. Each dumpus is a numpus. Each numpus is bright. Numpuses are zumpuses. Alex is a yumpus. True or false: Alex is sour.
+A: Alex is a yumpus. Each yumpus is a vumpus. Alex is a vumpus. Vumpuses are sour. Alex is sour. True
+
+Q: Dumpuses are not cold. Every dumpus is a numpus. Numpuses are orange. Each numpus is a wumpus. Every wumpus is small. Tumpuses are not small. Wumpuses are yumpuses. Stella is a numpus. True or false: Stella is not small.
+A: Stella is a numpus. Each numpus is a wumpus. Stella is a wumpus. Every wumpus is small. Stella is small. False
+
+Q: Each jompus is happy. Every jompus is a dumpus. Every dumpus is not sour. Every wumpus is sour. Dumpuses are rompuses. Every rompus is not cold. Each rompus is a numpus. Fae is a jompus. True or false: Fae is sour.
+A: Fae is a jompus. Every jompus is a dumpus. Fae is a dumpus. Every dumpus is not sour. Fae is not sour. False
+
+Q: Every dumpus is dull. Each dumpus is a tumpus. Tumpuses are large. Each tumpus is a numpus. Numpuses are not opaque. Numpuses are zumpuses. Zumpuses are not mean. Zumpuses are rompuses. Rompuses are wooden. Rompuses are jompuses. Jompuses are earthy. Jompuses are wumpuses. Yumpuses are not blue. Wumpuses are not bitter. Each wumpus is a vumpus. Vumpuses are blue. Each vumpus is an impus. Sam is a wumpus. True or false: Sam is not blue.
+A: Sam is a wumpus. Each wumpus is a vumpus. Sam is a vumpus. Vumpuses are blue. Sam is blue. False
+
+Q: Every vumpus is not bright. Vumpuses are dumpuses. Numpuses are blue. Each dumpus is not bitter. Dumpuses are yumpuses. Every yumpus is transparent. Every yumpus is a wumpus. Wumpuses are not small. Wumpuses are zumpuses. Every zumpus is not blue. Each zumpus is an impus. Every impus is not nervous. Impuses are jompuses. Jompuses are not aggressive. Each jompus is a tumpus. Tumpuses are floral. Every tumpus is a rompus. Fae is a wumpus. True or false: Fae is blue.
+A:
+
+Predicted answer: Fae is a wumpus. Each wumpus is a vumpus. Fae is a vumpus. Vumpuses are not bright. Fae is not bright. False
+
+Q:
+
+Expected answer: Fae is a wumpus. Wumpuses are zumpuses. Fae is a zumpus. Every zumpus is not blue. Fae is not blue.
+ False
+n: 4, (beta prior) mean: 0.16666666666666666, 95% lower bound: 0.005050763379468057, 95% upper bound: 0.5218237501049813
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is not feisty. Vumpuses are wumpuses. Wumpuses are not liquid. Wumpuses are rompuses. Rompuses are orange. Each rompus is a yumpus. Every yumpus is earthy. Yumpuses are impuses. Impuses are not bright. Impuses are zumpuses. Zumpuses are not transparent. Each jompus is liquid. Each zumpus is a dumpus. Dumpuses are not temperate. Dumpuses are tumpuses. Tumpuses are small. Tumpuses are numpuses. Wren is a vumpus. True or false: Wren is not liquid.
+A: Wren is a vumpus. Vumpuses are wumpuses. Wren is a wumpus. Wumpuses are not liquid. Wren is not liquid. True
+
+Q: Jompuses are aggressive. Jompuses are numpuses. Every numpus is hot. Numpuses are vumpuses. Each vumpus is bright. Each vumpus is a wumpus. Each wumpus is not brown. Wumpuses are impuses. Impuses are wooden. Impuses are dumpuses. Each dumpus is happy. Dumpuses are zumpuses. Zumpuses are transparent. Zumpuses are rompuses. Rompuses are floral. Each tumpus is not hot. Rompuses are yumpuses. Rex is a jompus. True or false: Rex is not hot.
+A: Rex is a jompus. Jompuses are numpuses. Rex is a numpus. Every numpus is hot. Rex is hot. False
+
+Q: Every tumpus is hot. Each tumpus is a vumpus. Vumpuses are kind. Vumpuses are jompuses. Jompuses are small. Every jompus is a dumpus. Dumpuses are not opaque. Every numpus is opaque. Dumpuses are rompuses. Rompuses are not liquid. Every rompus is an impus. Max is a jompus. True or false: Max is not opaque.
+A: Max is a jompus. Every jompus is a dumpus. Max is a dumpus. Dumpuses are not opaque. Max is not opaque. True
+
+Q: Each zumpus is not red. Zumpuses are vumpuses. Each vumpus is opaque. Vumpuses are tumpuses. Each jompus is not opaque. Every tumpus is not metallic. Every tumpus is a dumpus. Max is a zumpus. True or false: Max is opaque.
+A: Max is a zumpus. Zumpuses are vumpuses. Max is a vumpus. Each vumpus is opaque. Max is opaque. True
+
+Q: Jompuses are earthy. Jompuses are wumpuses. Wumpuses are not transparent. Every wumpus is a rompus. Every numpus is not blue. Each rompus is not happy. Rompuses are vumpuses. Each vumpus is not small. Vumpuses are yumpuses. Yumpuses are not hot. Every yumpus is a zumpus. Each zumpus is not bright. Every zumpus is an impus. Every impus is not kind. Impuses are dumpuses. Each dumpus is blue. Each dumpus is a tumpus. Stella is an impus. True or false: Stella is blue.
+A: Stella is an impus. Impuses are dumpuses. Stella is a dumpus. Each dumpus is blue. Stella is blue. True
+
+Q: Every numpus is dull. Numpuses are tumpuses. Tumpuses are aggressive. Dumpuses are bitter. Tumpuses are wumpuses. Wumpuses are fruity. Wumpuses are jompuses. Each jompus is not bitter. Every jompus is an impus. Impuses are not feisty. Each impus is a zumpus. Zumpuses are temperate. Zumpuses are yumpuses. Yumpuses are blue. Yumpuses are rompuses. Rompuses are transparent. Rompuses are vumpuses. Fae is a wumpus. True or false: Fae is not bitter.
+A: Fae is a wumpus. Wumpuses are jompuses. Fae is a jompus. Each jompus is not bitter. Fae is not bitter. True
+
+Q: Each wumpus is cold. Each wumpus is a numpus. Every vumpus is fruity. Numpuses are not fruity. Each numpus is a yumpus. Every yumpus is angry. Every yumpus is an impus. Impuses are not large. Each impus is a rompus. Wren is a wumpus. True or false: Wren is not fruity.
+A: Wren is a wumpus. Each wumpus is a numpus. Wren is a numpus. Numpuses are not fruity. Wren is not fruity. True
+
+Q: Every numpus is cold. Numpuses are jompuses. Each jompus is opaque. Jompuses are rompuses. Every rompus is not shy. Dumpuses are shy. Each rompus is a yumpus. Every yumpus is not angry. Yumpuses are wumpuses. Each wumpus is small. Each wumpus is an impus. Impuses are not dull. Every impus is a zumpus. Each zumpus is not brown. Each zumpus is a tumpus. Every tumpus is luminous. Tumpuses are vumpuses. Stella is a jompus. True or false: Stella is shy.
+A: Stella is a jompus. Jompuses are rompuses. Stella is a rompus. Every rompus is not shy. Stella is not shy. False
+
+Q: Every yumpus is not hot. Every jompus is not earthy. Each yumpus is a rompus. Rompuses are bright. Rompuses are vumpuses. Vumpuses are transparent. Every vumpus is a numpus. Each numpus is red. Numpuses are tumpuses. Every tumpus is small. Tumpuses are wumpuses. Wumpuses are not bitter. Wumpuses are impuses. Each impus is luminous. Impuses are zumpuses. Every zumpus is earthy. Every zumpus is a dumpus. Sally is an impus. True or false: Sally is earthy.
+A:
+
+Predicted answer: Sally is an impus. Impuses are zumpuses. Sally is a zumpus. Every zumpus is earthy. Sally is earthy. True
+
+Q:
+
+Expected answer: Sally is an impus. Impuses are zumpuses. Sally is a zumpus. Every zumpus is earthy. Sally is earthy.
+ True
+n: 5, (beta prior) mean: 0.14285714285714285, 95% lower bound: 0.00421074451448947, 95% upper bound: 0.4592581264399005
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is sweet. Vumpuses are yumpuses. Each rompus is angry. Yumpuses are happy. Yumpuses are zumpuses. Each zumpus is brown. Zumpuses are numpuses. Numpuses are luminous. Numpuses are impuses. Every impus is not earthy. Impuses are tumpuses. Each tumpus is not angry. Each tumpus is a wumpus. Wumpuses are dull. Wumpuses are jompuses. Stella is an impus. True or false: Stella is not angry.
+A: Stella is an impus. Impuses are tumpuses. Stella is a tumpus. Each tumpus is not angry. Stella is not angry. True
+
+Q: Every yumpus is not aggressive. Each yumpus is an impus. Impuses are earthy. Each impus is a vumpus. Each vumpus is not blue. Zumpuses are blue. Each vumpus is a dumpus. Dumpuses are bright. Every dumpus is a numpus. Each numpus is spicy. Every numpus is a tumpus. Each tumpus is not feisty. Each tumpus is a wumpus. Every wumpus is large. Wumpuses are jompuses. Jompuses are cold. Every jompus is a rompus. Alex is an impus. True or false: Alex is blue.
+A: Alex is an impus. Each impus is a vumpus. Alex is a vumpus. Each vumpus is not blue. Alex is not blue. False
+
+Q: Impuses are luminous. Each impus is a vumpus. Vumpuses are small. Each vumpus is a jompus. Every jompus is feisty. Jompuses are numpuses. Numpuses are not brown. Every numpus is a wumpus. Wumpuses are not opaque. Every wumpus is a tumpus. Each rompus is not feisty. Tumpuses are not amenable. Every tumpus is a dumpus. Every dumpus is bright. Dumpuses are zumpuses. Zumpuses are earthy. Each zumpus is a yumpus. Polly is a vumpus. True or false: Polly is feisty.
+A: Polly is a vumpus. Each vumpus is a jompus. Polly is a jompus. Every jompus is feisty. Polly is feisty. True
+
+Q: Numpuses are luminous. Each jompus is not bright. Jompuses are yumpuses. Every yumpus is sweet. Every yumpus is a tumpus. Tumpuses are not luminous. Tumpuses are rompuses. Stella is a yumpus. True or false: Stella is luminous.
+A: Stella is a yumpus. Every yumpus is a tumpus. Stella is a tumpus. Tumpuses are not luminous. Stella is not luminous. False
+
+Q: Each wumpus is small. Each wumpus is a numpus. Numpuses are mean. Each numpus is a yumpus. Yumpuses are red. Each yumpus is a jompus. Vumpuses are not red. Jompuses are nervous. Jompuses are impuses. Impuses are fruity. Every impus is a rompus. Rompuses are luminous. Every rompus is a dumpus. Each dumpus is sour. Each dumpus is a tumpus. Each tumpus is not hot. Each tumpus is a zumpus. Max is a numpus. True or false: Max is red.
+A: Max is a numpus. Each numpus is a yumpus. Max is a yumpus. Yumpuses are red. Max is red. True
+
+Q: Rompuses are large. Each rompus is a yumpus. Yumpuses are sour. Each yumpus is a zumpus. Zumpuses are hot. Jompuses are amenable. Zumpuses are dumpuses. Dumpuses are dull. Every dumpus is a wumpus. Wumpuses are nervous. Every wumpus is a tumpus. Tumpuses are liquid. Tumpuses are impuses. Impuses are not transparent. Every impus is a numpus. Every numpus is not amenable. Every numpus is a vumpus. Max is an impus. True or false: Max is not amenable.
+A: Max is an impus. Every impus is a numpus. Max is a numpus. Every numpus is not amenable. Max is not amenable. True
+
+Q: Each dumpus is bright. Dumpuses are jompuses. Jompuses are not bitter. Jompuses are numpuses. Each numpus is temperate. Numpuses are wumpuses. Every wumpus is transparent. Wumpuses are impuses. Impuses are luminous. Each impus is a vumpus. Vumpuses are angry. Rompuses are not transparent. Each vumpus is a tumpus. Tumpuses are not floral. Tumpuses are zumpuses. Zumpuses are small. Zumpuses are yumpuses. Sam is a numpus. True or false: Sam is transparent.
+A: Sam is a numpus. Numpuses are wumpuses. Sam is a wumpus. Every wumpus is transparent. Sam is transparent. True
+
+Q: Each zumpus is wooden. Zumpuses are dumpuses. Dumpuses are transparent. Each dumpus is an impus. Impuses are not bitter. Each impus is a numpus. Numpuses are amenable. Every numpus is a tumpus. Wumpuses are not small. Every tumpus is blue. Tumpuses are jompuses. Jompuses are small. Jompuses are rompuses. Rompuses are not nervous. Rompuses are yumpuses. Each yumpus is not bright. Each yumpus is a vumpus. Sally is a tumpus. True or false: Sally is small.
+A: Sally is a tumpus. Tumpuses are jompuses. Sally is a jompus. Jompuses are small. Sally is small. True
+
+Q: Each impus is nervous. Impuses are numpuses. Numpuses are dull. Every numpus is a rompus. Each rompus is cold. Each rompus is a jompus. Each jompus is not wooden. Jompuses are dumpuses. Each dumpus is opaque. Each dumpus is a zumpus. Zumpuses are floral. Zumpuses are vumpuses. Vumpuses are small. Each vumpus is a tumpus. Every tumpus is sour. Tumpuses are yumpuses. Wumpuses are not dull. Max is an impus. True or false: Max is dull.
+A:
+
+Predicted answer: Max is an impus. Impuses are numpuses. Max is a numpus. Numpuses are dull. Max is dull. True
+
+Q:
+
+Expected answer: Max is an impus. Impuses are numpuses. Max is a numpus. Numpuses are dull. Max is dull.
+ True
+n: 6, (beta prior) mean: 0.125, 95% lower bound: 0.0036102968619005837, 95% upper bound: 0.4096163972250034
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each wumpus is not large. Wumpuses are tumpuses. Tumpuses are transparent. Every tumpus is a yumpus. Each yumpus is not earthy. Every yumpus is a zumpus. Every zumpus is feisty. Every zumpus is an impus. Every jompus is wooden. Impuses are spicy. Each impus is a numpus. Numpuses are not wooden. Every numpus is a dumpus. Each dumpus is aggressive. Each dumpus is a rompus. Rompuses are cold. Rompuses are vumpuses. Alex is an impus. True or false: Alex is wooden.
+A: Alex is an impus. Each impus is a numpus. Alex is a numpus. Numpuses are not wooden. Alex is not wooden. False
+
+Q: Rompuses are not amenable. Rompuses are dumpuses. Every dumpus is orange. Dumpuses are zumpuses. Every zumpus is bright. Every zumpus is a numpus. Each numpus is large. Each numpus is a wumpus. Wumpuses are happy. Wumpuses are jompuses. Yumpuses are fruity. Each jompus is not fruity. Every jompus is a tumpus. Tumpuses are spicy. Tumpuses are impuses. Alex is a wumpus. True or false: Alex is not fruity.
+A: Alex is a wumpus. Wumpuses are jompuses. Alex is a jompus. Each jompus is not fruity. Alex is not fruity. True
+
+Q: Every impus is red. Each impus is a wumpus. Every wumpus is large. Every wumpus is a tumpus. Each tumpus is not sweet. Each zumpus is sweet. Tumpuses are numpuses. Rex is a wumpus. True or false: Rex is sweet.
+A: Rex is a wumpus. Every wumpus is a tumpus. Rex is a tumpus. Each tumpus is not sweet. Rex is not sweet. False
+
+Q: Each yumpus is sour. Yumpuses are dumpuses. Every wumpus is not cold. Dumpuses are not kind. Dumpuses are tumpuses. Tumpuses are dull. Every tumpus is a zumpus. Each zumpus is cold. Zumpuses are rompuses. Rompuses are metallic. Rompuses are numpuses. Each numpus is not transparent. Numpuses are vumpuses. Vumpuses are floral. Vumpuses are jompuses. Jompuses are small. Every jompus is an impus. Max is a tumpus. True or false: Max is not cold.
+A: Max is a tumpus. Every tumpus is a zumpus. Max is a zumpus. Each zumpus is cold. Max is cold. False
+
+Q: Every wumpus is not amenable. Wumpuses are rompuses. Rompuses are brown. Rompuses are vumpuses. Every vumpus is feisty. Vumpuses are zumpuses. Zumpuses are opaque. Zumpuses are tumpuses. Every tumpus is fruity. Tumpuses are yumpuses. Every yumpus is bright. Yumpuses are impuses. Impuses are small. Every impus is a numpus. Each numpus is sweet. Numpuses are dumpuses. Every jompus is not opaque. Sally is a vumpus. True or false: Sally is not opaque.
+A: Sally is a vumpus. Vumpuses are zumpuses. Sally is a zumpus. Zumpuses are opaque. Sally is opaque. False
+
+Q: Every dumpus is floral. Every vumpus is not opaque. Dumpuses are rompuses. Each rompus is opaque. Rompuses are tumpuses. Alex is a dumpus. True or false: Alex is not opaque.
+A: Alex is a dumpus. Dumpuses are rompuses. Alex is a rompus. Each rompus is opaque. Alex is opaque. False
+
+Q: Numpuses are not opaque. Every numpus is a jompus. Each jompus is nervous. Vumpuses are floral. Every jompus is a tumpus. Every tumpus is not spicy. Each tumpus is a zumpus. Zumpuses are not bright. Zumpuses are impuses. Each impus is not floral. Impuses are wumpuses. Sam is a zumpus. True or false: Sam is not floral.
+A: Sam is a zumpus. Zumpuses are impuses. Sam is an impus. Each impus is not floral. Sam is not floral. True
+
+Q: Every dumpus is feisty. Every dumpus is a tumpus. Every tumpus is large. Yumpuses are not opaque. Every tumpus is a zumpus. Each zumpus is not fruity. Each zumpus is a jompus. Each jompus is not bitter. Each jompus is a numpus. Each numpus is metallic. Each numpus is an impus. Each impus is not orange. Impuses are vumpuses. Every vumpus is opaque. Vumpuses are rompuses. Each rompus is not amenable. Rompuses are wumpuses. Sally is an impus. True or false: Sally is opaque.
+A: Sally is an impus. Impuses are vumpuses. Sally is a vumpus. Every vumpus is opaque. Sally is opaque. True
+
+Q: Every wumpus is red. Wumpuses are jompuses. Every jompus is shy. Every jompus is a numpus. Numpuses are angry. Every numpus is a yumpus. Each yumpus is liquid. Yumpuses are rompuses. Every rompus is not large. Rompuses are tumpuses. Each tumpus is not bright. Zumpuses are not earthy. Every tumpus is a dumpus. Each dumpus is earthy. Dumpuses are vumpuses. Every vumpus is opaque. Every vumpus is an impus. Fae is a tumpus. True or false: Fae is not earthy.
+A:
+
+Predicted answer: Fae is a tumpus. Every tumpus is a dumpus. Fae is a dumpus. Each dumpus is earthy. Fae is earthy. False
+
+Q:
+
+Expected answer: Fae is a tumpus. Every tumpus is a dumpus. Fae is a dumpus. Each dumpus is earthy. Fae is earthy.
+ False
+n: 7, (beta prior) mean: 0.1111111111111111, 95% lower bound: 0.0031597235312519063, 95% upper bound: 0.3694166475528191
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Tumpuses are opaque. Every zumpus is cold. Tumpuses are jompuses. Each jompus is blue. Jompuses are vumpuses. Vumpuses are mean. Each vumpus is a yumpus. Every yumpus is sweet. Each yumpus is an impus. Impuses are liquid. Impuses are wumpuses. Wumpuses are large. Each wumpus is a numpus. Numpuses are not cold. Numpuses are rompuses. Each rompus is dull. Every rompus is a dumpus. Fae is a wumpus. True or false: Fae is not cold.
+A: Fae is a wumpus. Each wumpus is a numpus. Fae is a numpus. Numpuses are not cold. Fae is not cold. True
+
+Q: Each yumpus is hot. Yumpuses are numpuses. Each numpus is transparent. Each numpus is a wumpus. Every wumpus is dull. Each wumpus is a dumpus. Each zumpus is not dull. Dumpuses are blue. Dumpuses are impuses. Impuses are floral. Every impus is a vumpus. Vumpuses are not nervous. Each vumpus is a jompus. Max is a numpus. True or false: Max is dull.
+A: Max is a numpus. Each numpus is a wumpus. Max is a wumpus. Every wumpus is dull. Max is dull. True
+
+Q: Tumpuses are hot. Tumpuses are numpuses. Numpuses are large. Every numpus is a wumpus. Wumpuses are red. Wumpuses are yumpuses. Yumpuses are not dull. Vumpuses are not large. Yumpuses are jompuses. Jompuses are spicy. Jompuses are rompuses. Every rompus is not transparent. Rompuses are impuses. Max is a tumpus. True or false: Max is not large.
+A: Max is a tumpus. Tumpuses are numpuses. Max is a numpus. Numpuses are large. Max is large. False
+
+Q: Every wumpus is floral. Wumpuses are tumpuses. Tumpuses are not hot. Each tumpus is a jompus. Every jompus is brown. Every dumpus is not brown. Every jompus is an impus. Every impus is liquid. Each impus is a rompus. Rompuses are not feisty. Every rompus is a vumpus. Vumpuses are transparent. Vumpuses are zumpuses. Zumpuses are not angry. Every zumpus is a numpus. Alex is a tumpus. True or false: Alex is brown.
+A: Alex is a tumpus. Each tumpus is a jompus. Alex is a jompus. Every jompus is brown. Alex is brown. True
+
+Q: Every jompus is not cold. Every impus is not floral. Each jompus is a rompus. Every rompus is orange. Rompuses are dumpuses. Dumpuses are floral. Dumpuses are zumpuses. Each zumpus is dull. Zumpuses are numpuses. Rex is a rompus. True or false: Rex is not floral.
+A: Rex is a rompus. Rompuses are dumpuses. Rex is a dumpus. Dumpuses are floral. Rex is floral. False
+
+Q: Each numpus is not cold. Numpuses are tumpuses. Each tumpus is metallic. Every tumpus is a yumpus. Yumpuses are opaque. Each yumpus is a zumpus. Every dumpus is large. Each zumpus is happy. Each zumpus is a jompus. Every jompus is sweet. Every jompus is an impus. Each impus is not dull. Impuses are wumpuses. Wumpuses are not large. Each wumpus is a vumpus. Vumpuses are fruity. Every vumpus is a rompus. Wren is an impus. True or false: Wren is large.
+A: Wren is an impus. Impuses are wumpuses. Wren is a wumpus. Wumpuses are not large. Wren is not large. False
+
+Q: Every rompus is opaque. Every rompus is a yumpus. Every yumpus is small. Each yumpus is a zumpus. Every zumpus is sweet. Zumpuses are wumpuses. Wumpuses are blue. Wumpuses are numpuses. Every numpus is earthy. Numpuses are dumpuses. Dumpuses are kind. Dumpuses are vumpuses. Every vumpus is not dull. Every vumpus is a jompus. Jompuses are cold. Each tumpus is not small. Jompuses are impuses. Polly is a rompus. True or false: Polly is small.
+A: Polly is a rompus. Every rompus is a yumpus. Polly is a yumpus. Every yumpus is small. Polly is small. True
+
+Q: Rompuses are not small. Each rompus is a yumpus. Every yumpus is bright. Yumpuses are tumpuses. Every tumpus is orange. Tumpuses are impuses. Each impus is not transparent. Impuses are wumpuses. Each wumpus is aggressive. Wumpuses are dumpuses. Every numpus is not aggressive. Every dumpus is wooden. Dumpuses are zumpuses. Zumpuses are fruity. Every zumpus is a jompus. Every jompus is bitter. Jompuses are vumpuses. Sam is an impus. True or false: Sam is aggressive.
+A: Sam is an impus. Impuses are wumpuses. Sam is a wumpus. Each wumpus is aggressive. Sam is aggressive. True
+
+Q: Each yumpus is opaque. Yumpuses are zumpuses. Every zumpus is not small. Each zumpus is an impus. Every numpus is earthy. Impuses are red. Each impus is a vumpus. Vumpuses are metallic. Each vumpus is a jompus. Each jompus is spicy. Every jompus is a wumpus. Every wumpus is not earthy. Every wumpus is a tumpus. Tumpuses are aggressive. Each tumpus is a rompus. Rompuses are dull. Rompuses are dumpuses. Sam is a jompus. True or false: Sam is not earthy.
+A:
+
+Predicted answer: Sam is a jompus. Jompuses are spicy. Sam is spicy. Sam is not earthy. False
+
+Q:
+
+Expected answer: Sam is a jompus. Every jompus is a wumpus. Sam is a wumpus. Every wumpus is not earthy. Sam is not earthy.
+ True
+n: 8, (beta prior) mean: 0.1, 95% lower bound: 0.002809136746599214, 95% upper bound: 0.3362671168799428
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are bright. Wumpuses are impuses. Impuses are large. Rompuses are not opaque. Impuses are yumpuses. Yumpuses are not mean. Yumpuses are numpuses. Numpuses are not red. Every numpus is a vumpus. Vumpuses are hot. Each vumpus is a tumpus. Each tumpus is luminous. Tumpuses are jompuses. Jompuses are opaque. Jompuses are dumpuses. Every dumpus is bitter. Every dumpus is a zumpus. Stella is a tumpus. True or false: Stella is opaque.
+A: Stella is a tumpus. Tumpuses are jompuses. Stella is a jompus. Jompuses are opaque. Stella is opaque. True
+
+Q: Every numpus is temperate. Numpuses are zumpuses. Every jompus is not dull. Zumpuses are not large. Zumpuses are vumpuses. Each vumpus is transparent. Vumpuses are dumpuses. Dumpuses are happy. Dumpuses are tumpuses. Every tumpus is red. Each tumpus is an impus. Impuses are not earthy. Every impus is a yumpus. Yumpuses are mean. Every yumpus is a wumpus. Wumpuses are dull. Wumpuses are rompuses. Max is a yumpus. True or false: Max is dull.
+A: Max is a yumpus. Every yumpus is a wumpus. Max is a wumpus. Wumpuses are dull. Max is dull. True
+
+Q: Numpuses are large. Numpuses are dumpuses. Every dumpus is dull. Dumpuses are impuses. Yumpuses are shy. Impuses are not shy. Each impus is a vumpus. Every vumpus is not amenable. Vumpuses are zumpuses. Wren is a dumpus. True or false: Wren is not shy.
+A: Wren is a dumpus. Dumpuses are impuses. Wren is an impus. Impuses are not shy. Wren is not shy. True
+
+Q: Each dumpus is wooden. Dumpuses are zumpuses. Zumpuses are opaque. Each zumpus is a vumpus. Every vumpus is not hot. Each vumpus is a rompus. Every jompus is dull. Each rompus is not orange. Rompuses are tumpuses. Each tumpus is not small. Tumpuses are yumpuses. Yumpuses are not dull. Yumpuses are impuses. Impuses are nervous. Each impus is a numpus. Each numpus is kind. Numpuses are wumpuses. Wren is a tumpus. True or false: Wren is dull.
+A: Wren is a tumpus. Tumpuses are yumpuses. Wren is a yumpus. Yumpuses are not dull. Wren is not dull. False
+
+Q: Numpuses are hot. Rompuses are not transparent. Numpuses are tumpuses. Every tumpus is transparent. Tumpuses are vumpuses. Vumpuses are nervous. Every vumpus is an impus. Impuses are not earthy. Impuses are wumpuses. Wumpuses are metallic. Wumpuses are dumpuses. Dumpuses are sour. Each dumpus is a jompus. Jompuses are not red. Jompuses are zumpuses. Rex is a numpus. True or false: Rex is transparent.
+A: Rex is a numpus. Numpuses are tumpuses. Rex is a tumpus. Every tumpus is transparent. Rex is transparent. True
+
+Q: Zumpuses are not transparent. Every zumpus is a wumpus. Wumpuses are not liquid. Every wumpus is a vumpus. Vumpuses are temperate. Vumpuses are tumpuses. Tumpuses are earthy. Each yumpus is not earthy. Tumpuses are jompuses. Jompuses are large. Jompuses are impuses. Each impus is aggressive. Every impus is a dumpus. Every dumpus is feisty. Dumpuses are rompuses. Rompuses are dull. Every rompus is a numpus. Rex is a vumpus. True or false: Rex is earthy.
+A: Rex is a vumpus. Vumpuses are tumpuses. Rex is a tumpus. Tumpuses are earthy. Rex is earthy. True
+
+Q: Every tumpus is not angry. Tumpuses are vumpuses. Every yumpus is not bright. Each vumpus is large. Each vumpus is a jompus. Jompuses are bitter. Jompuses are wumpuses. Wumpuses are opaque. Wumpuses are zumpuses. Zumpuses are feisty. Every zumpus is a rompus. Every rompus is cold. Each rompus is a dumpus. Every dumpus is orange. Each dumpus is a numpus. Every numpus is bright. Every numpus is an impus. Fae is a dumpus. True or false: Fae is bright.
+A: Fae is a dumpus. Each dumpus is a numpus. Fae is a numpus. Every numpus is bright. Fae is bright. True
+
+Q: Vumpuses are not kind. Every vumpus is a rompus. Each zumpus is not bitter. Rompuses are bitter. Rompuses are wumpuses. Rex is a vumpus. True or false: Rex is not bitter.
+A: Rex is a vumpus. Every vumpus is a rompus. Rex is a rompus. Rompuses are bitter. Rex is bitter. False
+
+Q: Numpuses are luminous. Numpuses are wumpuses. Tumpuses are cold. Wumpuses are not blue. Each wumpus is a yumpus. Every yumpus is not cold. Each yumpus is a vumpus. Every vumpus is not opaque. Vumpuses are impuses. Impuses are bright. Impuses are dumpuses. Each dumpus is not shy. Every dumpus is a jompus. Jompuses are not small. Jompuses are zumpuses. Every zumpus is spicy. Zumpuses are rompuses. Alex is a wumpus. True or false: Alex is cold.
+A:
+
+Predicted answer: Alex is a wumpus. Wumpuses are not blue. Alex is not blue. False
+
+Q:
+
+Expected answer: Alex is a wumpus. Each wumpus is a yumpus. Alex is a yumpus. Every yumpus is not cold. Alex is not cold.
+ False
+n: 9, (beta prior) mean: 0.09090909090909091, 95% lower bound: 0.0025285785444617848, 95% upper bound: 0.3084971078187608
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are orange. Vumpuses are numpuses. Every numpus is fruity. Every numpus is a rompus. Each rompus is happy. Rompuses are jompuses. Jompuses are bright. Each zumpus is not cold. Jompuses are tumpuses. Every tumpus is opaque. Tumpuses are dumpuses. Dumpuses are not spicy. Dumpuses are impuses. Impuses are cold. Impuses are yumpuses. Yumpuses are angry. Every yumpus is a wumpus. Sam is a dumpus. True or false: Sam is not cold.
+A: Sam is a dumpus. Dumpuses are impuses. Sam is an impus. Impuses are cold. Sam is cold. False
+
+Q: Rompuses are mean. Rompuses are dumpuses. Dumpuses are not cold. Wumpuses are cold. Dumpuses are yumpuses. Fae is a rompus. True or false: Fae is not cold.
+A: Fae is a rompus. Rompuses are dumpuses. Fae is a dumpus. Dumpuses are not cold. Fae is not cold. True
+
+Q: Every wumpus is earthy. Wumpuses are numpuses. Numpuses are spicy. Each numpus is a zumpus. Each zumpus is happy. Every zumpus is a yumpus. Each yumpus is red. Every jompus is not red. Every yumpus is a rompus. Rompuses are not small. Every rompus is a tumpus. Tumpuses are not amenable. Every tumpus is a dumpus. Wren is a zumpus. True or false: Wren is red.
+A: Wren is a zumpus. Every zumpus is a yumpus. Wren is a yumpus. Each yumpus is red. Wren is red. True
+
+Q: Vumpuses are large. Each vumpus is an impus. Impuses are not spicy. Every tumpus is spicy. Impuses are jompuses. Jompuses are floral. Each jompus is a dumpus. Wren is a vumpus. True or false: Wren is spicy.
+A: Wren is a vumpus. Each vumpus is an impus. Wren is an impus. Impuses are not spicy. Wren is not spicy. False
+
+Q: Dumpuses are not brown. Yumpuses are sour. Yumpuses are impuses. Impuses are not bright. Every impus is a jompus. Every jompus is liquid. Each jompus is a numpus. Each numpus is floral. Each numpus is a zumpus. Every zumpus is large. Zumpuses are wumpuses. Each wumpus is brown. Every wumpus is a vumpus. Vumpuses are angry. Vumpuses are tumpuses. Each tumpus is transparent. Tumpuses are rompuses. Rex is a zumpus. True or false: Rex is brown.
+A: Rex is a zumpus. Zumpuses are wumpuses. Rex is a wumpus. Each wumpus is brown. Rex is brown. True
+
+Q: Each dumpus is small. Each numpus is transparent. Numpuses are jompuses. Jompuses are happy. Jompuses are impuses. Every impus is not hot. Impuses are vumpuses. Vumpuses are sweet. Vumpuses are rompuses. Rompuses are not small. Each rompus is a yumpus. Yumpuses are wooden. Every yumpus is a tumpus. Every tumpus is fruity. Tumpuses are wumpuses. Every wumpus is bright. Every wumpus is a zumpus. Wren is a vumpus. True or false: Wren is not small.
+A: Wren is a vumpus. Vumpuses are rompuses. Wren is a rompus. Rompuses are not small. Wren is not small. True
+
+Q: Every wumpus is not orange. Vumpuses are fruity. Each wumpus is an impus. Impuses are not sweet. Each impus is a tumpus. Every tumpus is not aggressive. Tumpuses are dumpuses. Dumpuses are not feisty. Dumpuses are numpuses. Every numpus is not fruity. Numpuses are zumpuses. Alex is a dumpus. True or false: Alex is fruity.
+A: Alex is a dumpus. Dumpuses are numpuses. Alex is a numpus. Every numpus is not fruity. Alex is not fruity. False
+
+Q: Yumpuses are not cold. Each yumpus is a numpus. Rompuses are not large. Each numpus is large. Numpuses are impuses. Every impus is bitter. Impuses are vumpuses. Vumpuses are red. Each vumpus is a wumpus. Wumpuses are not opaque. Wumpuses are tumpuses. Tumpuses are bright. Every tumpus is a zumpus. Zumpuses are luminous. Zumpuses are jompuses. Each jompus is fruity. Jompuses are dumpuses. Sam is a yumpus. True or false: Sam is large.
+A: Sam is a yumpus. Each yumpus is a numpus. Sam is a numpus. Each numpus is large. Sam is large. True
+
+Q: Rompuses are not spicy. Every rompus is a zumpus. Zumpuses are dull. Zumpuses are tumpuses. Tumpuses are not transparent. Each tumpus is a vumpus. Vumpuses are cold. Every vumpus is a numpus. Numpuses are feisty. Numpuses are yumpuses. Every yumpus is not liquid. Each yumpus is a wumpus. Wumpuses are earthy. Each wumpus is an impus. Dumpuses are not dull. Impuses are not large. Each impus is a jompus. Sally is a rompus. True or false: Sally is dull.
+A:
+
+Predicted answer: Sally is a rompus. Every rompus is a zumpus. Sally is a zumpus. Zumpuses are dull. Sally is not dull. False
+
+Q:
+
+Expected answer: Sally is a rompus. Every rompus is a zumpus. Sally is a zumpus. Zumpuses are dull. Sally is dull.
+ True
+n: 10, (beta prior) mean: 0.08333333333333333, 95% lower bound: 0.002298972213814267, 95% upper bound: 0.28491415291815436
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is not cold. Numpuses are not spicy. Numpuses are rompuses. Each rompus is small. Every rompus is a jompus. Jompuses are floral. Jompuses are tumpuses. Tumpuses are cold. Every tumpus is a dumpus. Each dumpus is nervous. Dumpuses are yumpuses. Yumpuses are not amenable. Yumpuses are impuses. Impuses are not red. Impuses are zumpuses. Wren is a jompus. True or false: Wren is cold.
+A: Wren is a jompus. Jompuses are tumpuses. Wren is a tumpus. Tumpuses are cold. Wren is cold. True
+
+Q: Zumpuses are small. Zumpuses are jompuses. Jompuses are hot. Jompuses are impuses. Every vumpus is not hot. Stella is a zumpus. True or false: Stella is not hot.
+A: Stella is a zumpus. Zumpuses are jompuses. Stella is a jompus. Jompuses are hot. Stella is hot. False
+
+Q: Numpuses are sour. Numpuses are rompuses. Every rompus is bright. Each rompus is an impus. Every impus is large. Each impus is a tumpus. Zumpuses are not earthy. Tumpuses are cold. Every tumpus is a wumpus. Every wumpus is not shy. Wumpuses are dumpuses. Every dumpus is not opaque. Dumpuses are jompuses. Every jompus is angry. Jompuses are yumpuses. Yumpuses are earthy. Yumpuses are vumpuses. Polly is a jompus. True or false: Polly is not earthy.
+A: Polly is a jompus. Jompuses are yumpuses. Polly is a yumpus. Yumpuses are earthy. Polly is earthy. False
+
+Q: Each rompus is dull. Rompuses are tumpuses. Impuses are not floral. Tumpuses are liquid. Tumpuses are wumpuses. Every wumpus is not spicy. Every wumpus is a vumpus. Each vumpus is shy. Every vumpus is a numpus. Numpuses are floral. Each numpus is a zumpus. Every zumpus is blue. Zumpuses are jompuses. Each jompus is opaque. Every jompus is a dumpus. Dumpuses are not mean. Dumpuses are yumpuses. Wren is a vumpus. True or false: Wren is floral.
+A: Wren is a vumpus. Every vumpus is a numpus. Wren is a numpus. Numpuses are floral. Wren is floral. True
+
+Q: Each tumpus is brown. Tumpuses are dumpuses. Each dumpus is not temperate. Dumpuses are vumpuses. Each vumpus is large. Each vumpus is a wumpus. Each wumpus is angry. Every wumpus is a numpus. Every numpus is not sweet. Numpuses are zumpuses. Each impus is sweet. Every zumpus is opaque. Zumpuses are jompuses. Each jompus is floral. Jompuses are rompuses. Every rompus is not shy. Each rompus is a yumpus. Sally is a wumpus. True or false: Sally is not sweet.
+A: Sally is a wumpus. Every wumpus is a numpus. Sally is a numpus. Every numpus is not sweet. Sally is not sweet. True
+
+Q: Vumpuses are earthy. Vumpuses are numpuses. Numpuses are not orange. Each numpus is a jompus. Dumpuses are orange. Jompuses are amenable. Jompuses are wumpuses. Wumpuses are dull. Wumpuses are zumpuses. Alex is a vumpus. True or false: Alex is not orange.
+A: Alex is a vumpus. Vumpuses are numpuses. Alex is a numpus. Numpuses are not orange. Alex is not orange. True
+
+Q: Vumpuses are not large. Vumpuses are rompuses. Every rompus is blue. Rompuses are dumpuses. Every dumpus is not mean. Each dumpus is a jompus. Each jompus is liquid. Every jompus is a yumpus. Yumpuses are opaque. Yumpuses are wumpuses. Every wumpus is bright. Wumpuses are numpuses. Every numpus is floral. Every numpus is an impus. Impuses are not cold. Impuses are zumpuses. Tumpuses are mean. Sally is a rompus. True or false: Sally is not mean.
+A: Sally is a rompus. Rompuses are dumpuses. Sally is a dumpus. Every dumpus is not mean. Sally is not mean. True
+
+Q: Numpuses are not feisty. Each numpus is a yumpus. Yumpuses are small. Every yumpus is a zumpus. Every zumpus is not liquid. Each zumpus is an impus. Each impus is spicy. Impuses are jompuses. Jompuses are brown. Jompuses are vumpuses. Every vumpus is not dull. Vumpuses are rompuses. Each rompus is not transparent. Rompuses are wumpuses. Each wumpus is hot. Every wumpus is a dumpus. Tumpuses are liquid. Rex is a yumpus. True or false: Rex is liquid.
+A: Rex is a yumpus. Every yumpus is a zumpus. Rex is a zumpus. Every zumpus is not liquid. Rex is not liquid. False
+
+Q: Numpuses are sour. Numpuses are dumpuses. Tumpuses are not hot. Every dumpus is large. Dumpuses are zumpuses. Every zumpus is metallic. Zumpuses are yumpuses. Yumpuses are not red. Yumpuses are vumpuses. Each vumpus is hot. Every vumpus is a rompus. Rex is a yumpus. True or false: Rex is not hot.
+A:
+
+Predicted answer: Rex is a yumpus. Every yumpus is a zumpus. Rex is a zumpus. Every zumpus is metallic. Rex is not hot. False
+
+Q:
+
+Expected answer: Rex is a yumpus. Yumpuses are vumpuses. Rex is a vumpus. Each vumpus is hot. Rex is hot.
+ False
+n: 11, (beta prior) mean: 0.07692307692307693, 95% lower bound: 0.0021075932318602264, 95% upper bound: 0.26464846939705117
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each tumpus is dull. Every jompus is hot. Every jompus is a wumpus. Wumpuses are not metallic. Wumpuses are vumpuses. Each vumpus is not dull. Vumpuses are rompuses. Rompuses are not floral. Every rompus is an impus. Every impus is large. Each impus is a numpus. Numpuses are not amenable. Numpuses are zumpuses. Zumpuses are sweet. Zumpuses are dumpuses. Dumpuses are not transparent. Each dumpus is a yumpus. Wren is a wumpus. True or false: Wren is dull.
+A: Wren is a wumpus. Wumpuses are vumpuses. Wren is a vumpus. Each vumpus is not dull. Wren is not dull. False
+
+Q: Tumpuses are not bright. Tumpuses are wumpuses. Each wumpus is not feisty. Wumpuses are numpuses. Each numpus is opaque. Every numpus is a vumpus. Impuses are feisty. Wren is a tumpus. True or false: Wren is not feisty.
+A: Wren is a tumpus. Tumpuses are wumpuses. Wren is a wumpus. Each wumpus is not feisty. Wren is not feisty. True
+
+Q: Rompuses are not earthy. Rompuses are jompuses. Every jompus is not small. Jompuses are tumpuses. Every tumpus is not bright. Every tumpus is a numpus. Numpuses are cold. Numpuses are wumpuses. Every vumpus is not orange. Wumpuses are opaque. Wumpuses are impuses. Each impus is orange. Each impus is a zumpus. Zumpuses are happy. Zumpuses are dumpuses. Polly is a wumpus. True or false: Polly is not orange.
+A: Polly is a wumpus. Wumpuses are impuses. Polly is an impus. Each impus is orange. Polly is orange. False
+
+Q: Rompuses are brown. Each rompus is a dumpus. Every dumpus is dull. Dumpuses are wumpuses. Tumpuses are not dull. Each wumpus is not fruity. Wumpuses are zumpuses. Every zumpus is transparent. Every zumpus is an impus. Sam is a rompus. True or false: Sam is not dull.
+A: Sam is a rompus. Each rompus is a dumpus. Sam is a dumpus. Every dumpus is dull. Sam is dull. False
+
+Q: Numpuses are floral. Numpuses are yumpuses. Every yumpus is not spicy. Every yumpus is a rompus. Each rompus is brown. Rompuses are wumpuses. Every wumpus is nervous. Every wumpus is a zumpus. Vumpuses are not nervous. Stella is a rompus. True or false: Stella is nervous.
+A: Stella is a rompus. Rompuses are wumpuses. Stella is a wumpus. Every wumpus is nervous. Stella is nervous. True
+
+Q: Each numpus is bitter. Numpuses are zumpuses. Zumpuses are metallic. Zumpuses are jompuses. Jompuses are large. Each jompus is an impus. Impuses are floral. Every impus is a dumpus. Dumpuses are transparent. Every dumpus is a vumpus. Every vumpus is nervous. Each vumpus is a wumpus. Each wumpus is aggressive. Each wumpus is a rompus. Rompuses are not blue. Yumpuses are not floral. Rompuses are tumpuses. Max is a jompus. True or false: Max is floral.
+A: Max is a jompus. Each jompus is an impus. Max is an impus. Impuses are floral. Max is floral. True
+
+Q: Numpuses are transparent. Numpuses are dumpuses. Every dumpus is fruity. Dumpuses are tumpuses. Tumpuses are temperate. Tumpuses are jompuses. Each impus is not shy. Every jompus is shy. Every jompus is a wumpus. Wumpuses are red. Every wumpus is a vumpus. Vumpuses are not small. Every vumpus is a yumpus. Every yumpus is liquid. Yumpuses are zumpuses. Stella is a tumpus. True or false: Stella is not shy.
+A: Stella is a tumpus. Tumpuses are jompuses. Stella is a jompus. Every jompus is shy. Stella is shy. False
+
+Q: Wumpuses are blue. Wumpuses are jompuses. Every jompus is not opaque. Each jompus is a rompus. Every rompus is not fruity. Every rompus is a zumpus. Zumpuses are dull. Every zumpus is a vumpus. Vumpuses are not small. Every vumpus is a numpus. Dumpuses are fruity. Each numpus is not nervous. Each numpus is a yumpus. Every yumpus is not mean. Each yumpus is an impus. Impuses are temperate. Every impus is a tumpus. Fae is a jompus. True or false: Fae is not fruity.
+A: Fae is a jompus. Each jompus is a rompus. Fae is a rompus. Every rompus is not fruity. Fae is not fruity. True
+
+Q: Each wumpus is blue. Wumpuses are numpuses. Every numpus is nervous. Each numpus is a yumpus. Each yumpus is not wooden. Every rompus is wooden. Yumpuses are zumpuses. Max is a numpus. True or false: Max is not wooden.
+A:
+
+Predicted answer: Max is a numpus. Each numpus is a yumpus. Max is a yumpus. Every yumpus is not wooden. Max is not wooden. False
+
+Q:
+
+Expected answer: Max is a numpus. Each numpus is a yumpus. Max is a yumpus. Each yumpus is not wooden. Max is not wooden.
+ True
+n: 12, (beta prior) mean: 0.07142857142857142, 95% lower bound: 0.0019456284973467482, 95% upper bound: 0.24705263800047092
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every zumpus is not sweet. Numpuses are not large. Every numpus is a rompus. Rompuses are sweet. Rompuses are wumpuses. Wumpuses are hot. Wumpuses are impuses. Impuses are not nervous. Each impus is a jompus. Every jompus is bright. Every jompus is a yumpus. Max is a numpus. True or false: Max is sweet.
+A: Max is a numpus. Every numpus is a rompus. Max is a rompus. Rompuses are sweet. Max is sweet. True
+
+Q: Jompuses are temperate. Jompuses are vumpuses. Vumpuses are fruity. Vumpuses are zumpuses. Each zumpus is not mean. Each zumpus is an impus. Impuses are metallic. Impuses are tumpuses. Numpuses are mean. Every tumpus is small. Tumpuses are rompuses. Rompuses are transparent. Each rompus is a dumpus. Each dumpus is sour. Each dumpus is a yumpus. Max is a vumpus. True or false: Max is not mean.
+A: Max is a vumpus. Vumpuses are zumpuses. Max is a zumpus. Each zumpus is not mean. Max is not mean. True
+
+Q: Each zumpus is fruity. Each impus is transparent. Every zumpus is a tumpus. Tumpuses are metallic. Tumpuses are rompuses. Rompuses are sour. Each rompus is a jompus. Jompuses are not small. Every jompus is a vumpus. Each vumpus is happy. Each vumpus is a numpus. Numpuses are hot. Every numpus is a dumpus. Dumpuses are amenable. Dumpuses are wumpuses. Wumpuses are not transparent. Every wumpus is a yumpus. Max is a dumpus. True or false: Max is not transparent.
+A: Max is a dumpus. Dumpuses are wumpuses. Max is a wumpus. Wumpuses are not transparent. Max is not transparent. True
+
+Q: Zumpuses are not fruity. Each zumpus is a wumpus. Each wumpus is aggressive. Wumpuses are rompuses. Every rompus is opaque. Each rompus is a tumpus. Every tumpus is not cold. Tumpuses are numpuses. Each numpus is liquid. Each numpus is a yumpus. Yumpuses are dull. Each yumpus is a jompus. Jompuses are not sweet. Jompuses are vumpuses. Vumpuses are not shy. Dumpuses are not liquid. Each vumpus is an impus. Max is a tumpus. True or false: Max is liquid.
+A: Max is a tumpus. Tumpuses are numpuses. Max is a numpus. Each numpus is liquid. Max is liquid. True
+
+Q: Tumpuses are red. Tumpuses are vumpuses. Vumpuses are large. Each vumpus is a wumpus. Wumpuses are not hot. Each wumpus is a numpus. Each numpus is bright. Every numpus is a yumpus. Yumpuses are not sour. Each yumpus is a dumpus. Every zumpus is transparent. Every dumpus is not floral. Every dumpus is a jompus. Jompuses are not transparent. Jompuses are impuses. Impuses are not aggressive. Every impus is a rompus. Fae is a dumpus. True or false: Fae is transparent.
+A: Fae is a dumpus. Every dumpus is a jompus. Fae is a jompus. Jompuses are not transparent. Fae is not transparent. False
+
+Q: Dumpuses are shy. Dumpuses are wumpuses. Zumpuses are not bright. Wumpuses are angry. Wumpuses are jompuses. Jompuses are not luminous. Jompuses are vumpuses. Vumpuses are bright. Every vumpus is a rompus. Max is a jompus. True or false: Max is not bright.
+A: Max is a jompus. Jompuses are vumpuses. Max is a vumpus. Vumpuses are bright. Max is bright. False
+
+Q: Rompuses are not transparent. Each rompus is a numpus. Vumpuses are not earthy. Numpuses are not orange. Numpuses are zumpuses. Every zumpus is not spicy. Zumpuses are tumpuses. Tumpuses are aggressive. Tumpuses are wumpuses. Every wumpus is not small. Wumpuses are dumpuses. Dumpuses are not luminous. Each dumpus is a yumpus. Yumpuses are bright. Each yumpus is an impus. Impuses are earthy. Each impus is a jompus. Wren is a yumpus. True or false: Wren is not earthy.
+A: Wren is a yumpus. Each yumpus is an impus. Wren is an impus. Impuses are earthy. Wren is earthy. False
+
+Q: Jompuses are not dull. Jompuses are vumpuses. Each vumpus is not luminous. Each vumpus is a yumpus. Every yumpus is not feisty. Yumpuses are wumpuses. Wumpuses are sweet. Wumpuses are tumpuses. Each zumpus is luminous. Each tumpus is large. Tumpuses are dumpuses. Each dumpus is amenable. Every dumpus is an impus. Impuses are not transparent. Each impus is a rompus. Every rompus is cold. Rompuses are numpuses. Sam is a jompus. True or false: Sam is not luminous.
+A: Sam is a jompus. Jompuses are vumpuses. Sam is a vumpus. Each vumpus is not luminous. Sam is not luminous. True
+
+Q: Each dumpus is hot. Each dumpus is a jompus. Each jompus is aggressive. Every jompus is an impus. Impuses are sour. Every impus is a yumpus. Every yumpus is opaque. Yumpuses are rompuses. Tumpuses are not opaque. Each rompus is large. Rompuses are zumpuses. Alex is an impus. True or false: Alex is opaque.
+A:
+
+Predicted answer: Alex is an impus. Impuses are sour. Alex is sour. False
+
+Q:
+
+Expected answer: Alex is an impus. Every impus is a yumpus. Alex is a yumpus. Every yumpus is opaque. Alex is opaque.
+ True
+n: 13, (beta prior) mean: 0.06666666666666667, 95% lower bound: 0.0018067806591253865, 95% upper bound: 0.23163576165011643
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are transparent. Wumpuses are tumpuses. Each tumpus is not shy. Tumpuses are vumpuses. Rompuses are aggressive. Vumpuses are not aggressive. Every vumpus is an impus. Rex is a tumpus. True or false: Rex is not aggressive.
+A: Rex is a tumpus. Tumpuses are vumpuses. Rex is a vumpus. Vumpuses are not aggressive. Rex is not aggressive. True
+
+Q: Jompuses are amenable. Jompuses are impuses. Every impus is opaque. Every impus is a yumpus. Every yumpus is temperate. Yumpuses are dumpuses. Every dumpus is fruity. Dumpuses are numpuses. Numpuses are dull. Numpuses are zumpuses. Zumpuses are not sour. Zumpuses are rompuses. Rompuses are large. Every rompus is a wumpus. Vumpuses are not large. Each wumpus is not liquid. Wumpuses are tumpuses. Polly is a zumpus. True or false: Polly is not large.
+A: Polly is a zumpus. Zumpuses are rompuses. Polly is a rompus. Rompuses are large. Polly is large. False
+
+Q: Tumpuses are cold. Tumpuses are impuses. Each impus is sour. Impuses are vumpuses. Each vumpus is metallic. Vumpuses are rompuses. Rompuses are large. Each zumpus is not sour. Rompuses are wumpuses. Max is a tumpus. True or false: Max is not sour.
+A: Max is a tumpus. Tumpuses are impuses. Max is an impus. Each impus is sour. Max is sour. False
+
+Q: Impuses are not wooden. Every jompus is amenable. Impuses are wumpuses. Wumpuses are shy. Every wumpus is a zumpus. Every zumpus is not amenable. Every zumpus is a rompus. Every rompus is not temperate. Rompuses are yumpuses. Rex is a wumpus. True or false: Rex is not amenable.
+A: Rex is a wumpus. Every wumpus is a zumpus. Rex is a zumpus. Every zumpus is not amenable. Rex is not amenable. True
+
+Q: Each numpus is cold. Each numpus is a wumpus. Wumpuses are not feisty. Each wumpus is a jompus. Tumpuses are feisty. Every jompus is not opaque. Jompuses are yumpuses. Polly is a numpus. True or false: Polly is not feisty.
+A: Polly is a numpus. Each numpus is a wumpus. Polly is a wumpus. Wumpuses are not feisty. Polly is not feisty. True
+
+Q: Impuses are hot. Numpuses are earthy. Every impus is a jompus. Jompuses are not nervous. Jompuses are wumpuses. Each wumpus is mean. Wumpuses are zumpuses. Every zumpus is wooden. Each zumpus is a yumpus. Every yumpus is orange. Every yumpus is a dumpus. Dumpuses are small. Dumpuses are vumpuses. Vumpuses are dull. Vumpuses are tumpuses. Tumpuses are not earthy. Each tumpus is a rompus. Rex is a vumpus. True or false: Rex is earthy.
+A: Rex is a vumpus. Vumpuses are tumpuses. Rex is a tumpus. Tumpuses are not earthy. Rex is not earthy. False
+
+Q: Rompuses are bright. Every rompus is a tumpus. Every tumpus is transparent. Tumpuses are wumpuses. Wumpuses are small. Wumpuses are numpuses. Each numpus is kind. Numpuses are dumpuses. Each dumpus is not sweet. Every dumpus is a yumpus. Each yumpus is not orange. Each zumpus is not kind. Every yumpus is an impus. Wren is a wumpus. True or false: Wren is not kind.
+A: Wren is a wumpus. Wumpuses are numpuses. Wren is a numpus. Each numpus is kind. Wren is kind. False
+
+Q: Vumpuses are not large. Jompuses are sweet. Jompuses are dumpuses. Dumpuses are large. Dumpuses are numpuses. Stella is a jompus. True or false: Stella is large.
+A: Stella is a jompus. Jompuses are dumpuses. Stella is a dumpus. Dumpuses are large. Stella is large. True
+
+Q: Each jompus is small. Each jompus is a dumpus. Every dumpus is metallic. Each dumpus is a yumpus. Every yumpus is bright. Each yumpus is a tumpus. Tumpuses are orange. Tumpuses are zumpuses. Zumpuses are not kind. Zumpuses are vumpuses. Numpuses are not bright. Each vumpus is fruity. Vumpuses are impuses. Polly is a dumpus. True or false: Polly is not bright.
+A:
+
+Predicted answer: Polly is a dumpus. Each dumpus is a yumpus. Polly is a yumpus. Every yumpus is bright. Polly is bright. False
+
+Q:
+
+Expected answer: Polly is a dumpus. Each dumpus is a yumpus. Polly is a yumpus. Every yumpus is bright. Polly is bright.
+ False
+n: 14, (beta prior) mean: 0.0625, 95% lower bound: 0.0016864302413527015, 95% upper bound: 0.2180193609105339
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each rompus is not happy. Each rompus is a tumpus. Every tumpus is luminous. Each numpus is blue. Every tumpus is a vumpus. Each vumpus is large. Vumpuses are dumpuses. Each dumpus is not amenable. Dumpuses are wumpuses. Every wumpus is dull. Every wumpus is a yumpus. Yumpuses are not blue. Yumpuses are jompuses. Wren is a wumpus. True or false: Wren is blue.
+A: Wren is a wumpus. Every wumpus is a yumpus. Wren is a yumpus. Yumpuses are not blue. Wren is not blue. False
+
+Q: Every jompus is sour. Every jompus is a rompus. Each wumpus is not angry. Every rompus is angry. Rompuses are numpuses. Every numpus is dull. Numpuses are impuses. Impuses are not transparent. Each impus is a yumpus. Each yumpus is hot. Yumpuses are dumpuses. Sam is a jompus. True or false: Sam is not angry.
+A: Sam is a jompus. Every jompus is a rompus. Sam is a rompus. Every rompus is angry. Sam is angry. False
+
+Q: Numpuses are sweet. Numpuses are jompuses. Zumpuses are dull. Each jompus is not dull. Every jompus is an impus. Each impus is transparent. Impuses are yumpuses. Alex is a numpus. True or false: Alex is not dull.
+A: Alex is a numpus. Numpuses are jompuses. Alex is a jompus. Each jompus is not dull. Alex is not dull. True
+
+Q: Rompuses are not feisty. Every rompus is an impus. Impuses are not earthy. Numpuses are earthy. Impuses are jompuses. Alex is a rompus. True or false: Alex is earthy.
+A: Alex is a rompus. Every rompus is an impus. Alex is an impus. Impuses are not earthy. Alex is not earthy. False
+
+Q: Each yumpus is not red. Every yumpus is a wumpus. Zumpuses are not hot. Every wumpus is not opaque. Wumpuses are tumpuses. Tumpuses are not bright. Tumpuses are numpuses. Each numpus is metallic. Numpuses are vumpuses. Every vumpus is sweet. Every vumpus is an impus. Each impus is hot. Impuses are rompuses. Rompuses are shy. Rompuses are dumpuses. Dumpuses are not small. Each dumpus is a jompus. Rex is a vumpus. True or false: Rex is hot.
+A: Rex is a vumpus. Every vumpus is an impus. Rex is an impus. Each impus is hot. Rex is hot. True
+
+Q: Yumpuses are opaque. Yumpuses are zumpuses. Zumpuses are wooden. Zumpuses are impuses. Impuses are not small. Impuses are wumpuses. Each wumpus is not sour. Every wumpus is a dumpus. Each numpus is not wooden. Wren is a yumpus. True or false: Wren is wooden.
+A: Wren is a yumpus. Yumpuses are zumpuses. Wren is a zumpus. Zumpuses are wooden. Wren is wooden. True
+
+Q: Each numpus is sweet. Numpuses are jompuses. Every jompus is blue. Jompuses are wumpuses. Wumpuses are opaque. Every vumpus is not blue. Wumpuses are zumpuses. Each zumpus is not earthy. Each zumpus is a dumpus. Dumpuses are not amenable. Each dumpus is a yumpus. Polly is a numpus. True or false: Polly is blue.
+A: Polly is a numpus. Numpuses are jompuses. Polly is a jompus. Every jompus is blue. Polly is blue. True
+
+Q: Each impus is not metallic. Impuses are yumpuses. Each yumpus is not opaque. Yumpuses are zumpuses. Every zumpus is bright. Every zumpus is a numpus. Numpuses are large. Each numpus is a vumpus. Vumpuses are feisty. Vumpuses are tumpuses. Each tumpus is not earthy. Rompuses are not bright. Each tumpus is a dumpus. Dumpuses are not aggressive. Dumpuses are jompuses. Stella is a yumpus. True or false: Stella is bright.
+A: Stella is a yumpus. Yumpuses are zumpuses. Stella is a zumpus. Every zumpus is bright. Stella is bright. True
+
+Q: Every jompus is bright. Each jompus is a dumpus. Every dumpus is not aggressive. Dumpuses are yumpuses. Vumpuses are aggressive. Wren is a jompus. True or false: Wren is not aggressive.
+A:
+
+Predicted answer: Wren is a jompus. Every jompus is a dumpus. Wren is a dumpus. Dumpuses are yumpuses. Wren is a yumpus. Wren is aggressive. False
+
+Q:
+
+Expected answer: Wren is a jompus. Each jompus is a dumpus. Wren is a dumpus. Every dumpus is not aggressive. Wren is not aggressive.
+ True
+n: 15, (beta prior) mean: 0.058823529411764705, 95% lower bound: 0.0015811117227658871, 95% upper bound: 0.20590721420782265
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are not earthy. Every wumpus is an impus. Impuses are not sweet. Every impus is a vumpus. Vumpuses are small. Every vumpus is a dumpus. Each jompus is not feisty. Each dumpus is feisty. Each dumpus is a rompus. Rompuses are transparent. Each rompus is a yumpus. Sam is a vumpus. True or false: Sam is feisty.
+A: Sam is a vumpus. Every vumpus is a dumpus. Sam is a dumpus. Each dumpus is feisty. Sam is feisty. True
+
+Q: Jompuses are not large. Every rompus is not dull. Jompuses are yumpuses. Each yumpus is not hot. Every yumpus is an impus. Each impus is blue. Impuses are numpuses. Every numpus is dull. Numpuses are zumpuses. Every zumpus is opaque. Every zumpus is a tumpus. Fae is an impus. True or false: Fae is not dull.
+A: Fae is an impus. Impuses are numpuses. Fae is a numpus. Every numpus is dull. Fae is dull. False
+
+Q: Yumpuses are not earthy. Yumpuses are jompuses. Jompuses are not opaque. Each numpus is brown. Each jompus is an impus. Each impus is not temperate. Impuses are vumpuses. Each vumpus is not small. Vumpuses are dumpuses. Dumpuses are not brown. Dumpuses are wumpuses. Stella is a vumpus. True or false: Stella is brown.
+A: Stella is a vumpus. Vumpuses are dumpuses. Stella is a dumpus. Dumpuses are not brown. Stella is not brown. False
+
+Q: Zumpuses are happy. Every zumpus is an impus. Every impus is bright. Each impus is a dumpus. Every dumpus is opaque. Every dumpus is a wumpus. Wumpuses are not liquid. Wumpuses are vumpuses. Each vumpus is sweet. Each vumpus is a numpus. Numpuses are not large. Every numpus is a rompus. Each rompus is temperate. Each rompus is a jompus. Every tumpus is not bright. Jompuses are brown. Each jompus is a yumpus. Max is a zumpus. True or false: Max is not bright.
+A: Max is a zumpus. Every zumpus is an impus. Max is an impus. Every impus is bright. Max is bright. False
+
+Q: Each rompus is angry. Every rompus is a tumpus. Each tumpus is not shy. Every vumpus is small. Every tumpus is a yumpus. Yumpuses are not small. Each yumpus is a numpus. Fae is a tumpus. True or false: Fae is not small.
+A: Fae is a tumpus. Every tumpus is a yumpus. Fae is a yumpus. Yumpuses are not small. Fae is not small. True
+
+Q: Numpuses are sweet. Each numpus is a dumpus. Every dumpus is brown. Each wumpus is transparent. Each dumpus is a yumpus. Each yumpus is not transparent. Every yumpus is an impus. Every impus is floral. Impuses are vumpuses. Sally is a dumpus. True or false: Sally is transparent.
+A: Sally is a dumpus. Each dumpus is a yumpus. Sally is a yumpus. Each yumpus is not transparent. Sally is not transparent. False
+
+Q: Zumpuses are not small. Every zumpus is an impus. Every impus is opaque. Impuses are jompuses. Every jompus is not brown. Rompuses are brown. Every jompus is a tumpus. Tumpuses are nervous. Tumpuses are dumpuses. Sam is an impus. True or false: Sam is brown.
+A: Sam is an impus. Impuses are jompuses. Sam is a jompus. Every jompus is not brown. Sam is not brown. False
+
+Q: Dumpuses are sweet. Dumpuses are numpuses. Numpuses are not red. Numpuses are tumpuses. Each jompus is red. Wren is a dumpus. True or false: Wren is red.
+A: Wren is a dumpus. Dumpuses are numpuses. Wren is a numpus. Numpuses are not red. Wren is not red. False
+
+Q: Wumpuses are large. Each wumpus is a jompus. Each jompus is hot. Jompuses are vumpuses. Rompuses are not fruity. Vumpuses are fruity. Each vumpus is a zumpus. Zumpuses are blue. Zumpuses are numpuses. Numpuses are sweet. Numpuses are tumpuses. Each tumpus is not aggressive. Each tumpus is an impus. Impuses are happy. Every impus is a yumpus. Each yumpus is liquid. Every yumpus is a dumpus. Max is a jompus. True or false: Max is not fruity.
+A:
+
+Predicted answer: Max is a jompus. Jompuses are vumpuses. Max is a vumpus. Vumpuses are fruity. Max is fruity. True
+
+Q:
+
+Expected answer: Max is a jompus. Jompuses are vumpuses. Max is a vumpus. Vumpuses are fruity. Max is fruity.
+ False
+n: 16, (beta prior) mean: 0.05555555555555555, 95% lower bound: 0.0014881743912666346, 95% upper bound: 0.1950643229690932
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are not earthy. Each dumpus is a yumpus. Every yumpus is not blue. Yumpuses are jompuses. Jompuses are opaque. Wumpuses are nervous. Jompuses are impuses. Impuses are not nervous. Each impus is a vumpus. Stella is a jompus. True or false: Stella is nervous.
+A: Stella is a jompus. Jompuses are impuses. Stella is an impus. Impuses are not nervous. Stella is not nervous. False
+
+Q: Wumpuses are luminous. Wumpuses are numpuses. Numpuses are floral. Every zumpus is not bright. Numpuses are dumpuses. Every dumpus is bright. Dumpuses are tumpuses. Each tumpus is red. Tumpuses are impuses. Impuses are not bitter. Each impus is a yumpus. Yumpuses are large. Yumpuses are rompuses. Alex is a numpus. True or false: Alex is bright.
+A: Alex is a numpus. Numpuses are dumpuses. Alex is a dumpus. Every dumpus is bright. Alex is bright. True
+
+Q: Dumpuses are earthy. Every yumpus is hot. Every dumpus is a wumpus. Wumpuses are sweet. Each wumpus is a vumpus. Vumpuses are not luminous. Every vumpus is a rompus. Each rompus is dull. Rompuses are tumpuses. Tumpuses are large. Every tumpus is a jompus. Jompuses are not transparent. Jompuses are impuses. Each impus is not hot. Impuses are zumpuses. Every zumpus is red. Zumpuses are numpuses. Sam is a jompus. True or false: Sam is hot.
+A: Sam is a jompus. Jompuses are impuses. Sam is an impus. Each impus is not hot. Sam is not hot. False
+
+Q: Wumpuses are not bright. Tumpuses are large. Each tumpus is a jompus. Jompuses are bright. Jompuses are numpuses. Each numpus is sweet. Numpuses are rompuses. Rompuses are red. Every rompus is an impus. Polly is a tumpus. True or false: Polly is not bright.
+A: Polly is a tumpus. Each tumpus is a jompus. Polly is a jompus. Jompuses are bright. Polly is bright. False
+
+Q: Every impus is temperate. Every impus is a numpus. Numpuses are small. Every numpus is a wumpus. Wumpuses are spicy. Wumpuses are vumpuses. Every vumpus is dull. Each vumpus is a jompus. Every jompus is amenable. Jompuses are zumpuses. Every dumpus is not spicy. Zumpuses are wooden. Zumpuses are yumpuses. Yumpuses are feisty. Every yumpus is a tumpus. Tumpuses are opaque. Each tumpus is a rompus. Max is a numpus. True or false: Max is not spicy.
+A: Max is a numpus. Every numpus is a wumpus. Max is a wumpus. Wumpuses are spicy. Max is spicy. False
+
+Q: Jompuses are not earthy. Jompuses are tumpuses. Tumpuses are not spicy. Tumpuses are vumpuses. Each vumpus is metallic. Vumpuses are zumpuses. Impuses are dull. Each zumpus is hot. Zumpuses are dumpuses. Dumpuses are orange. Every dumpus is a numpus. Every numpus is not dull. Every numpus is a rompus. Every rompus is opaque. Rompuses are wumpuses. Wumpuses are amenable. Wumpuses are yumpuses. Fae is a dumpus. True or false: Fae is dull.
+A: Fae is a dumpus. Every dumpus is a numpus. Fae is a numpus. Every numpus is not dull. Fae is not dull. False
+
+Q: Each rompus is large. Every rompus is a jompus. Every jompus is not liquid. Jompuses are yumpuses. Every dumpus is bitter. Yumpuses are brown. Yumpuses are numpuses. Numpuses are not bitter. Numpuses are impuses. Impuses are nervous. Every impus is a zumpus. Zumpuses are not floral. Each zumpus is a vumpus. Stella is a yumpus. True or false: Stella is not bitter.
+A: Stella is a yumpus. Yumpuses are numpuses. Stella is a numpus. Numpuses are not bitter. Stella is not bitter. True
+
+Q: Wumpuses are bright. Wumpuses are rompuses. Rompuses are transparent. Every rompus is a jompus. Every jompus is blue. Every jompus is a yumpus. Every yumpus is small. Yumpuses are zumpuses. Each zumpus is kind. Zumpuses are dumpuses. Every dumpus is fruity. Each dumpus is a vumpus. Each impus is not transparent. Vumpuses are liquid. Each vumpus is a tumpus. Tumpuses are not sour. Each tumpus is a numpus. Sam is a wumpus. True or false: Sam is not transparent.
+A: Sam is a wumpus. Wumpuses are rompuses. Sam is a rompus. Rompuses are transparent. Sam is transparent. False
+
+Q: Impuses are dull. Every numpus is not transparent. Every impus is a jompus. Jompuses are transparent. Jompuses are yumpuses. Yumpuses are not mean. Every yumpus is a zumpus. Zumpuses are feisty. Every zumpus is a rompus. Each rompus is not orange. Rompuses are vumpuses. Vumpuses are luminous. Vumpuses are dumpuses. Dumpuses are small. Dumpuses are wumpuses. Stella is an impus. True or false: Stella is not transparent.
+A:
+
+Predicted answer: Stella is an impus. Every impus is a jompus. Stella is a jompus. Jompuses are transparent. Stella is transparent. True
+
+Q:
+
+Expected answer: Stella is an impus. Every impus is a jompus. Stella is a jompus. Jompuses are transparent. Stella is transparent.
+ False
+n: 17, (beta prior) mean: 0.05263157894736842, 95% lower bound: 0.0014055561673694224, 95% upper bound: 0.18530196813785216
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every zumpus is not fruity. Numpuses are not feisty. Every zumpus is a rompus. Every rompus is feisty. Each rompus is a dumpus. Every dumpus is orange. Each dumpus is a jompus. Stella is a zumpus. True or false: Stella is feisty.
+A: Stella is a zumpus. Every zumpus is a rompus. Stella is a rompus. Every rompus is feisty. Stella is feisty. True
+
+Q: Yumpuses are amenable. Jompuses are not bright. Jompuses are vumpuses. Vumpuses are earthy. Every vumpus is a rompus. Every rompus is small. Each rompus is an impus. Every impus is not amenable. Impuses are numpuses. Numpuses are liquid. Every numpus is a wumpus. Wumpuses are not nervous. Wumpuses are zumpuses. Zumpuses are not sweet. Each zumpus is a tumpus. Tumpuses are not transparent. Tumpuses are dumpuses. Alex is a rompus. True or false: Alex is not amenable.
+A: Alex is a rompus. Each rompus is an impus. Alex is an impus. Every impus is not amenable. Alex is not amenable. True
+
+Q: Tumpuses are not mean. Each tumpus is a numpus. Numpuses are opaque. Numpuses are vumpuses. Vumpuses are temperate. Every vumpus is a wumpus. Each yumpus is not temperate. Sam is a numpus. True or false: Sam is not temperate.
+A: Sam is a numpus. Numpuses are vumpuses. Sam is a vumpus. Vumpuses are temperate. Sam is temperate. False
+
+Q: Dumpuses are transparent. Every dumpus is a yumpus. Yumpuses are not dull. Yumpuses are impuses. Impuses are nervous. Impuses are numpuses. Every numpus is floral. Every numpus is a wumpus. Every wumpus is not large. Tumpuses are not floral. Each wumpus is a jompus. Sam is an impus. True or false: Sam is not floral.
+A: Sam is an impus. Impuses are numpuses. Sam is a numpus. Every numpus is floral. Sam is floral. False
+
+Q: Every rompus is not wooden. Each numpus is dull. Numpuses are impuses. Each impus is not large. Impuses are vumpuses. Each vumpus is not kind. Each vumpus is a zumpus. Zumpuses are blue. Zumpuses are dumpuses. Dumpuses are shy. Every dumpus is a tumpus. Tumpuses are wooden. Tumpuses are jompuses. Each jompus is hot. Each jompus is a yumpus. Yumpuses are sweet. Each yumpus is a wumpus. Sam is a dumpus. True or false: Sam is not wooden.
+A: Sam is a dumpus. Every dumpus is a tumpus. Sam is a tumpus. Tumpuses are wooden. Sam is wooden. False
+
+Q: Tumpuses are not hot. Every tumpus is a wumpus. Wumpuses are dull. Each wumpus is a zumpus. Zumpuses are spicy. Zumpuses are numpuses. Yumpuses are wooden. Every numpus is not wooden. Numpuses are impuses. Stella is a zumpus. True or false: Stella is wooden.
+A: Stella is a zumpus. Zumpuses are numpuses. Stella is a numpus. Every numpus is not wooden. Stella is not wooden. False
+
+Q: Wumpuses are large. Every wumpus is an impus. Each impus is blue. Every impus is a rompus. Tumpuses are opaque. Every rompus is not opaque. Each rompus is a zumpus. Zumpuses are not feisty. Each zumpus is a numpus. Every numpus is spicy. Numpuses are vumpuses. Wren is an impus. True or false: Wren is opaque.
+A: Wren is an impus. Every impus is a rompus. Wren is a rompus. Every rompus is not opaque. Wren is not opaque. False
+
+Q: Every wumpus is bright. Each wumpus is a yumpus. Every yumpus is small. Each yumpus is an impus. Impuses are not brown. Each impus is a rompus. Each rompus is opaque. Every rompus is a dumpus. Each tumpus is brown. Max is a yumpus. True or false: Max is brown.
+A: Max is a yumpus. Each yumpus is an impus. Max is an impus. Impuses are not brown. Max is not brown. False
+
+Q: Every zumpus is not opaque. Each zumpus is a yumpus. Yumpuses are cold. Every yumpus is a wumpus. Wumpuses are wooden. Every wumpus is a jompus. Jompuses are not feisty. Each jompus is a rompus. Rompuses are not floral. Every rompus is an impus. Each impus is dull. Impuses are tumpuses. Every tumpus is not small. Each tumpus is a numpus. Dumpuses are not wooden. Numpuses are spicy. Numpuses are vumpuses. Sally is a yumpus. True or false: Sally is not wooden.
+A:
+
+Predicted answer: Sally is a yumpus. Each yumpus is a wumpus. Sally is a wumpus. Wumpuses are wooden. Sally is wooden. True
+
+Q:
+
+Expected answer: Sally is a yumpus. Every yumpus is a wumpus. Sally is a wumpus. Wumpuses are wooden. Sally is wooden.
+ False
+n: 18, (beta prior) mean: 0.05, 95% lower bound: 0.001331628804179423, 95% upper bound: 0.17646691180696528
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each zumpus is not shy. Every zumpus is a yumpus. Each yumpus is earthy. Each rompus is transparent. Each yumpus is a wumpus. Every wumpus is cold. Wumpuses are vumpuses. Every vumpus is blue. Vumpuses are tumpuses. Each tumpus is small. Tumpuses are dumpuses. Dumpuses are metallic. Each dumpus is an impus. Every impus is not transparent. Each impus is a numpus. Each numpus is bright. Numpuses are jompuses. Sam is a dumpus. True or false: Sam is not transparent.
+A: Sam is a dumpus. Each dumpus is an impus. Sam is an impus. Every impus is not transparent. Sam is not transparent. True
+
+Q: Impuses are not bright. Impuses are jompuses. Numpuses are not cold. Every jompus is not transparent. Jompuses are yumpuses. Each yumpus is not liquid. Yumpuses are rompuses. Each rompus is cold. Every rompus is a vumpus. Vumpuses are not feisty. Vumpuses are zumpuses. Every zumpus is kind. Zumpuses are dumpuses. Every dumpus is not small. Every dumpus is a wumpus. Every wumpus is not brown. Each wumpus is a tumpus. Rex is a yumpus. True or false: Rex is not cold.
+A: Rex is a yumpus. Yumpuses are rompuses. Rex is a rompus. Each rompus is cold. Rex is cold. False
+
+Q: Every rompus is temperate. Each rompus is a vumpus. Vumpuses are mean. Each wumpus is not mean. Vumpuses are impuses. Impuses are not large. Impuses are yumpuses. Yumpuses are bright. Each yumpus is a tumpus. Rex is a rompus. True or false: Rex is mean.
+A: Rex is a rompus. Each rompus is a vumpus. Rex is a vumpus. Vumpuses are mean. Rex is mean. True
+
+Q: Yumpuses are not large. Every yumpus is a wumpus. Rompuses are sweet. Every wumpus is not sweet. Wumpuses are tumpuses. Every tumpus is feisty. Tumpuses are impuses. Rex is a yumpus. True or false: Rex is sweet.
+A: Rex is a yumpus. Every yumpus is a wumpus. Rex is a wumpus. Every wumpus is not sweet. Rex is not sweet. False
+
+Q: Vumpuses are happy. Every vumpus is a yumpus. Each yumpus is floral. Each yumpus is a rompus. Each jompus is not small. Every rompus is small. Each rompus is an impus. Alex is a yumpus. True or false: Alex is small.
+A: Alex is a yumpus. Each yumpus is a rompus. Alex is a rompus. Every rompus is small. Alex is small. True
+
+Q: Each wumpus is angry. Wumpuses are jompuses. Every jompus is hot. Each impus is not hot. Jompuses are rompuses. Fae is a wumpus. True or false: Fae is hot.
+A: Fae is a wumpus. Wumpuses are jompuses. Fae is a jompus. Every jompus is hot. Fae is hot. True
+
+Q: Each rompus is opaque. Rompuses are numpuses. Numpuses are not orange. Numpuses are impuses. Impuses are large. Each impus is a jompus. Each jompus is metallic. Every jompus is a tumpus. Every yumpus is dull. Each tumpus is fruity. Each tumpus is a wumpus. Wumpuses are not dull. Every wumpus is a zumpus. Every zumpus is happy. Every zumpus is a vumpus. Each vumpus is sour. Vumpuses are dumpuses. Alex is a tumpus. True or false: Alex is not dull.
+A: Alex is a tumpus. Each tumpus is a wumpus. Alex is a wumpus. Wumpuses are not dull. Alex is not dull. True
+
+Q: Rompuses are mean. Rompuses are vumpuses. Vumpuses are cold. Dumpuses are bright. Vumpuses are yumpuses. Yumpuses are luminous. Yumpuses are impuses. Impuses are feisty. Each impus is a numpus. Numpuses are orange. Each numpus is a jompus. Every jompus is not small. Jompuses are wumpuses. Each wumpus is sweet. Wumpuses are zumpuses. Zumpuses are not bright. Every zumpus is a tumpus. Fae is a wumpus. True or false: Fae is not bright.
+A: Fae is a wumpus. Wumpuses are zumpuses. Fae is a zumpus. Zumpuses are not bright. Fae is not bright. True
+
+Q: Tumpuses are dull. Tumpuses are vumpuses. Vumpuses are not happy. Vumpuses are impuses. Every impus is not metallic. Rompuses are happy. Every impus is a dumpus. Dumpuses are aggressive. Dumpuses are yumpuses. Yumpuses are not cold. Every yumpus is a wumpus. Wumpuses are brown. Every wumpus is a jompus. Jompuses are not opaque. Each jompus is a numpus. Alex is a tumpus. True or false: Alex is happy.
+A:
+
+Predicted answer: Alex is a tumpus. Every tumpus is a vumpus. Alex is a vumpus. Vumpuses are not happy. Alex is not happy. False
+
+Q:
+
+Expected answer: Alex is a tumpus. Tumpuses are vumpuses. Alex is a vumpus. Vumpuses are not happy. Alex is not happy.
+ False
+n: 19, (beta prior) mean: 0.047619047619047616, 95% lower bound: 0.0012650894979498036, 95% upper bound: 0.16843347098308536
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is dull. Impuses are tumpuses. Yumpuses are small. Each tumpus is transparent. Each tumpus is a wumpus. Wumpuses are not earthy. Each wumpus is a dumpus. Dumpuses are not small. Dumpuses are vumpuses. Vumpuses are not aggressive. Each vumpus is a jompus. Jompuses are not sour. Jompuses are zumpuses. Every zumpus is feisty. Every zumpus is a rompus. Every rompus is cold. Each rompus is a numpus. Rex is a wumpus. True or false: Rex is not small.
+A: Rex is a wumpus. Each wumpus is a dumpus. Rex is a dumpus. Dumpuses are not small. Rex is not small. True
+
+Q: Vumpuses are not hot. Vumpuses are tumpuses. Every tumpus is earthy. Tumpuses are dumpuses. Every dumpus is brown. Every dumpus is a zumpus. Zumpuses are opaque. Each zumpus is a numpus. Every numpus is not bright. Every wumpus is not earthy. Numpuses are rompuses. Rompuses are bitter. Rompuses are jompuses. Jompuses are not feisty. Each jompus is a yumpus. Each yumpus is luminous. Every yumpus is an impus. Sam is a vumpus. True or false: Sam is earthy.
+A: Sam is a vumpus. Vumpuses are tumpuses. Sam is a tumpus. Every tumpus is earthy. Sam is earthy. True
+
+Q: Vumpuses are temperate. Vumpuses are jompuses. Every jompus is earthy. Jompuses are dumpuses. Zumpuses are not amenable. Dumpuses are opaque. Each dumpus is a yumpus. Yumpuses are amenable. Every yumpus is a tumpus. Each tumpus is not spicy. Tumpuses are numpuses. Numpuses are shy. Every numpus is an impus. Every impus is not luminous. Every impus is a wumpus. Alex is a dumpus. True or false: Alex is not amenable.
+A: Alex is a dumpus. Each dumpus is a yumpus. Alex is a yumpus. Yumpuses are amenable. Alex is amenable. False
+
+Q: Impuses are not cold. Every impus is a vumpus. Every vumpus is not mean. Each vumpus is a zumpus. Every zumpus is opaque. Every zumpus is a wumpus. Every yumpus is earthy. Wumpuses are wooden. Wumpuses are tumpuses. Every tumpus is small. Each tumpus is a dumpus. Dumpuses are blue. Dumpuses are jompuses. Jompuses are not earthy. Jompuses are numpuses. Every numpus is not nervous. Numpuses are rompuses. Alex is a dumpus. True or false: Alex is not earthy.
+A: Alex is a dumpus. Dumpuses are jompuses. Alex is a jompus. Jompuses are not earthy. Alex is not earthy. True
+
+Q: Dumpuses are liquid. Dumpuses are impuses. Impuses are not cold. Wumpuses are cold. Impuses are rompuses. Rompuses are not transparent. Each rompus is a yumpus. Each yumpus is orange. Every yumpus is a jompus. Every jompus is not kind. Jompuses are zumpuses. Every zumpus is not large. Each zumpus is a vumpus. Each vumpus is spicy. Each vumpus is a numpus. Numpuses are shy. Numpuses are tumpuses. Sam is a dumpus. True or false: Sam is not cold.
+A: Sam is a dumpus. Dumpuses are impuses. Sam is an impus. Impuses are not cold. Sam is not cold. True
+
+Q: Zumpuses are luminous. Every zumpus is a wumpus. Wumpuses are not hot. Every wumpus is an impus. Impuses are orange. Every impus is a tumpus. Tumpuses are transparent. Each tumpus is a dumpus. Dumpuses are fruity. Dumpuses are rompuses. Rompuses are sour. Each rompus is a jompus. Each jompus is not shy. Every numpus is shy. Jompuses are yumpuses. Max is a rompus. True or false: Max is not shy.
+A: Max is a rompus. Each rompus is a jompus. Max is a jompus. Each jompus is not shy. Max is not shy. True
+
+Q: Impuses are dull. Each impus is a rompus. Rompuses are not spicy. Rompuses are tumpuses. Each tumpus is large. Each tumpus is a wumpus. Wumpuses are hot. Wumpuses are dumpuses. Every zumpus is not large. Polly is a rompus. True or false: Polly is not large.
+A: Polly is a rompus. Rompuses are tumpuses. Polly is a tumpus. Each tumpus is large. Polly is large. False
+
+Q: Yumpuses are not red. Dumpuses are aggressive. Each dumpus is a numpus. Numpuses are red. Each numpus is a jompus. Sam is a dumpus. True or false: Sam is red.
+A: Sam is a dumpus. Each dumpus is a numpus. Sam is a numpus. Numpuses are red. Sam is red. True
+
+Q: Every rompus is not nervous. Rompuses are jompuses. Jompuses are not mean. Zumpuses are mean. Every jompus is an impus. Polly is a rompus. True or false: Polly is not mean.
+A:
+
+Predicted answer: Polly is a rompus. Rompuses are jompuses. Polly is a jompus. Jompuses are not mean. Polly is not mean. True
+
+Q:
+
+Expected answer: Polly is a rompus. Rompuses are jompuses. Polly is a jompus. Jompuses are not mean. Polly is not mean.
+ True
+n: 20, (beta prior) mean: 0.045454545454545456, 95% lower bound: 0.0012048834483635127, 95% upper bound: 0.16109761521907945
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are not earthy. Every impus is a rompus. Each rompus is wooden. Every rompus is a vumpus. Vumpuses are not bright. Each tumpus is large. Each vumpus is a numpus. Each numpus is temperate. Numpuses are jompuses. Every jompus is not large. Each jompus is a zumpus. Polly is a numpus. True or false: Polly is not large.
+A: Polly is a numpus. Numpuses are jompuses. Polly is a jompus. Every jompus is not large. Polly is not large. True
+
+Q: Tumpuses are large. Each tumpus is a wumpus. Every wumpus is floral. Each wumpus is a rompus. Rompuses are blue. Every rompus is a jompus. Each jompus is hot. Yumpuses are opaque. Jompuses are vumpuses. Every vumpus is dull. Vumpuses are numpuses. Each numpus is not liquid. Each numpus is an impus. Every impus is not opaque. Every impus is a zumpus. Fae is a numpus. True or false: Fae is opaque.
+A: Fae is a numpus. Each numpus is an impus. Fae is an impus. Every impus is not opaque. Fae is not opaque. False
+
+Q: Each jompus is not dull. Every jompus is a vumpus. Vumpuses are kind. Vumpuses are wumpuses. Each wumpus is floral. Wumpuses are numpuses. Each numpus is transparent. Each numpus is an impus. Every impus is nervous. Each impus is a tumpus. Rompuses are not floral. Every tumpus is not spicy. Each tumpus is a yumpus. Yumpuses are not liquid. Each yumpus is a zumpus. Zumpuses are cold. Zumpuses are dumpuses. Stella is a vumpus. True or false: Stella is floral.
+A: Stella is a vumpus. Vumpuses are wumpuses. Stella is a wumpus. Each wumpus is floral. Stella is floral. True
+
+Q: Every impus is kind. Impuses are zumpuses. Zumpuses are earthy. Zumpuses are numpuses. Every numpus is not orange. Each numpus is a tumpus. Tumpuses are not bright. Tumpuses are vumpuses. Wumpuses are not earthy. Vumpuses are not nervous. Every vumpus is a dumpus. Dumpuses are small. Dumpuses are rompuses. Rompuses are not spicy. Rompuses are jompuses. Jompuses are transparent. Jompuses are yumpuses. Stella is an impus. True or false: Stella is earthy.
+A: Stella is an impus. Impuses are zumpuses. Stella is a zumpus. Zumpuses are earthy. Stella is earthy. True
+
+Q: Numpuses are transparent. Each numpus is a vumpus. Each vumpus is fruity. Vumpuses are impuses. Each impus is dull. Impuses are zumpuses. Every zumpus is bitter. Zumpuses are yumpuses. Tumpuses are aggressive. Each yumpus is not aggressive. Each yumpus is a wumpus. Every wumpus is nervous. Wumpuses are rompuses. Rompuses are not hot. Every rompus is a jompus. Jompuses are not large. Every jompus is a dumpus. Stella is a zumpus. True or false: Stella is not aggressive.
+A: Stella is a zumpus. Zumpuses are yumpuses. Stella is a yumpus. Each yumpus is not aggressive. Stella is not aggressive. True
+
+Q: Each rompus is luminous. Every rompus is a numpus. Numpuses are opaque. Numpuses are jompuses. Jompuses are not brown. Every yumpus is brown. Each jompus is a vumpus. Vumpuses are shy. Vumpuses are zumpuses. Every zumpus is not temperate. Every zumpus is an impus. Each impus is floral. Impuses are wumpuses. Each wumpus is large. Every wumpus is a dumpus. Dumpuses are not dull. Every dumpus is a tumpus. Max is a numpus. True or false: Max is not brown.
+A: Max is a numpus. Numpuses are jompuses. Max is a jompus. Jompuses are not brown. Max is not brown. True
+
+Q: Tumpuses are nervous. Dumpuses are not fruity. Tumpuses are numpuses. Each numpus is fruity. Every numpus is a wumpus. Every wumpus is kind. Each wumpus is a vumpus. Rex is a tumpus. True or false: Rex is not fruity.
+A: Rex is a tumpus. Tumpuses are numpuses. Rex is a numpus. Each numpus is fruity. Rex is fruity. False
+
+Q: Every wumpus is not orange. Every wumpus is a jompus. Jompuses are liquid. Jompuses are tumpuses. Each tumpus is happy. Tumpuses are numpuses. Every impus is temperate. Each numpus is not temperate. Numpuses are vumpuses. Each vumpus is dull. Every vumpus is a zumpus. Every zumpus is sweet. Zumpuses are yumpuses. Each yumpus is not amenable. Yumpuses are rompuses. Fae is a tumpus. True or false: Fae is temperate.
+A: Fae is a tumpus. Tumpuses are numpuses. Fae is a numpus. Each numpus is not temperate. Fae is not temperate. False
+
+Q: Every tumpus is large. Each yumpus is not aggressive. Each tumpus is a zumpus. Each zumpus is aggressive. Each zumpus is an impus. Each impus is bright. Every impus is a jompus. Jompuses are temperate. Jompuses are numpuses. Sam is a tumpus. True or false: Sam is not aggressive.
+A:
+
+Predicted answer: Sam is a tumpus. Tumpuses are zumpuses. Sam is a zumpus. Each zumpus is aggressive. Sam is aggressive. False
+
+Q:
+
+Expected answer: Sam is a tumpus. Each tumpus is a zumpus. Sam is a zumpus. Each zumpus is aggressive. Sam is aggressive.
+ False
+n: 21, (beta prior) mean: 0.043478260869565216, 95% lower bound: 0.0011501475265735751, 95% upper bound: 0.15437251281557468
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every dumpus is large. Dumpuses are numpuses. Every numpus is orange. Each numpus is an impus. Tumpuses are not fruity. Impuses are mean. Impuses are rompuses. Every rompus is not dull. Each rompus is a wumpus. Wumpuses are transparent. Every wumpus is a vumpus. Vumpuses are fruity. Vumpuses are jompuses. Each jompus is metallic. Each jompus is a yumpus. Rex is a wumpus. True or false: Rex is fruity.
+A: Rex is a wumpus. Every wumpus is a vumpus. Rex is a vumpus. Vumpuses are fruity. Rex is fruity. True
+
+Q: Zumpuses are not temperate. Each zumpus is a wumpus. Each wumpus is bright. Every wumpus is a numpus. Numpuses are small. Numpuses are vumpuses. Jompuses are spicy. Vumpuses are not spicy. Vumpuses are dumpuses. Every dumpus is nervous. Each dumpus is a tumpus. Rex is a numpus. True or false: Rex is spicy.
+A: Rex is a numpus. Numpuses are vumpuses. Rex is a vumpus. Vumpuses are not spicy. Rex is not spicy. False
+
+Q: Every wumpus is metallic. Wumpuses are dumpuses. Every dumpus is not small. Dumpuses are jompuses. Every jompus is orange. Jompuses are zumpuses. Zumpuses are transparent. Every zumpus is a rompus. Each rompus is bright. Every numpus is not cold. Rompuses are tumpuses. Tumpuses are mean. Tumpuses are vumpuses. Vumpuses are shy. Vumpuses are yumpuses. Yumpuses are cold. Yumpuses are impuses. Rex is a vumpus. True or false: Rex is not cold.
+A: Rex is a vumpus. Vumpuses are yumpuses. Rex is a yumpus. Yumpuses are cold. Rex is cold. False
+
+Q: Each vumpus is floral. Each vumpus is a rompus. Rompuses are aggressive. Every rompus is a tumpus. Tumpuses are large. Tumpuses are yumpuses. Yumpuses are not transparent. Yumpuses are wumpuses. Every wumpus is nervous. Wumpuses are zumpuses. Zumpuses are not red. Zumpuses are numpuses. Jompuses are transparent. Each numpus is bright. Numpuses are dumpuses. Each dumpus is not luminous. Every dumpus is an impus. Sam is a tumpus. True or false: Sam is transparent.
+A: Sam is a tumpus. Tumpuses are yumpuses. Sam is a yumpus. Yumpuses are not transparent. Sam is not transparent. False
+
+Q: Every yumpus is red. Yumpuses are rompuses. Rompuses are not wooden. Every rompus is a tumpus. Tumpuses are not opaque. Every tumpus is a jompus. Jompuses are nervous. Dumpuses are wooden. Every jompus is a numpus. Every numpus is not temperate. Each numpus is a zumpus. Zumpuses are earthy. Every zumpus is an impus. Each impus is not aggressive. Impuses are wumpuses. Wumpuses are bitter. Wumpuses are vumpuses. Sam is a yumpus. True or false: Sam is not wooden.
+A: Sam is a yumpus. Yumpuses are rompuses. Sam is a rompus. Rompuses are not wooden. Sam is not wooden. True
+
+Q: Dumpuses are luminous. Every dumpus is a zumpus. Each zumpus is not small. Every zumpus is a jompus. Every jompus is not angry. Every impus is not dull. Jompuses are yumpuses. Every yumpus is dull. Each yumpus is a wumpus. Sally is a jompus. True or false: Sally is dull.
+A: Sally is a jompus. Jompuses are yumpuses. Sally is a yumpus. Every yumpus is dull. Sally is dull. True
+
+Q: Every yumpus is not bitter. Each yumpus is a vumpus. Each vumpus is cold. Each wumpus is not nervous. Every vumpus is a tumpus. Each tumpus is floral. Each tumpus is a jompus. Every jompus is nervous. Jompuses are impuses. Impuses are transparent. Every impus is a numpus. Numpuses are liquid. Every numpus is a dumpus. Every dumpus is bright. Dumpuses are zumpuses. Fae is a tumpus. True or false: Fae is nervous.
+A: Fae is a tumpus. Each tumpus is a jompus. Fae is a jompus. Every jompus is nervous. Fae is nervous. True
+
+Q: Impuses are sour. Every impus is a wumpus. Every zumpus is not bright. Wumpuses are bright. Wumpuses are vumpuses. Vumpuses are temperate. Every vumpus is a yumpus. Stella is an impus. True or false: Stella is bright.
+A: Stella is an impus. Every impus is a wumpus. Stella is a wumpus. Wumpuses are bright. Stella is bright. True
+
+Q: Yumpuses are transparent. Yumpuses are zumpuses. Wumpuses are not kind. Every zumpus is kind. Zumpuses are jompuses. Rex is a yumpus. True or false: Rex is not kind.
+A:
+
+Predicted answer: Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Zumpuses are kind. Rex is kind. False
+
+Q:
+
+Expected answer: Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Every zumpus is kind. Rex is kind.
+ False
+n: 22, (beta prior) mean: 0.041666666666666664, 95% lower bound: 0.0011001686304414997, 95% upper bound: 0.14818512891522437
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is not blue. Every numpus is a rompus. Every rompus is hot. Rompuses are impuses. Impuses are not luminous. Each impus is a vumpus. Vumpuses are fruity. Each vumpus is a wumpus. Yumpuses are luminous. Stella is a rompus. True or false: Stella is luminous.
+A: Stella is a rompus. Rompuses are impuses. Stella is an impus. Impuses are not luminous. Stella is not luminous. False
+
+Q: Each impus is not opaque. Each impus is a zumpus. Zumpuses are spicy. Rompuses are not amenable. Zumpuses are vumpuses. Each vumpus is dull. Vumpuses are tumpuses. Each tumpus is liquid. Tumpuses are wumpuses. Wumpuses are amenable. Each wumpus is a numpus. Rex is a tumpus. True or false: Rex is not amenable.
+A: Rex is a tumpus. Tumpuses are wumpuses. Rex is a wumpus. Wumpuses are amenable. Rex is amenable. False
+
+Q: Rompuses are not brown. Every rompus is a yumpus. Every yumpus is bright. Yumpuses are dumpuses. Every dumpus is wooden. Each dumpus is a wumpus. Every wumpus is not temperate. Each wumpus is a vumpus. Vumpuses are not opaque. Each vumpus is a zumpus. Zumpuses are not fruity. Each zumpus is a tumpus. Each tumpus is bitter. Tumpuses are jompuses. Each jompus is not small. Jompuses are numpuses. Impuses are not bitter. Max is a zumpus. True or false: Max is not bitter.
+A: Max is a zumpus. Each zumpus is a tumpus. Max is a tumpus. Each tumpus is bitter. Max is bitter. False
+
+Q: Every yumpus is not small. Each yumpus is a rompus. Every rompus is not red. Each rompus is a numpus. Every numpus is floral. Each numpus is a tumpus. Tumpuses are not angry. Every tumpus is a wumpus. Each wumpus is not shy. Every wumpus is a vumpus. Vumpuses are hot. Vumpuses are zumpuses. Each zumpus is opaque. Every zumpus is a dumpus. Each dumpus is luminous. Jompuses are not floral. Dumpuses are impuses. Rex is a rompus. True or false: Rex is not floral.
+A: Rex is a rompus. Each rompus is a numpus. Rex is a numpus. Every numpus is floral. Rex is floral. False
+
+Q: Each dumpus is not shy. Dumpuses are jompuses. Jompuses are not bitter. Jompuses are wumpuses. Each wumpus is not transparent. Every wumpus is a numpus. Numpuses are not brown. Each numpus is an impus. Each impus is not large. Impuses are yumpuses. Yumpuses are hot. Each yumpus is a vumpus. Vumpuses are aggressive. Vumpuses are zumpuses. Each zumpus is bright. Each rompus is bitter. Every zumpus is a tumpus. Wren is a dumpus. True or false: Wren is bitter.
+A: Wren is a dumpus. Dumpuses are jompuses. Wren is a jompus. Jompuses are not bitter. Wren is not bitter. False
+
+Q: Each zumpus is not red. Zumpuses are yumpuses. Yumpuses are not small. Yumpuses are impuses. Each impus is hot. Impuses are jompuses. Each jompus is not shy. Jompuses are tumpuses. Tumpuses are spicy. Each tumpus is a rompus. Every wumpus is not fruity. Rompuses are fruity. Each rompus is a dumpus. Dumpuses are metallic. Dumpuses are numpuses. Each numpus is not opaque. Each numpus is a vumpus. Sally is a tumpus. True or false: Sally is fruity.
+A: Sally is a tumpus. Each tumpus is a rompus. Sally is a rompus. Rompuses are fruity. Sally is fruity. True
+
+Q: Every tumpus is fruity. Every tumpus is a numpus. Numpuses are nervous. Numpuses are impuses. Every impus is sour. Each impus is a dumpus. Dumpuses are red. Dumpuses are wumpuses. Vumpuses are not bright. Wumpuses are bright. Wumpuses are yumpuses. Yumpuses are large. Every yumpus is a rompus. Each rompus is not opaque. Each rompus is a jompus. Jompuses are kind. Jompuses are zumpuses. Stella is a dumpus. True or false: Stella is not bright.
+A: Stella is a dumpus. Dumpuses are wumpuses. Stella is a wumpus. Wumpuses are bright. Stella is bright. False
+
+Q: Rompuses are mean. Each rompus is a wumpus. Wumpuses are not wooden. Wumpuses are numpuses. Vumpuses are wooden. Max is a rompus. True or false: Max is not wooden.
+A: Max is a rompus. Each rompus is a wumpus. Max is a wumpus. Wumpuses are not wooden. Max is not wooden. True
+
+Q: Each vumpus is amenable. Vumpuses are impuses. Impuses are not bitter. Each impus is a tumpus. Tumpuses are nervous. Tumpuses are wumpuses. Wumpuses are metallic. Each wumpus is a numpus. Each numpus is not dull. Each numpus is a yumpus. Yumpuses are opaque. Every yumpus is a zumpus. Every zumpus is earthy. Each zumpus is a rompus. Each dumpus is not metallic. Rompuses are small. Each rompus is a jompus. Fae is a tumpus. True or false: Fae is metallic.
+A:
+
+Predicted answer: Fae is a tumpus. Each tumpus is a rompus. Fae is a rompus. Rompuses are small. Fae is not metallic. False
+
+Q:
+
+Expected answer: Fae is a tumpus. Tumpuses are wumpuses. Fae is a wumpus. Wumpuses are metallic. Fae is metallic.
+ True
+n: 23, (beta prior) mean: 0.04, 95% lower bound: 0.0010543524454697474, 95% upper bound: 0.14247359772252557
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every rompus is luminous. Rompuses are dumpuses. Dumpuses are kind. Dumpuses are wumpuses. Each wumpus is opaque. Wumpuses are numpuses. Numpuses are earthy. Each numpus is a jompus. Every jompus is not spicy. Jompuses are zumpuses. Every zumpus is blue. Every zumpus is an impus. Every yumpus is not kind. Impuses are hot. Each impus is a tumpus. Tumpuses are dull. Every tumpus is a vumpus. Max is a rompus. True or false: Max is not kind.
+A: Max is a rompus. Rompuses are dumpuses. Max is a dumpus. Dumpuses are kind. Max is kind. False
+
+Q: Every yumpus is sour. Yumpuses are tumpuses. Tumpuses are hot. Tumpuses are numpuses. Numpuses are not orange. Numpuses are vumpuses. Every vumpus is metallic. Each vumpus is a zumpus. Each zumpus is large. Every rompus is earthy. Each zumpus is a jompus. Every jompus is transparent. Each jompus is a dumpus. Each dumpus is not earthy. Dumpuses are impuses. Max is a jompus. True or false: Max is earthy.
+A: Max is a jompus. Each jompus is a dumpus. Max is a dumpus. Each dumpus is not earthy. Max is not earthy. False
+
+Q: Impuses are brown. Impuses are zumpuses. Zumpuses are opaque. Every zumpus is a tumpus. Every wumpus is not mean. Each tumpus is not liquid. Tumpuses are vumpuses. Vumpuses are small. Every vumpus is a dumpus. Each dumpus is feisty. Every dumpus is a jompus. Jompuses are bright. Jompuses are yumpuses. Yumpuses are mean. Yumpuses are numpuses. Numpuses are not fruity. Numpuses are rompuses. Stella is a jompus. True or false: Stella is mean.
+A: Stella is a jompus. Jompuses are yumpuses. Stella is a yumpus. Yumpuses are mean. Stella is mean. True
+
+Q: Impuses are not luminous. Every impus is a jompus. Jompuses are not temperate. Every jompus is a zumpus. Each zumpus is dull. Zumpuses are tumpuses. Tumpuses are shy. Wumpuses are temperate. Each tumpus is a rompus. Polly is an impus. True or false: Polly is not temperate.
+A: Polly is an impus. Every impus is a jompus. Polly is a jompus. Jompuses are not temperate. Polly is not temperate. True
+
+Q: Every impus is aggressive. Each wumpus is earthy. Each wumpus is a yumpus. Yumpuses are not blue. Yumpuses are dumpuses. Dumpuses are not dull. Dumpuses are jompuses. Each jompus is not small. Each jompus is a vumpus. Vumpuses are opaque. Vumpuses are rompuses. Rompuses are not liquid. Rompuses are tumpuses. Tumpuses are nervous. Tumpuses are numpuses. Each numpus is not aggressive. Every numpus is a zumpus. Sam is a tumpus. True or false: Sam is aggressive.
+A: Sam is a tumpus. Tumpuses are numpuses. Sam is a numpus. Each numpus is not aggressive. Sam is not aggressive. False
+
+Q: Each yumpus is temperate. Each yumpus is a numpus. Each numpus is amenable. Impuses are sour. Each numpus is a wumpus. Every wumpus is metallic. Every wumpus is a vumpus. Vumpuses are not small. Vumpuses are rompuses. Each rompus is earthy. Each rompus is a tumpus. Tumpuses are not bright. Every tumpus is a jompus. Every jompus is not sour. Jompuses are dumpuses. Dumpuses are opaque. Every dumpus is a zumpus. Sally is a tumpus. True or false: Sally is not sour.
+A: Sally is a tumpus. Every tumpus is a jompus. Sally is a jompus. Every jompus is not sour. Sally is not sour. True
+
+Q: Wumpuses are orange. Vumpuses are transparent. Vumpuses are yumpuses. Yumpuses are not orange. Every yumpus is a zumpus. Max is a vumpus. True or false: Max is not orange.
+A: Max is a vumpus. Vumpuses are yumpuses. Max is a yumpus. Yumpuses are not orange. Max is not orange. True
+
+Q: Every dumpus is not spicy. Each numpus is earthy. Each numpus is a vumpus. Vumpuses are spicy. Each vumpus is a tumpus. Fae is a numpus. True or false: Fae is spicy.
+A: Fae is a numpus. Each numpus is a vumpus. Fae is a vumpus. Vumpuses are spicy. Fae is spicy. True
+
+Q: Each jompus is not mean. Jompuses are impuses. Impuses are not large. Impuses are rompuses. Rompuses are luminous. Rompuses are yumpuses. Yumpuses are hot. Each yumpus is a vumpus. Vumpuses are opaque. Vumpuses are dumpuses. Every dumpus is dull. Tumpuses are not orange. Each dumpus is a numpus. Each numpus is orange. Numpuses are zumpuses. Every zumpus is not earthy. Each zumpus is a wumpus. Stella is a dumpus. True or false: Stella is orange.
+A:
+
+Predicted answer: Stella is a dumpus. Each dumpus is a numpus. Stella is a numpus. Each numpus is orange. Stella is orange. True
+
+Q:
+
+Expected answer: Stella is a dumpus. Each dumpus is a numpus. Stella is a numpus. Each numpus is orange. Stella is orange.
+ True
+n: 24, (beta prior) mean: 0.038461538461538464, 95% lower bound: 0.0010121996993108446, 95% upper bound: 0.13718517153071255
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each yumpus is spicy. Each yumpus is a dumpus. Every dumpus is cold. Dumpuses are rompuses. Each rompus is bright. Each rompus is a tumpus. Tumpuses are not opaque. Every tumpus is a zumpus. Each zumpus is not mean. Each zumpus is an impus. Impuses are happy. Every impus is a wumpus. Each wumpus is not wooden. Jompuses are opaque. Every wumpus is a vumpus. Vumpuses are not blue. Each vumpus is a numpus. Fae is a rompus. True or false: Fae is not opaque.
+A: Fae is a rompus. Each rompus is a tumpus. Fae is a tumpus. Tumpuses are not opaque. Fae is not opaque. True
+
+Q: Every zumpus is sweet. Every zumpus is a jompus. Each vumpus is earthy. Each jompus is luminous. Jompuses are tumpuses. Each tumpus is opaque. Tumpuses are impuses. Every impus is bright. Every impus is a rompus. Rompuses are not earthy. Rompuses are wumpuses. Wumpuses are small. Every wumpus is a numpus. Sam is an impus. True or false: Sam is earthy.
+A: Sam is an impus. Every impus is a rompus. Sam is a rompus. Rompuses are not earthy. Sam is not earthy. False
+
+Q: Jompuses are not opaque. Jompuses are rompuses. Each rompus is not bright. Every rompus is a zumpus. Every dumpus is bitter. Each zumpus is feisty. Every zumpus is a wumpus. Each wumpus is temperate. Each wumpus is a tumpus. Each tumpus is wooden. Every tumpus is a vumpus. Each vumpus is earthy. Vumpuses are numpuses. Numpuses are not bitter. Numpuses are impuses. Impuses are small. Impuses are yumpuses. Sally is a vumpus. True or false: Sally is bitter.
+A: Sally is a vumpus. Vumpuses are numpuses. Sally is a numpus. Numpuses are not bitter. Sally is not bitter. False
+
+Q: Numpuses are transparent. Each numpus is a vumpus. Every vumpus is red. Vumpuses are jompuses. Jompuses are liquid. Jompuses are impuses. Every impus is mean. Every impus is a dumpus. Dumpuses are not hot. Dumpuses are zumpuses. Wumpuses are hot. Zumpuses are not large. Each zumpus is a rompus. Rompuses are not earthy. Each rompus is a tumpus. Every tumpus is dull. Each tumpus is a yumpus. Stella is an impus. True or false: Stella is hot.
+A: Stella is an impus. Every impus is a dumpus. Stella is a dumpus. Dumpuses are not hot. Stella is not hot. False
+
+Q: Numpuses are not dull. Every numpus is an impus. Impuses are transparent. Every impus is a zumpus. Each zumpus is feisty. Every vumpus is not feisty. Zumpuses are rompuses. Stella is an impus. True or false: Stella is not feisty.
+A: Stella is an impus. Every impus is a zumpus. Stella is a zumpus. Each zumpus is feisty. Stella is feisty. False
+
+Q: Dumpuses are temperate. Each tumpus is feisty. Each tumpus is a yumpus. Every yumpus is not temperate. Every yumpus is a jompus. Polly is a tumpus. True or false: Polly is temperate.
+A: Polly is a tumpus. Each tumpus is a yumpus. Polly is a yumpus. Every yumpus is not temperate. Polly is not temperate. False
+
+Q: Each vumpus is happy. Every vumpus is an impus. Every impus is not earthy. Each impus is a numpus. Numpuses are not large. Each numpus is a zumpus. Every zumpus is opaque. Every zumpus is a yumpus. Yumpuses are kind. Each yumpus is a rompus. Every rompus is not brown. Every rompus is a dumpus. Each dumpus is liquid. Dumpuses are tumpuses. Jompuses are not kind. Each tumpus is sweet. Every tumpus is a wumpus. Fae is a zumpus. True or false: Fae is not kind.
+A: Fae is a zumpus. Every zumpus is a yumpus. Fae is a yumpus. Yumpuses are kind. Fae is kind. False
+
+Q: Rompuses are metallic. Each rompus is a vumpus. Vumpuses are dull. Vumpuses are wumpuses. Wumpuses are not fruity. Every wumpus is a tumpus. Every tumpus is brown. Each tumpus is a zumpus. Every zumpus is feisty. Every numpus is not feisty. Zumpuses are yumpuses. Each yumpus is not transparent. Yumpuses are jompuses. Jompuses are cold. Every jompus is a dumpus. Each dumpus is sweet. Every dumpus is an impus. Fae is a tumpus. True or false: Fae is not feisty.
+A: Fae is a tumpus. Each tumpus is a zumpus. Fae is a zumpus. Every zumpus is feisty. Fae is feisty. False
+
+Q: Rompuses are opaque. Rompuses are zumpuses. Every zumpus is small. Each zumpus is a dumpus. Dumpuses are temperate. Each dumpus is a yumpus. Yumpuses are earthy. Yumpuses are wumpuses. Wumpuses are orange. Each jompus is not temperate. Wumpuses are impuses. Every impus is feisty. Each impus is a tumpus. Max is a zumpus. True or false: Max is not temperate.
+A:
+
+Predicted answer: Max is a zumpus. Every zumpus is a dumpus. Max is a dumpus. Dumpuses are temperate. Max is temperate. False
+
+Q:
+
+Expected answer: Max is a zumpus. Each zumpus is a dumpus. Max is a dumpus. Dumpuses are temperate. Max is temperate.
+ False
+n: 25, (beta prior) mean: 0.037037037037037035, 95% lower bound: 0.0009732878933350301, 95% upper bound: 0.13227460449775408
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are dull. Every dumpus is a tumpus. Every tumpus is spicy. Tumpuses are yumpuses. Yumpuses are kind. Each yumpus is a wumpus. Wumpuses are cold. Each wumpus is a numpus. Numpuses are not feisty. Each rompus is feisty. Every numpus is a vumpus. Each vumpus is wooden. Every vumpus is a zumpus. Every zumpus is not opaque. Zumpuses are impuses. Every impus is fruity. Every impus is a jompus. Fae is a wumpus. True or false: Fae is not feisty.
+A: Fae is a wumpus. Each wumpus is a numpus. Fae is a numpus. Numpuses are not feisty. Fae is not feisty. True
+
+Q: Yumpuses are sour. Yumpuses are zumpuses. Every zumpus is kind. Every zumpus is a numpus. Numpuses are small. Each numpus is a jompus. Each rompus is not small. Alex is a zumpus. True or false: Alex is small.
+A: Alex is a zumpus. Every zumpus is a numpus. Alex is a numpus. Numpuses are small. Alex is small. True
+
+Q: Impuses are red. Each impus is a yumpus. Every yumpus is transparent. Yumpuses are zumpuses. Zumpuses are large. Each zumpus is a jompus. Each jompus is bright. Each tumpus is floral. Jompuses are numpuses. Every numpus is feisty. Numpuses are rompuses. Rompuses are not floral. Rompuses are vumpuses. Every vumpus is mean. Each vumpus is a dumpus. Each dumpus is wooden. Dumpuses are wumpuses. Polly is a numpus. True or false: Polly is not floral.
+A: Polly is a numpus. Numpuses are rompuses. Polly is a rompus. Rompuses are not floral. Polly is not floral. True
+
+Q: Every numpus is aggressive. Every numpus is a vumpus. Every vumpus is not bright. Vumpuses are wumpuses. Wumpuses are opaque. Wumpuses are jompuses. Each jompus is blue. Each jompus is a dumpus. Dumpuses are sour. Every dumpus is a yumpus. Every zumpus is not opaque. Every yumpus is luminous. Every yumpus is a rompus. Rompuses are not small. Every rompus is a tumpus. Rex is a vumpus. True or false: Rex is opaque.
+A: Rex is a vumpus. Vumpuses are wumpuses. Rex is a wumpus. Wumpuses are opaque. Rex is opaque. True
+
+Q: Dumpuses are not bitter. Every dumpus is a jompus. Jompuses are not shy. Jompuses are yumpuses. Every yumpus is opaque. Numpuses are not opaque. Each yumpus is a rompus. Every rompus is not blue. Every rompus is an impus. Alex is a jompus. True or false: Alex is not opaque.
+A: Alex is a jompus. Jompuses are yumpuses. Alex is a yumpus. Every yumpus is opaque. Alex is opaque. False
+
+Q: Vumpuses are opaque. Vumpuses are jompuses. Jompuses are not blue. Every jompus is a yumpus. Numpuses are blue. Every yumpus is happy. Each yumpus is an impus. Every impus is not large. Impuses are tumpuses. Max is a vumpus. True or false: Max is blue.
+A: Max is a vumpus. Vumpuses are jompuses. Max is a jompus. Jompuses are not blue. Max is not blue. False
+
+Q: Each yumpus is angry. Every yumpus is a rompus. Every rompus is hot. Rompuses are jompuses. Jompuses are spicy. Jompuses are dumpuses. Dumpuses are not happy. Dumpuses are zumpuses. Zumpuses are bright. Zumpuses are wumpuses. Every wumpus is not fruity. Wumpuses are vumpuses. Each numpus is not bright. Sally is a dumpus. True or false: Sally is bright.
+A: Sally is a dumpus. Dumpuses are zumpuses. Sally is a zumpus. Zumpuses are bright. Sally is bright. True
+
+Q: Each dumpus is wooden. Each dumpus is a zumpus. Every zumpus is happy. Each zumpus is a wumpus. Each wumpus is transparent. Every wumpus is a yumpus. Every yumpus is orange. Yumpuses are tumpuses. Each tumpus is spicy. Tumpuses are vumpuses. Vumpuses are dull. Vumpuses are numpuses. Numpuses are not earthy. Each numpus is an impus. Impuses are temperate. Every impus is a jompus. Rompuses are not happy. Rex is a dumpus. True or false: Rex is not happy.
+A: Rex is a dumpus. Each dumpus is a zumpus. Rex is a zumpus. Every zumpus is happy. Rex is happy. False
+
+Q: Every dumpus is happy. Each dumpus is a rompus. Rompuses are hot. Rompuses are yumpuses. Yumpuses are not brown. Yumpuses are tumpuses. Tumpuses are wooden. Every impus is brown. Tumpuses are jompuses. Stella is a rompus. True or false: Stella is not brown.
+A:
+
+Predicted answer: Stella is a rompus. Rompuses are yumpuses. Stella is a yumpus. Yumpuses are not brown. Stella is not brown. True
+
+Q:
+
+Expected answer: Stella is a rompus. Rompuses are yumpuses. Stella is a yumpus. Yumpuses are not brown. Stella is not brown.
+ True
+n: 26, (beta prior) mean: 0.03571428571428571, 95% lower bound: 0.0009372570919447072, 95% upper bound: 0.12770286761543231
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every dumpus is bright. Dumpuses are impuses. Yumpuses are not nervous. Impuses are transparent. Impuses are zumpuses. Zumpuses are nervous. Every zumpus is a tumpus. Each tumpus is wooden. Tumpuses are wumpuses. Wumpuses are not angry. Wumpuses are vumpuses. Rex is an impus. True or false: Rex is not nervous.
+A: Rex is an impus. Impuses are zumpuses. Rex is a zumpus. Zumpuses are nervous. Rex is nervous. False
+
+Q: Numpuses are fruity. Yumpuses are hot. Numpuses are vumpuses. Vumpuses are orange. Vumpuses are dumpuses. Every dumpus is not hot. Each dumpus is a wumpus. Each wumpus is sweet. Wumpuses are zumpuses. Sally is a vumpus. True or false: Sally is not hot.
+A: Sally is a vumpus. Vumpuses are dumpuses. Sally is a dumpus. Every dumpus is not hot. Sally is not hot. True
+
+Q: Numpuses are shy. Numpuses are yumpuses. Each yumpus is cold. Yumpuses are vumpuses. Vumpuses are bright. Vumpuses are zumpuses. Every zumpus is not brown. Zumpuses are dumpuses. Each dumpus is bitter. Dumpuses are rompuses. Rompuses are not large. Every tumpus is brown. Rompuses are impuses. Each impus is not floral. Impuses are jompuses. Each jompus is not kind. Jompuses are wumpuses. Max is a vumpus. True or false: Max is not brown.
+A: Max is a vumpus. Vumpuses are zumpuses. Max is a zumpus. Every zumpus is not brown. Max is not brown. True
+
+Q: Rompuses are red. Rompuses are wumpuses. Wumpuses are not large. Each numpus is large. Each wumpus is a jompus. Alex is a rompus. True or false: Alex is large.
+A: Alex is a rompus. Rompuses are wumpuses. Alex is a wumpus. Wumpuses are not large. Alex is not large. False
+
+Q: Numpuses are red. Each numpus is a jompus. Jompuses are not spicy. Every jompus is a zumpus. Rompuses are not opaque. Every zumpus is bright. Every zumpus is a dumpus. Dumpuses are luminous. Each dumpus is a yumpus. Yumpuses are opaque. Yumpuses are impuses. Impuses are floral. Impuses are tumpuses. Tumpuses are feisty. Each tumpus is a wumpus. Every wumpus is not large. Wumpuses are vumpuses. Stella is a dumpus. True or false: Stella is not opaque.
+A: Stella is a dumpus. Each dumpus is a yumpus. Stella is a yumpus. Yumpuses are opaque. Stella is opaque. False
+
+Q: Tumpuses are opaque. Tumpuses are impuses. Each impus is sweet. Impuses are wumpuses. Each zumpus is not sweet. Wumpuses are not large. Every wumpus is a rompus. Sally is a tumpus. True or false: Sally is sweet.
+A: Sally is a tumpus. Tumpuses are impuses. Sally is an impus. Each impus is sweet. Sally is sweet. True
+
+Q: Wumpuses are bright. Every wumpus is a numpus. Numpuses are feisty. Every numpus is a tumpus. Every tumpus is amenable. Each tumpus is a vumpus. Jompuses are not temperate. Each vumpus is not fruity. Vumpuses are impuses. Impuses are red. Each impus is a dumpus. Each dumpus is metallic. Every dumpus is a yumpus. Every yumpus is temperate. Yumpuses are zumpuses. Each zumpus is spicy. Zumpuses are rompuses. Polly is a dumpus. True or false: Polly is temperate.
+A: Polly is a dumpus. Every dumpus is a yumpus. Polly is a yumpus. Every yumpus is temperate. Polly is temperate. True
+
+Q: Each zumpus is dull. Every wumpus is not small. Zumpuses are numpuses. Every numpus is small. Numpuses are dumpuses. Wren is a zumpus. True or false: Wren is small.
+A: Wren is a zumpus. Zumpuses are numpuses. Wren is a numpus. Every numpus is small. Wren is small. True
+
+Q: Tumpuses are kind. Tumpuses are yumpuses. Yumpuses are dull. Every yumpus is a wumpus. Wumpuses are fruity. Every wumpus is an impus. Impuses are not luminous. Each impus is a zumpus. Jompuses are luminous. Fae is a wumpus. True or false: Fae is luminous.
+A:
+
+Predicted answer: Fae is a wumpus. Every wumpus is a yumpus. Fae is a yumpus. Yumpuses are dull. Fae is not luminous. False
+
+Q:
+
+Expected answer: Fae is a wumpus. Every wumpus is an impus. Fae is an impus. Impuses are not luminous. Fae is not luminous.
+ False
+n: 27, (beta prior) mean: 0.034482758620689655, 95% lower bound: 0.0009037987556580579, 95% upper bound: 0.12343611850026377
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each rompus is floral. Each rompus is an impus. Each impus is spicy. Impuses are jompuses. Jompuses are not opaque. Each jompus is a tumpus. Tumpuses are angry. Each tumpus is a wumpus. Wumpuses are wooden. Each wumpus is a zumpus. Zumpuses are not temperate. Dumpuses are not spicy. Zumpuses are yumpuses. Yumpuses are not feisty. Every yumpus is a vumpus. Each vumpus is blue. Each vumpus is a numpus. Sam is a rompus. True or false: Sam is spicy.
+A: Sam is a rompus. Each rompus is an impus. Sam is an impus. Each impus is spicy. Sam is spicy. True
+
+Q: Every dumpus is brown. Dumpuses are rompuses. Each rompus is not bitter. Rompuses are numpuses. Every numpus is not happy. Every zumpus is not kind. Every numpus is a yumpus. Yumpuses are opaque. Each yumpus is a wumpus. Wumpuses are kind. Wumpuses are vumpuses. Vumpuses are large. Vumpuses are tumpuses. Sally is a yumpus. True or false: Sally is not kind.
+A: Sally is a yumpus. Each yumpus is a wumpus. Sally is a wumpus. Wumpuses are kind. Sally is kind. False
+
+Q: Impuses are bright. Impuses are dumpuses. Tumpuses are nervous. Dumpuses are spicy. Each dumpus is a jompus. Jompuses are fruity. Every jompus is a wumpus. Wumpuses are cold. Wumpuses are yumpuses. Every yumpus is not nervous. Yumpuses are numpuses. Numpuses are large. Every numpus is a zumpus. Zumpuses are transparent. Each zumpus is a vumpus. Sally is a wumpus. True or false: Sally is not nervous.
+A: Sally is a wumpus. Wumpuses are yumpuses. Sally is a yumpus. Every yumpus is not nervous. Sally is not nervous. True
+
+Q: Every impus is not large. Zumpuses are hot. Zumpuses are dumpuses. Dumpuses are transparent. Dumpuses are vumpuses. Every vumpus is large. Every vumpus is a jompus. Jompuses are dull. Jompuses are wumpuses. Each wumpus is not amenable. Every wumpus is a tumpus. Each tumpus is blue. Each tumpus is a rompus. Each rompus is not liquid. Every rompus is a numpus. Every numpus is not earthy. Numpuses are yumpuses. Wren is a dumpus. True or false: Wren is not large.
+A: Wren is a dumpus. Dumpuses are vumpuses. Wren is a vumpus. Every vumpus is large. Wren is large. False
+
+Q: Every rompus is not orange. Rompuses are jompuses. Each jompus is temperate. Every jompus is a wumpus. Every wumpus is not wooden. Wumpuses are dumpuses. Each dumpus is opaque. Dumpuses are vumpuses. Every vumpus is small. Vumpuses are numpuses. Numpuses are bitter. Numpuses are zumpuses. Every zumpus is aggressive. Zumpuses are impuses. Impuses are not dull. Impuses are tumpuses. Each yumpus is not aggressive. Rex is a numpus. True or false: Rex is aggressive.
+A: Rex is a numpus. Numpuses are zumpuses. Rex is a zumpus. Every zumpus is aggressive. Rex is aggressive. True
+
+Q: Every vumpus is opaque. Vumpuses are tumpuses. Tumpuses are feisty. Each tumpus is a dumpus. Each dumpus is not sweet. Dumpuses are zumpuses. Impuses are orange. Zumpuses are wooden. Zumpuses are yumpuses. Every yumpus is not orange. Every yumpus is a numpus. Every numpus is temperate. Numpuses are jompuses. Max is a zumpus. True or false: Max is not orange.
+A: Max is a zumpus. Zumpuses are yumpuses. Max is a yumpus. Every yumpus is not orange. Max is not orange. True
+
+Q: Wumpuses are temperate. Every wumpus is a numpus. Jompuses are not sour. Every numpus is shy. Every numpus is a yumpus. Each yumpus is sour. Yumpuses are vumpuses. Stella is a numpus. True or false: Stella is sour.
+A: Stella is a numpus. Every numpus is a yumpus. Stella is a yumpus. Each yumpus is sour. Stella is sour. True
+
+Q: Rompuses are earthy. Each rompus is a yumpus. Every yumpus is not bright. Every vumpus is bright. Yumpuses are dumpuses. Dumpuses are bitter. Each dumpus is a wumpus. Stella is a rompus. True or false: Stella is not bright.
+A: Stella is a rompus. Each rompus is a yumpus. Stella is a yumpus. Every yumpus is not bright. Stella is not bright. True
+
+Q: Impuses are earthy. Each impus is a rompus. Every rompus is not angry. Every rompus is a jompus. Jompuses are bright. Each jompus is a zumpus. Each zumpus is not wooden. Each zumpus is a vumpus. Numpuses are blue. Vumpuses are not spicy. Every vumpus is a yumpus. Each yumpus is not blue. Yumpuses are dumpuses. Dumpuses are opaque. Dumpuses are tumpuses. Tumpuses are cold. Tumpuses are wumpuses. Sally is a vumpus. True or false: Sally is blue.
+A:
+
+Predicted answer: Sally is a vumpus. Every vumpus is a yumpus. Sally is a yumpus. Each yumpus is not blue. Sally is not blue. False
+
+Q:
+
+Expected answer: Sally is a vumpus. Every vumpus is a yumpus. Sally is a yumpus. Each yumpus is not blue. Sally is not blue.
+ False
+n: 28, (beta prior) mean: 0.03333333333333333, 95% lower bound: 0.000872646883579922, 95% upper bound: 0.11944486906950275
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are transparent. Impuses are dumpuses. Every dumpus is not sweet. Dumpuses are tumpuses. Tumpuses are not wooden. Each tumpus is a numpus. Each numpus is not cold. Numpuses are rompuses. Every rompus is brown. Each rompus is a vumpus. Each vumpus is not bright. Vumpuses are yumpuses. Wumpuses are kind. Every yumpus is not kind. Each yumpus is a zumpus. Each zumpus is not floral. Each zumpus is a jompus. Wren is a vumpus. True or false: Wren is kind.
+A: Wren is a vumpus. Vumpuses are yumpuses. Wren is a yumpus. Every yumpus is not kind. Wren is not kind. False
+
+Q: Each dumpus is shy. Every dumpus is a vumpus. Every vumpus is transparent. Every vumpus is a tumpus. Tumpuses are angry. Every tumpus is a numpus. Numpuses are fruity. Each rompus is not sweet. Each numpus is a wumpus. Wumpuses are temperate. Wumpuses are yumpuses. Yumpuses are sweet. Yumpuses are jompuses. Jompuses are dull. Jompuses are zumpuses. Zumpuses are not red. Zumpuses are impuses. Max is a wumpus. True or false: Max is sweet.
+A: Max is a wumpus. Wumpuses are yumpuses. Max is a yumpus. Yumpuses are sweet. Max is sweet. True
+
+Q: Impuses are red. Each impus is a yumpus. Every yumpus is not transparent. Yumpuses are jompuses. Vumpuses are not small. Every jompus is small. Jompuses are dumpuses. Dumpuses are metallic. Every dumpus is a wumpus. Wumpuses are not floral. Wumpuses are numpuses. Numpuses are kind. Numpuses are zumpuses. Zumpuses are not sweet. Zumpuses are rompuses. Rex is a yumpus. True or false: Rex is small.
+A: Rex is a yumpus. Yumpuses are jompuses. Rex is a jompus. Every jompus is small. Rex is small. True
+
+Q: Each tumpus is red. Each tumpus is an impus. Every impus is sweet. Impuses are yumpuses. Every yumpus is bright. Every yumpus is a vumpus. Numpuses are not cold. Each vumpus is happy. Each vumpus is a wumpus. Wumpuses are not small. Wumpuses are jompuses. Each jompus is transparent. Jompuses are rompuses. Every rompus is not earthy. Rompuses are zumpuses. Each zumpus is cold. Every zumpus is a dumpus. Stella is a rompus. True or false: Stella is cold.
+A: Stella is a rompus. Rompuses are zumpuses. Stella is a zumpus. Each zumpus is cold. Stella is cold. True
+
+Q: Every numpus is temperate. Every numpus is a tumpus. Tumpuses are transparent. Tumpuses are yumpuses. Yumpuses are kind. Every yumpus is a dumpus. Dumpuses are spicy. Each dumpus is a jompus. Jompuses are fruity. Jompuses are wumpuses. Each wumpus is small. Wumpuses are impuses. Every impus is bright. Impuses are rompuses. Every rompus is liquid. Every vumpus is not transparent. Rompuses are zumpuses. Sam is a numpus. True or false: Sam is not transparent.
+A: Sam is a numpus. Every numpus is a tumpus. Sam is a tumpus. Tumpuses are transparent. Sam is transparent. False
+
+Q: Jompuses are cold. Every jompus is a numpus. Numpuses are transparent. Each numpus is a zumpus. Dumpuses are not transparent. Zumpuses are not spicy. Every zumpus is a wumpus. Fae is a jompus. True or false: Fae is not transparent.
+A: Fae is a jompus. Every jompus is a numpus. Fae is a numpus. Numpuses are transparent. Fae is transparent. False
+
+Q: Each jompus is not nervous. Vumpuses are orange. Vumpuses are numpuses. Numpuses are spicy. Numpuses are impuses. Impuses are nervous. Every impus is a yumpus. Yumpuses are not cold. Every yumpus is a wumpus. Every wumpus is not aggressive. Wumpuses are dumpuses. Dumpuses are transparent. Dumpuses are rompuses. Max is a numpus. True or false: Max is nervous.
+A: Max is a numpus. Numpuses are impuses. Max is an impus. Impuses are nervous. Max is nervous. True
+
+Q: Vumpuses are fruity. Vumpuses are rompuses. Rompuses are not red. Rompuses are yumpuses. Yumpuses are luminous. Yumpuses are numpuses. Zumpuses are not luminous. Fae is a rompus. True or false: Fae is luminous.
+A: Fae is a rompus. Rompuses are yumpuses. Fae is a yumpus. Yumpuses are luminous. Fae is luminous. True
+
+Q: Numpuses are not earthy. Every tumpus is not aggressive. Each numpus is a zumpus. Zumpuses are not spicy. Zumpuses are impuses. Each impus is aggressive. Impuses are vumpuses. Rex is a zumpus. True or false: Rex is aggressive.
+A:
+
+Predicted answer: Rex is a zumpus. Zumpuses are impuses. Rex is an impus. Impuses are aggressive. Rex is aggressive. True
+
+Q:
+
+Expected answer: Rex is a zumpus. Zumpuses are impuses. Rex is an impus. Each impus is aggressive. Rex is aggressive.
+ True
+n: 29, (beta prior) mean: 0.03225806451612903, 95% lower bound: 0.0008435709266304787, 95% upper bound: 0.11570330822202776
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each wumpus is transparent. Wumpuses are dumpuses. Dumpuses are feisty. Each dumpus is a numpus. Each numpus is liquid. Every numpus is a jompus. Jompuses are not red. Vumpuses are fruity. Jompuses are impuses. Each impus is mean. Every impus is a zumpus. Zumpuses are not fruity. Zumpuses are tumpuses. Tumpuses are spicy. Every tumpus is a rompus. Every rompus is temperate. Rompuses are yumpuses. Sam is an impus. True or false: Sam is not fruity.
+A: Sam is an impus. Every impus is a zumpus. Sam is a zumpus. Zumpuses are not fruity. Sam is not fruity. True
+
+Q: Jompuses are not bright. Jompuses are numpuses. Numpuses are orange. Numpuses are dumpuses. Impuses are not orange. Sam is a jompus. True or false: Sam is not orange.
+A: Sam is a jompus. Jompuses are numpuses. Sam is a numpus. Numpuses are orange. Sam is orange. False
+
+Q: Numpuses are feisty. Numpuses are jompuses. Every jompus is bright. Zumpuses are not temperate. Jompuses are impuses. Every impus is sweet. Impuses are tumpuses. Every tumpus is liquid. Each tumpus is a dumpus. Dumpuses are not red. Dumpuses are rompuses. Each rompus is aggressive. Rompuses are yumpuses. Yumpuses are temperate. Every yumpus is a wumpus. Wumpuses are floral. Each wumpus is a vumpus. Fae is a rompus. True or false: Fae is temperate.
+A: Fae is a rompus. Rompuses are yumpuses. Fae is a yumpus. Yumpuses are temperate. Fae is temperate. True
+
+Q: Each vumpus is not dull. Vumpuses are numpuses. Numpuses are amenable. Every rompus is fruity. Numpuses are yumpuses. Yumpuses are bitter. Yumpuses are wumpuses. Wumpuses are shy. Wumpuses are dumpuses. Every dumpus is orange. Each dumpus is an impus. Impuses are not metallic. Impuses are zumpuses. Zumpuses are not fruity. Every zumpus is a jompus. Every jompus is large. Jompuses are tumpuses. Rex is an impus. True or false: Rex is fruity.
+A: Rex is an impus. Impuses are zumpuses. Rex is a zumpus. Zumpuses are not fruity. Rex is not fruity. False
+
+Q: Rompuses are not angry. Rompuses are tumpuses. Each tumpus is small. Tumpuses are numpuses. Each zumpus is not opaque. Numpuses are opaque. Numpuses are impuses. Stella is a tumpus. True or false: Stella is not opaque.
+A: Stella is a tumpus. Tumpuses are numpuses. Stella is a numpus. Numpuses are opaque. Stella is opaque. False
+
+Q: Tumpuses are opaque. Each tumpus is a vumpus. Every vumpus is nervous. Jompuses are small. Vumpuses are dumpuses. Every dumpus is not fruity. Dumpuses are impuses. Every impus is not small. Impuses are yumpuses. Every yumpus is not kind. Each yumpus is a numpus. Numpuses are not red. Numpuses are rompuses. Polly is a dumpus. True or false: Polly is small.
+A: Polly is a dumpus. Dumpuses are impuses. Polly is an impus. Every impus is not small. Polly is not small. False
+
+Q: Each impus is spicy. Each impus is a dumpus. Dumpuses are not mean. Every dumpus is a yumpus. Each yumpus is small. Yumpuses are vumpuses. Each vumpus is shy. Vumpuses are tumpuses. Tumpuses are earthy. Every tumpus is a zumpus. Zumpuses are dull. Zumpuses are rompuses. Each rompus is not opaque. Each jompus is not shy. Rompuses are wumpuses. Wumpuses are cold. Each wumpus is a numpus. Polly is a yumpus. True or false: Polly is shy.
+A: Polly is a yumpus. Yumpuses are vumpuses. Polly is a vumpus. Each vumpus is shy. Polly is shy. True
+
+Q: Every yumpus is temperate. Every yumpus is an impus. Each impus is aggressive. Impuses are numpuses. Numpuses are transparent. Each numpus is a wumpus. Each wumpus is not liquid. Wumpuses are rompuses. Rompuses are not sweet. Rompuses are zumpuses. Every zumpus is shy. Dumpuses are not aggressive. Zumpuses are jompuses. Jompuses are not dull. Every jompus is a vumpus. Fae is a yumpus. True or false: Fae is not aggressive.
+A: Fae is a yumpus. Every yumpus is an impus. Fae is an impus. Each impus is aggressive. Fae is aggressive. False
+
+Q: Rompuses are orange. Rompuses are dumpuses. Dumpuses are not angry. Impuses are not nervous. Each dumpus is a tumpus. Tumpuses are nervous. Tumpuses are vumpuses. Vumpuses are not fruity. Vumpuses are zumpuses. Every zumpus is not opaque. Each zumpus is a numpus. Alex is a dumpus. True or false: Alex is not nervous.
+A:
+
+Predicted answer: Alex is a dumpus. Dumpuses are tumpuses. Alex is a tumpus. Tumpuses are nervous. Alex is nervous. False
+
+Q:
+
+Expected answer: Alex is a dumpus. Each dumpus is a tumpus. Alex is a tumpus. Tumpuses are nervous. Alex is nervous.
+ False
+n: 30, (beta prior) mean: 0.03125, 95% lower bound: 0.0008163700718466129, 95% upper bound: 0.11218874692236994
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are nervous. Each yumpus is not fruity. Every yumpus is a dumpus. Dumpuses are large. Dumpuses are vumpuses. Vumpuses are opaque. Vumpuses are wumpuses. Every wumpus is metallic. Wumpuses are rompuses. Rompuses are dull. Every rompus is a tumpus. Every tumpus is not nervous. Every tumpus is a zumpus. Each zumpus is not sweet. Every zumpus is a jompus. Every jompus is not kind. Every jompus is a numpus. Max is a rompus. True or false: Max is not nervous.
+A: Max is a rompus. Every rompus is a tumpus. Max is a tumpus. Every tumpus is not nervous. Max is not nervous. True
+
+Q: Numpuses are wooden. Each numpus is a yumpus. Yumpuses are not floral. Yumpuses are dumpuses. Each dumpus is dull. Dumpuses are zumpuses. Jompuses are floral. Wren is a numpus. True or false: Wren is not floral.
+A: Wren is a numpus. Each numpus is a yumpus. Wren is a yumpus. Yumpuses are not floral. Wren is not floral. True
+
+Q: Every numpus is happy. Every numpus is a rompus. Rompuses are wooden. Rompuses are dumpuses. Every dumpus is cold. Dumpuses are vumpuses. Each vumpus is fruity. Each tumpus is not wooden. Every vumpus is a zumpus. Polly is a numpus. True or false: Polly is not wooden.
+A: Polly is a numpus. Every numpus is a rompus. Polly is a rompus. Rompuses are wooden. Polly is wooden. False
+
+Q: Yumpuses are nervous. Yumpuses are tumpuses. Tumpuses are not floral. Wumpuses are not sour. Tumpuses are numpuses. Every numpus is large. Each numpus is a jompus. Jompuses are liquid. Jompuses are dumpuses. Each dumpus is hot. Dumpuses are impuses. Each impus is orange. Impuses are vumpuses. Vumpuses are opaque. Every vumpus is a zumpus. Zumpuses are sour. Zumpuses are rompuses. Polly is a vumpus. True or false: Polly is not sour.
+A: Polly is a vumpus. Every vumpus is a zumpus. Polly is a zumpus. Zumpuses are sour. Polly is sour. False
+
+Q: Every tumpus is sour. Tumpuses are wumpuses. Wumpuses are bright. Wumpuses are numpuses. Every yumpus is not bright. Numpuses are blue. Every numpus is a dumpus. Every dumpus is temperate. Each dumpus is a zumpus. Sam is a tumpus. True or false: Sam is not bright.
+A: Sam is a tumpus. Tumpuses are wumpuses. Sam is a wumpus. Wumpuses are bright. Sam is bright. False
+
+Q: Each wumpus is not small. Every wumpus is a yumpus. Yumpuses are shy. Yumpuses are impuses. Every impus is hot. Each impus is a numpus. Numpuses are not angry. Numpuses are rompuses. Rompuses are transparent. Rompuses are dumpuses. Every dumpus is not brown. Dumpuses are vumpuses. Vumpuses are not bitter. Jompuses are not shy. Vumpuses are zumpuses. Zumpuses are luminous. Zumpuses are tumpuses. Polly is a wumpus. True or false: Polly is shy.
+A: Polly is a wumpus. Every wumpus is a yumpus. Polly is a yumpus. Yumpuses are shy. Polly is shy. True
+
+Q: Every zumpus is not liquid. Zumpuses are jompuses. Wumpuses are transparent. Jompuses are not dull. Each jompus is an impus. Impuses are angry. Impuses are vumpuses. Each vumpus is spicy. Vumpuses are numpuses. Numpuses are not transparent. Each numpus is a tumpus. Each tumpus is not earthy. Tumpuses are rompuses. Every rompus is large. Rompuses are yumpuses. Yumpuses are hot. Yumpuses are dumpuses. Sally is a vumpus. True or false: Sally is transparent.
+A: Sally is a vumpus. Vumpuses are numpuses. Sally is a numpus. Numpuses are not transparent. Sally is not transparent. False
+
+Q: Wumpuses are not earthy. Wumpuses are jompuses. Every jompus is small. Jompuses are impuses. Every impus is dull. Impuses are zumpuses. Every zumpus is amenable. Zumpuses are dumpuses. Each dumpus is not spicy. Every dumpus is a tumpus. Every tumpus is temperate. Tumpuses are vumpuses. Vumpuses are not happy. Each vumpus is a rompus. Every numpus is not amenable. Rompuses are opaque. Rompuses are yumpuses. Sally is an impus. True or false: Sally is amenable.
+A: Sally is an impus. Impuses are zumpuses. Sally is a zumpus. Every zumpus is amenable. Sally is amenable. True
+
+Q: Tumpuses are not happy. Every tumpus is a wumpus. Each wumpus is large. Each wumpus is a zumpus. Zumpuses are bright. Zumpuses are yumpuses. Yumpuses are transparent. Yumpuses are jompuses. Jompuses are not temperate. Each jompus is a numpus. Numpuses are luminous. Every numpus is a dumpus. Every impus is not luminous. Each dumpus is floral. Dumpuses are rompuses. Fae is a jompus. True or false: Fae is luminous.
+A:
+
+Predicted answer: Fae is a jompus. Each jompus is a numpus. Fae is a numpus. Numpuses are luminous. Fae is luminous. True
+
+Q:
+
+Expected answer: Fae is a jompus. Each jompus is a numpus. Fae is a numpus. Numpuses are luminous. Fae is luminous.
+ True
+n: 31, (beta prior) mean: 0.030303030303030304, 95% lower bound: 0.0007908685979525573, 95% upper bound: 0.10888116067935283
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each zumpus is blue. Each zumpus is a dumpus. Every dumpus is small. Each dumpus is a wumpus. Wumpuses are not cold. Each wumpus is a numpus. Every numpus is not earthy. Every numpus is a jompus. Vumpuses are earthy. Every jompus is opaque. Jompuses are yumpuses. Each yumpus is bright. Every yumpus is a rompus. Every rompus is feisty. Each rompus is an impus. Every impus is angry. Each impus is a tumpus. Fae is a wumpus. True or false: Fae is not earthy.
+A: Fae is a wumpus. Each wumpus is a numpus. Fae is a numpus. Every numpus is not earthy. Fae is not earthy. True
+
+Q: Each zumpus is floral. Zumpuses are yumpuses. Yumpuses are not sweet. Yumpuses are jompuses. Every jompus is luminous. Each jompus is a dumpus. Dumpuses are bright. Each dumpus is a tumpus. Tumpuses are temperate. Tumpuses are numpuses. Every numpus is not large. Numpuses are wumpuses. Each wumpus is red. Rompuses are not transparent. Wumpuses are impuses. Impuses are transparent. Every impus is a vumpus. Stella is a wumpus. True or false: Stella is not transparent.
+A: Stella is a wumpus. Wumpuses are impuses. Stella is an impus. Impuses are transparent. Stella is transparent. False
+
+Q: Wumpuses are feisty. Every wumpus is a vumpus. Each yumpus is luminous. Vumpuses are not luminous. Each vumpus is a zumpus. Polly is a wumpus. True or false: Polly is not luminous.
+A: Polly is a wumpus. Every wumpus is a vumpus. Polly is a vumpus. Vumpuses are not luminous. Polly is not luminous. True
+
+Q: Every impus is not hot. Each impus is a jompus. Jompuses are not orange. Jompuses are numpuses. Each numpus is not angry. Numpuses are zumpuses. Zumpuses are not sweet. Zumpuses are rompuses. Each rompus is transparent. Each rompus is a dumpus. Dumpuses are not metallic. Yumpuses are not small. Every dumpus is a vumpus. Vumpuses are small. Every vumpus is a tumpus. Tumpuses are happy. Tumpuses are wumpuses. Polly is a dumpus. True or false: Polly is not small.
+A: Polly is a dumpus. Every dumpus is a vumpus. Polly is a vumpus. Vumpuses are small. Polly is small. False
+
+Q: Each vumpus is sweet. Vumpuses are rompuses. Every impus is large. Each rompus is transparent. Each rompus is a tumpus. Each tumpus is not amenable. Tumpuses are jompuses. Jompuses are not large. Jompuses are yumpuses. Yumpuses are not wooden. Yumpuses are numpuses. Each numpus is not earthy. Each numpus is a wumpus. Every wumpus is not blue. Wumpuses are dumpuses. Dumpuses are shy. Every dumpus is a zumpus. Wren is a tumpus. True or false: Wren is not large.
+A: Wren is a tumpus. Tumpuses are jompuses. Wren is a jompus. Jompuses are not large. Wren is not large. True
+
+Q: Yumpuses are opaque. Every yumpus is a dumpus. Each dumpus is not floral. Dumpuses are wumpuses. Wumpuses are brown. Wumpuses are numpuses. Numpuses are not bright. Jompuses are bright. Numpuses are tumpuses. Tumpuses are not kind. Tumpuses are rompuses. Alex is a wumpus. True or false: Alex is bright.
+A: Alex is a wumpus. Wumpuses are numpuses. Alex is a numpus. Numpuses are not bright. Alex is not bright. False
+
+Q: Zumpuses are opaque. Each zumpus is a vumpus. Every vumpus is nervous. Each vumpus is a dumpus. Dumpuses are not floral. Each dumpus is a tumpus. Each tumpus is wooden. Tumpuses are wumpuses. Wumpuses are hot. Every yumpus is large. Each wumpus is a jompus. Each jompus is angry. Each jompus is a rompus. Rompuses are not blue. Every rompus is an impus. Every impus is not large. Impuses are numpuses. Polly is a rompus. True or false: Polly is not large.
+A: Polly is a rompus. Every rompus is an impus. Polly is an impus. Every impus is not large. Polly is not large. True
+
+Q: Tumpuses are not small. Each tumpus is a vumpus. Every vumpus is nervous. Vumpuses are zumpuses. Zumpuses are floral. Each rompus is bright. Every zumpus is a yumpus. Yumpuses are transparent. Yumpuses are dumpuses. Every dumpus is not sour. Every dumpus is an impus. Impuses are angry. Every impus is a wumpus. Wumpuses are not bright. Each wumpus is a numpus. Every numpus is not cold. Each numpus is a jompus. Sally is an impus. True or false: Sally is not bright.
+A: Sally is an impus. Every impus is a wumpus. Sally is a wumpus. Wumpuses are not bright. Sally is not bright. True
+
+Q: Dumpuses are hot. Dumpuses are numpuses. Every numpus is luminous. Each numpus is a zumpus. Zumpuses are not orange. Each zumpus is an impus. Impuses are transparent. Impuses are vumpuses. Vumpuses are nervous. Each vumpus is a rompus. Rompuses are earthy. Rompuses are wumpuses. Every wumpus is mean. Every wumpus is a yumpus. Yumpuses are bright. Every jompus is not bright. Yumpuses are tumpuses. Max is a wumpus. True or false: Max is not bright.
+A:
+
+Predicted answer: Max is a wumpus. Every wumpus is a yumpus. Max is a yumpus. Yumpuses are bright. Max is bright. False
+
+Q:
+
+Expected answer: Max is a wumpus. Every wumpus is a yumpus. Max is a yumpus. Yumpuses are bright. Max is bright.
+ False
+n: 32, (beta prior) mean: 0.029411764705882353, 95% lower bound: 0.0007669120750481086, 95% upper bound: 0.10576281007457931
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every wumpus is luminous. Wumpuses are numpuses. Every numpus is happy. Numpuses are impuses. Tumpuses are dull. Each impus is large. Impuses are vumpuses. Each vumpus is not brown. Vumpuses are rompuses. Every rompus is opaque. Every rompus is a yumpus. Yumpuses are cold. Yumpuses are dumpuses. Dumpuses are not dull. Dumpuses are zumpuses. Each zumpus is not amenable. Every zumpus is a jompus. Sally is a yumpus. True or false: Sally is dull.
+A: Sally is a yumpus. Yumpuses are dumpuses. Sally is a dumpus. Dumpuses are not dull. Sally is not dull. False
+
+Q: Each rompus is hot. Rompuses are vumpuses. Vumpuses are sweet. Impuses are amenable. Each vumpus is a zumpus. Every zumpus is happy. Every zumpus is a wumpus. Wumpuses are not amenable. Wumpuses are dumpuses. Each dumpus is large. Dumpuses are tumpuses. Every tumpus is dull. Every tumpus is a numpus. Rex is a zumpus. True or false: Rex is not amenable.
+A: Rex is a zumpus. Every zumpus is a wumpus. Rex is a wumpus. Wumpuses are not amenable. Rex is not amenable. True
+
+Q: Vumpuses are not liquid. Vumpuses are wumpuses. Every wumpus is spicy. Every wumpus is a dumpus. Dumpuses are hot. Each dumpus is an impus. Every impus is transparent. Every impus is a zumpus. Zumpuses are blue. Zumpuses are rompuses. Rompuses are nervous. Every rompus is a jompus. Every numpus is not spicy. Jompuses are not small. Jompuses are tumpuses. Sally is a vumpus. True or false: Sally is spicy.
+A: Sally is a vumpus. Vumpuses are wumpuses. Sally is a wumpus. Every wumpus is spicy. Sally is spicy. True
+
+Q: Every jompus is not orange. Each jompus is a numpus. Numpuses are not hot. Numpuses are wumpuses. Wumpuses are sour. Every wumpus is a dumpus. Each dumpus is not bright. Dumpuses are vumpuses. Every vumpus is earthy. Every vumpus is a yumpus. Every yumpus is transparent. Every yumpus is an impus. Impuses are kind. Impuses are rompuses. Each tumpus is wooden. Each rompus is not wooden. Every rompus is a zumpus. Stella is an impus. True or false: Stella is wooden.
+A: Stella is an impus. Impuses are rompuses. Stella is a rompus. Each rompus is not wooden. Stella is not wooden. False
+
+Q: Every jompus is earthy. Every jompus is an impus. Each impus is temperate. Impuses are numpuses. Each numpus is feisty. Every numpus is a tumpus. Tumpuses are not brown. Each tumpus is a zumpus. Every zumpus is not dull. Each zumpus is a rompus. Rompuses are small. Every rompus is a wumpus. Vumpuses are not temperate. Each wumpus is not wooden. Wumpuses are yumpuses. Yumpuses are not opaque. Each yumpus is a dumpus. Alex is a jompus. True or false: Alex is temperate.
+A: Alex is a jompus. Every jompus is an impus. Alex is an impus. Each impus is temperate. Alex is temperate. True
+
+Q: Every dumpus is not orange. Each dumpus is a vumpus. Every vumpus is not earthy. Each vumpus is a numpus. Numpuses are opaque. Each numpus is a zumpus. Zumpuses are not spicy. Zumpuses are yumpuses. Every yumpus is not metallic. Yumpuses are jompuses. Every jompus is not temperate. Rompuses are earthy. Every jompus is an impus. Every impus is not happy. Every impus is a wumpus. Each wumpus is small. Wumpuses are tumpuses. Sally is a dumpus. True or false: Sally is earthy.
+A: Sally is a dumpus. Each dumpus is a vumpus. Sally is a vumpus. Every vumpus is not earthy. Sally is not earthy. False
+
+Q: Tumpuses are earthy. Tumpuses are jompuses. Every jompus is bright. Jompuses are numpuses. Every numpus is metallic. Numpuses are dumpuses. Every dumpus is mean. Dumpuses are vumpuses. Every vumpus is temperate. Vumpuses are impuses. Impuses are large. Wumpuses are not large. Each impus is a zumpus. Zumpuses are sour. Zumpuses are rompuses. Rompuses are red. Rompuses are yumpuses. Polly is a vumpus. True or false: Polly is large.
+A: Polly is a vumpus. Vumpuses are impuses. Polly is an impus. Impuses are large. Polly is large. True
+
+Q: Each numpus is not kind. Numpuses are rompuses. Rompuses are shy. Rompuses are jompuses. Every jompus is hot. Every jompus is a vumpus. Every vumpus is dull. Every vumpus is a yumpus. Yumpuses are not fruity. Every yumpus is a zumpus. Each zumpus is liquid. Every zumpus is an impus. Impuses are transparent. Impuses are dumpuses. Each dumpus is brown. Every dumpus is a tumpus. Wumpuses are not hot. Sam is a rompus. True or false: Sam is not hot.
+A: Sam is a rompus. Rompuses are jompuses. Sam is a jompus. Every jompus is hot. Sam is hot. False
+
+Q: Each yumpus is feisty. Every yumpus is a zumpus. Zumpuses are not sweet. Zumpuses are vumpuses. Vumpuses are metallic. Vumpuses are tumpuses. Tumpuses are fruity. Tumpuses are wumpuses. Each wumpus is not transparent. Each wumpus is a jompus. Jompuses are aggressive. Jompuses are dumpuses. Every dumpus is orange. Each dumpus is a rompus. Every rompus is dull. Every rompus is a numpus. Impuses are sweet. Max is a yumpus. True or false: Max is not sweet.
+A:
+
+Predicted answer: Max is a yumpus. Every yumpus is a zumpus. Max is a zumpus. Zumpuses are not sweet. Max is not sweet. True
+
+Q:
+
+Expected answer: Max is a yumpus. Every yumpus is a zumpus. Max is a zumpus. Zumpuses are not sweet. Max is not sweet.
+ True
+n: 33, (beta prior) mean: 0.02857142857142857, 95% lower bound: 0.0007443642346902602, 95% upper bound: 0.10281792425901258
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are feisty. Numpuses are tumpuses. Each tumpus is earthy. Each tumpus is a rompus. Vumpuses are temperate. Each rompus is not temperate. Every rompus is a wumpus. Rex is a tumpus. True or false: Rex is temperate.
+A: Rex is a tumpus. Each tumpus is a rompus. Rex is a rompus. Each rompus is not temperate. Rex is not temperate. False
+
+Q: Each jompus is dull. Jompuses are vumpuses. Each vumpus is kind. Each vumpus is a numpus. Numpuses are not small. Numpuses are yumpuses. Each zumpus is small. Yumpuses are bitter. Yumpuses are impuses. Impuses are orange. Impuses are rompuses. Polly is a vumpus. True or false: Polly is small.
+A: Polly is a vumpus. Each vumpus is a numpus. Polly is a numpus. Numpuses are not small. Polly is not small. False
+
+Q: Jompuses are transparent. Jompuses are vumpuses. Rompuses are not dull. Every vumpus is dull. Vumpuses are numpuses. Each numpus is aggressive. Numpuses are zumpuses. Every zumpus is red. Zumpuses are tumpuses. Wren is a jompus. True or false: Wren is not dull.
+A: Wren is a jompus. Jompuses are vumpuses. Wren is a vumpus. Every vumpus is dull. Wren is dull. False
+
+Q: Each numpus is earthy. Every dumpus is not happy. Dumpuses are rompuses. Every rompus is not earthy. Rompuses are yumpuses. Stella is a dumpus. True or false: Stella is not earthy.
+A: Stella is a dumpus. Dumpuses are rompuses. Stella is a rompus. Every rompus is not earthy. Stella is not earthy. True
+
+Q: Every impus is aggressive. Each impus is a rompus. Jompuses are not transparent. Each rompus is not dull. Every rompus is a numpus. Every numpus is earthy. Numpuses are dumpuses. Dumpuses are feisty. Every dumpus is a yumpus. Each yumpus is bitter. Yumpuses are vumpuses. Vumpuses are transparent. Vumpuses are wumpuses. Wumpuses are wooden. Every wumpus is a tumpus. Every tumpus is not blue. Every tumpus is a zumpus. Rex is a yumpus. True or false: Rex is not transparent.
+A: Rex is a yumpus. Yumpuses are vumpuses. Rex is a vumpus. Vumpuses are transparent. Rex is transparent. False
+
+Q: Each vumpus is not luminous. Every vumpus is a wumpus. Each wumpus is red. Wumpuses are numpuses. Numpuses are not transparent. Every numpus is a zumpus. Impuses are not hot. Zumpuses are bright. Zumpuses are tumpuses. Each tumpus is hot. Tumpuses are yumpuses. Every yumpus is not large. Every yumpus is a rompus. Rompuses are not nervous. Rompuses are dumpuses. Polly is a zumpus. True or false: Polly is not hot.
+A: Polly is a zumpus. Zumpuses are tumpuses. Polly is a tumpus. Each tumpus is hot. Polly is hot. False
+
+Q: Dumpuses are not dull. Each dumpus is a wumpus. Wumpuses are not spicy. Every wumpus is a yumpus. Each numpus is opaque. Yumpuses are not opaque. Yumpuses are vumpuses. Every vumpus is red. Every vumpus is a jompus. Alex is a wumpus. True or false: Alex is opaque.
+A: Alex is a wumpus. Every wumpus is a yumpus. Alex is a yumpus. Yumpuses are not opaque. Alex is not opaque. False
+
+Q: Jompuses are orange. Each jompus is a tumpus. Numpuses are small. Each tumpus is not small. Tumpuses are yumpuses. Alex is a jompus. True or false: Alex is not small.
+A: Alex is a jompus. Each jompus is a tumpus. Alex is a tumpus. Each tumpus is not small. Alex is not small. True
+
+Q: Each dumpus is not large. Every rompus is not shy. Dumpuses are tumpuses. Tumpuses are dull. Tumpuses are vumpuses. Each vumpus is shy. Vumpuses are zumpuses. Zumpuses are hot. Zumpuses are yumpuses. Max is a tumpus. True or false: Max is not shy.
+A:
+
+Predicted answer: Max is a tumpus. Tumpuses are vumpuses. Max is a vumpus. Each vumpus is shy. Max is shy. False
+
+Q:
+
+Expected answer: Max is a tumpus. Tumpuses are vumpuses. Max is a vumpus. Each vumpus is shy. Max is shy.
+ False
+n: 34, (beta prior) mean: 0.027777777777777776, 95% lower bound: 0.0007231043763380947, 95% upper bound: 0.10003243557210502
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are red. Zumpuses are tumpuses. Each tumpus is not small. Each tumpus is a yumpus. Yumpuses are not earthy. Every yumpus is a numpus. Numpuses are not bright. Each numpus is a wumpus. Every wumpus is bitter. Each wumpus is a dumpus. Each dumpus is aggressive. Each dumpus is a jompus. Every jompus is metallic. Jompuses are impuses. Each impus is not nervous. Each impus is a vumpus. Each rompus is not metallic. Max is a dumpus. True or false: Max is not metallic.
+A: Max is a dumpus. Each dumpus is a jompus. Max is a jompus. Every jompus is metallic. Max is metallic. False
+
+Q: Every yumpus is shy. Yumpuses are vumpuses. Vumpuses are floral. Every vumpus is a tumpus. Each tumpus is not small. Wumpuses are not floral. Each tumpus is a rompus. Stella is a yumpus. True or false: Stella is not floral.
+A: Stella is a yumpus. Yumpuses are vumpuses. Stella is a vumpus. Vumpuses are floral. Stella is floral. False
+
+Q: Every vumpus is amenable. Each vumpus is an impus. Each impus is hot. Every impus is a numpus. Every numpus is large. Numpuses are jompuses. Every jompus is red. Each jompus is a tumpus. Every tumpus is spicy. Every tumpus is a rompus. Each rompus is feisty. Each dumpus is not spicy. Each rompus is a wumpus. Alex is a jompus. True or false: Alex is spicy.
+A: Alex is a jompus. Each jompus is a tumpus. Alex is a tumpus. Every tumpus is spicy. Alex is spicy. True
+
+Q: Vumpuses are not large. Each tumpus is metallic. Every vumpus is a yumpus. Yumpuses are not red. Yumpuses are zumpuses. Zumpuses are not metallic. Zumpuses are dumpuses. Dumpuses are sweet. Dumpuses are rompuses. Every rompus is bright. Rompuses are numpuses. Each numpus is happy. Each numpus is a wumpus. Wumpuses are not angry. Wumpuses are jompuses. Jompuses are temperate. Every jompus is an impus. Rex is a yumpus. True or false: Rex is not metallic.
+A: Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Zumpuses are not metallic. Rex is not metallic. True
+
+Q: Each dumpus is large. Dumpuses are jompuses. Zumpuses are mean. Jompuses are not mean. Every jompus is an impus. Sally is a dumpus. True or false: Sally is not mean.
+A: Sally is a dumpus. Dumpuses are jompuses. Sally is a jompus. Jompuses are not mean. Sally is not mean. True
+
+Q: Every wumpus is temperate. Every wumpus is a zumpus. Zumpuses are not angry. Zumpuses are dumpuses. Impuses are not feisty. Dumpuses are feisty. Dumpuses are vumpuses. Sally is a zumpus. True or false: Sally is not feisty.
+A: Sally is a zumpus. Zumpuses are dumpuses. Sally is a dumpus. Dumpuses are feisty. Sally is feisty. False
+
+Q: Yumpuses are temperate. Yumpuses are tumpuses. Tumpuses are dull. Each tumpus is a dumpus. Dumpuses are wooden. Dumpuses are jompuses. Each jompus is transparent. Jompuses are vumpuses. Vumpuses are not shy. Vumpuses are numpuses. Numpuses are not sweet. Every numpus is an impus. Each zumpus is sweet. Alex is a vumpus. True or false: Alex is not sweet.
+A: Alex is a vumpus. Vumpuses are numpuses. Alex is a numpus. Numpuses are not sweet. Alex is not sweet. True
+
+Q: Wumpuses are luminous. Vumpuses are opaque. Vumpuses are yumpuses. Yumpuses are nervous. Yumpuses are numpuses. Every numpus is small. Numpuses are rompuses. Rompuses are floral. Every rompus is a jompus. Each jompus is not angry. Every jompus is an impus. Impuses are not cold. Impuses are zumpuses. Each zumpus is not luminous. Zumpuses are tumpuses. Every tumpus is brown. Every tumpus is a dumpus. Rex is an impus. True or false: Rex is not luminous.
+A: Rex is an impus. Impuses are zumpuses. Rex is a zumpus. Each zumpus is not luminous. Rex is not luminous. True
+
+Q: Each jompus is not bright. Every jompus is a vumpus. Vumpuses are hot. Each vumpus is a tumpus. Tumpuses are aggressive. Every tumpus is a dumpus. Dumpuses are large. Dumpuses are rompuses. Rompuses are luminous. Each rompus is a wumpus. Every zumpus is not aggressive. Wumpuses are nervous. Every wumpus is a numpus. Stella is a vumpus. True or false: Stella is aggressive.
+A:
+
+Predicted answer: Stella is a vumpus. Vumpuses are tumpuses. Stella is a tumpus. Tumpuses are aggressive. Stella is aggressive. True
+
+Q:
+
+Expected answer: Stella is a vumpus. Each vumpus is a tumpus. Stella is a tumpus. Tumpuses are aggressive. Stella is aggressive.
+ True
+n: 35, (beta prior) mean: 0.02702702702702703, 95% lower bound: 0.0007030252059047801, 95% upper bound: 0.09739375591449191
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are hot. Impuses are wumpuses. Wumpuses are earthy. Every wumpus is a vumpus. Vumpuses are not small. Vumpuses are zumpuses. Every zumpus is dull. Each zumpus is a rompus. Every rompus is luminous. Rompuses are jompuses. Every jompus is opaque. Every jompus is a yumpus. Each tumpus is not opaque. Every yumpus is not shy. Yumpuses are dumpuses. Dumpuses are bitter. Dumpuses are numpuses. Rex is a rompus. True or false: Rex is not opaque.
+A: Rex is a rompus. Rompuses are jompuses. Rex is a jompus. Every jompus is opaque. Rex is opaque. False
+
+Q: Every numpus is spicy. Numpuses are zumpuses. Zumpuses are not orange. Rompuses are orange. Zumpuses are tumpuses. Each tumpus is small. Every tumpus is a yumpus. Each yumpus is not fruity. Yumpuses are dumpuses. Dumpuses are shy. Dumpuses are vumpuses. Sally is a numpus. True or false: Sally is orange.
+A: Sally is a numpus. Numpuses are zumpuses. Sally is a zumpus. Zumpuses are not orange. Sally is not orange. False
+
+Q: Tumpuses are bright. Tumpuses are jompuses. Jompuses are earthy. Jompuses are dumpuses. Dumpuses are not opaque. Every dumpus is a zumpus. Each zumpus is happy. Yumpuses are not earthy. Every zumpus is a wumpus. Wumpuses are not large. Each wumpus is a rompus. Each rompus is sour. Each rompus is a numpus. Every numpus is not cold. Every numpus is an impus. Impuses are not blue. Every impus is a vumpus. Polly is a tumpus. True or false: Polly is not earthy.
+A: Polly is a tumpus. Tumpuses are jompuses. Polly is a jompus. Jompuses are earthy. Polly is earthy. False
+
+Q: Numpuses are not blue. Each numpus is a vumpus. Vumpuses are floral. Each vumpus is a wumpus. Each wumpus is liquid. Each impus is not liquid. Wumpuses are yumpuses. Yumpuses are not mean. Every yumpus is a tumpus. Polly is a vumpus. True or false: Polly is liquid.
+A: Polly is a vumpus. Each vumpus is a wumpus. Polly is a wumpus. Each wumpus is liquid. Polly is liquid. True
+
+Q: Every vumpus is temperate. Vumpuses are zumpuses. Each zumpus is not floral. Zumpuses are yumpuses. Yumpuses are not small. Yumpuses are rompuses. Each rompus is aggressive. Every dumpus is floral. Each rompus is a wumpus. Wumpuses are liquid. Each wumpus is a numpus. Alex is a vumpus. True or false: Alex is not floral.
+A: Alex is a vumpus. Vumpuses are zumpuses. Alex is a zumpus. Each zumpus is not floral. Alex is not floral. True
+
+Q: Each numpus is red. Numpuses are jompuses. Jompuses are not shy. Jompuses are yumpuses. Yumpuses are not transparent. Wumpuses are transparent. Yumpuses are dumpuses. Sam is a jompus. True or false: Sam is not transparent.
+A: Sam is a jompus. Jompuses are yumpuses. Sam is a yumpus. Yumpuses are not transparent. Sam is not transparent. True
+
+Q: Impuses are floral. Impuses are wumpuses. Wumpuses are dull. Wumpuses are rompuses. Every rompus is transparent. Each rompus is a dumpus. Every dumpus is amenable. Every dumpus is a vumpus. Every yumpus is not feisty. Every vumpus is feisty. Every vumpus is a tumpus. Tumpuses are sour. Tumpuses are numpuses. Every numpus is luminous. Each numpus is a zumpus. Zumpuses are blue. Each zumpus is a jompus. Fae is a dumpus. True or false: Fae is feisty.
+A: Fae is a dumpus. Every dumpus is a vumpus. Fae is a vumpus. Every vumpus is feisty. Fae is feisty. True
+
+Q: Each zumpus is not brown. Zumpuses are vumpuses. Each wumpus is not happy. Each vumpus is not bright. Vumpuses are rompuses. Each rompus is metallic. Every rompus is a yumpus. Yumpuses are sweet. Each yumpus is a dumpus. Every dumpus is earthy. Every dumpus is a numpus. Every numpus is happy. Every numpus is a jompus. Polly is a dumpus. True or false: Polly is happy.
+A: Polly is a dumpus. Every dumpus is a numpus. Polly is a numpus. Every numpus is happy. Polly is happy. True
+
+Q: Jompuses are not sweet. Numpuses are not kind. Jompuses are impuses. Every impus is red. Each impus is a dumpus. Dumpuses are kind. Every dumpus is a zumpus. Zumpuses are not wooden. Zumpuses are tumpuses. Max is an impus. True or false: Max is kind.
+A:
+
+Predicted answer: Max is an impus. Jompuses are impuses. Max is a jompus. Every impus is a dumpus. Max is a dumpus. Dumpuses are kind. Max is kind. True
+
+Q:
+
+Expected answer: Max is an impus. Each impus is a dumpus. Max is a dumpus. Dumpuses are kind. Max is kind.
+ True
+n: 36, (beta prior) mean: 0.02631578947368421, 95% lower bound: 0.0006840310246946647, 95% upper bound: 0.09489058741498992
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are mean. Every dumpus is a tumpus. Every tumpus is not bright. Tumpuses are numpuses. Every yumpus is bright. Each numpus is temperate. Numpuses are zumpuses. Rex is a dumpus. True or false: Rex is not bright.
+A: Rex is a dumpus. Every dumpus is a tumpus. Rex is a tumpus. Every tumpus is not bright. Rex is not bright. True
+
+Q: Tumpuses are not sweet. Tumpuses are yumpuses. Each yumpus is large. Yumpuses are rompuses. Each rompus is floral. Every rompus is a numpus. Each numpus is dull. Numpuses are zumpuses. Zumpuses are hot. Each wumpus is not dull. Zumpuses are jompuses. Sally is a rompus. True or false: Sally is not dull.
+A: Sally is a rompus. Every rompus is a numpus. Sally is a numpus. Each numpus is dull. Sally is dull. False
+
+Q: Dumpuses are feisty. Each dumpus is a jompus. Each vumpus is sweet. Every jompus is not dull. Jompuses are impuses. Impuses are earthy. Each impus is a zumpus. Zumpuses are luminous. Zumpuses are wumpuses. Every wumpus is not sweet. Each wumpus is a tumpus. Every tumpus is mean. Tumpuses are yumpuses. Yumpuses are not large. Yumpuses are rompuses. Rompuses are not brown. Every rompus is a numpus. Polly is a zumpus. True or false: Polly is not sweet.
+A: Polly is a zumpus. Zumpuses are wumpuses. Polly is a wumpus. Every wumpus is not sweet. Polly is not sweet. True
+
+Q: Vumpuses are temperate. Every vumpus is a zumpus. Every impus is not floral. Zumpuses are floral. Each zumpus is a yumpus. Rex is a vumpus. True or false: Rex is not floral.
+A: Rex is a vumpus. Every vumpus is a zumpus. Rex is a zumpus. Zumpuses are floral. Rex is floral. False
+
+Q: Vumpuses are bright. Every vumpus is a wumpus. Wumpuses are transparent. Each wumpus is a numpus. Each numpus is not wooden. Every numpus is a rompus. Every dumpus is wooden. Every rompus is not large. Rompuses are yumpuses. Yumpuses are aggressive. Yumpuses are zumpuses. Alex is a wumpus. True or false: Alex is wooden.
+A: Alex is a wumpus. Each wumpus is a numpus. Alex is a numpus. Each numpus is not wooden. Alex is not wooden. False
+
+Q: Each tumpus is luminous. Each tumpus is a jompus. Each jompus is earthy. Jompuses are yumpuses. Each yumpus is not sweet. Every yumpus is a rompus. Rompuses are bright. Every rompus is a wumpus. Every wumpus is blue. Every wumpus is a zumpus. Zumpuses are large. Every zumpus is a numpus. Each impus is transparent. Numpuses are not transparent. Numpuses are dumpuses. Every dumpus is amenable. Dumpuses are vumpuses. Max is a zumpus. True or false: Max is not transparent.
+A: Max is a zumpus. Every zumpus is a numpus. Max is a numpus. Numpuses are not transparent. Max is not transparent. True
+
+Q: Impuses are small. Each impus is a tumpus. Every tumpus is nervous. Every tumpus is a wumpus. Wumpuses are floral. Wumpuses are yumpuses. Yumpuses are transparent. Yumpuses are dumpuses. Each dumpus is cold. Each jompus is brown. Each dumpus is a vumpus. Each vumpus is metallic. Every vumpus is a rompus. Rompuses are not brown. Every rompus is a numpus. Numpuses are kind. Numpuses are zumpuses. Stella is a vumpus. True or false: Stella is not brown.
+A: Stella is a vumpus. Every vumpus is a rompus. Stella is a rompus. Rompuses are not brown. Stella is not brown. True
+
+Q: Every yumpus is not red. Each yumpus is a dumpus. Every dumpus is not opaque. Dumpuses are jompuses. Each jompus is small. Every jompus is a tumpus. Every tumpus is not hot. Each tumpus is a zumpus. Impuses are hot. Alex is a jompus. True or false: Alex is hot.
+A: Alex is a jompus. Every jompus is a tumpus. Alex is a tumpus. Every tumpus is not hot. Alex is not hot. False
+
+Q: Each impus is dull. Impuses are zumpuses. Zumpuses are small. Every zumpus is a rompus. Rompuses are not blue. Every rompus is a yumpus. Every yumpus is not opaque. Yumpuses are tumpuses. Each tumpus is fruity. Every tumpus is a wumpus. Every wumpus is amenable. Wumpuses are jompuses. Jompuses are metallic. Every dumpus is not small. Each jompus is a vumpus. Every vumpus is not spicy. Vumpuses are numpuses. Sam is an impus. True or false: Sam is small.
+A:
+
+Predicted answer: Sam is an impus. Every impus is a zumpus. Sam is a zumpus. Zumpuses are small. Sam is small. True
+
+Q:
+
+Expected answer: Sam is an impus. Impuses are zumpuses. Sam is a zumpus. Zumpuses are small. Sam is small.
+ True
+n: 37, (beta prior) mean: 0.02564102564102564, 95% lower bound: 0.0006660362042023655, 95% upper bound: 0.09251276141587826
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are spicy. Every wumpus is a zumpus. Each zumpus is transparent. Every zumpus is a vumpus. Each vumpus is dull. Vumpuses are yumpuses. Each yumpus is small. Yumpuses are jompuses. Each jompus is blue. Rompuses are not hot. Jompuses are impuses. Each impus is fruity. Each impus is a tumpus. Tumpuses are hot. Every tumpus is a numpus. Every numpus is wooden. Every numpus is a dumpus. Max is an impus. True or false: Max is not hot.
+A: Max is an impus. Each impus is a tumpus. Max is a tumpus. Tumpuses are hot. Max is hot. False
+
+Q: Numpuses are bright. Each numpus is a wumpus. Every wumpus is sour. Wumpuses are impuses. Every tumpus is not brown. Impuses are opaque. Each impus is a rompus. Rompuses are brown. Each rompus is a vumpus. Sally is an impus. True or false: Sally is not brown.
+A: Sally is an impus. Each impus is a rompus. Sally is a rompus. Rompuses are brown. Sally is brown. False
+
+Q: Every jompus is luminous. Each jompus is a yumpus. Each yumpus is happy. Every yumpus is an impus. Impuses are not small. Each impus is a wumpus. Each wumpus is not aggressive. Tumpuses are not happy. Each wumpus is a rompus. Every rompus is dull. Rompuses are vumpuses. Each vumpus is hot. Every vumpus is a numpus. Numpuses are red. Numpuses are zumpuses. Every zumpus is not earthy. Zumpuses are dumpuses. Alex is a jompus. True or false: Alex is happy.
+A: Alex is a jompus. Each jompus is a yumpus. Alex is a yumpus. Each yumpus is happy. Alex is happy. True
+
+Q: Dumpuses are hot. Dumpuses are jompuses. Jompuses are bright. Jompuses are tumpuses. Every tumpus is shy. Tumpuses are yumpuses. Each yumpus is not angry. Yumpuses are impuses. Every wumpus is angry. Each impus is earthy. Every impus is a zumpus. Rex is a tumpus. True or false: Rex is not angry.
+A: Rex is a tumpus. Tumpuses are yumpuses. Rex is a yumpus. Each yumpus is not angry. Rex is not angry. True
+
+Q: Every yumpus is dull. Yumpuses are jompuses. Each tumpus is floral. Jompuses are not floral. Jompuses are rompuses. Sally is a yumpus. True or false: Sally is not floral.
+A: Sally is a yumpus. Yumpuses are jompuses. Sally is a jompus. Jompuses are not floral. Sally is not floral. True
+
+Q: Every tumpus is not nervous. Each yumpus is not fruity. Yumpuses are zumpuses. Every zumpus is blue. Each zumpus is a wumpus. Each wumpus is nervous. Wumpuses are impuses. Every impus is not large. Impuses are vumpuses. Vumpuses are not wooden. Each vumpus is a numpus. Numpuses are dull. Numpuses are jompuses. Each jompus is bitter. Every jompus is a rompus. Each rompus is hot. Every rompus is a dumpus. Sam is a zumpus. True or false: Sam is nervous.
+A: Sam is a zumpus. Each zumpus is a wumpus. Sam is a wumpus. Each wumpus is nervous. Sam is nervous. True
+
+Q: Each tumpus is cold. Jompuses are blue. Jompuses are dumpuses. Dumpuses are not cold. Dumpuses are yumpuses. Alex is a jompus. True or false: Alex is not cold.
+A: Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Dumpuses are not cold. Alex is not cold. True
+
+Q: Every impus is sour. Numpuses are not wooden. Impuses are dumpuses. Dumpuses are wooden. Dumpuses are yumpuses. Yumpuses are happy. Each yumpus is a jompus. Every jompus is not mean. Each jompus is a rompus. Every rompus is hot. Rompuses are tumpuses. Tumpuses are floral. Every tumpus is a vumpus. Vumpuses are orange. Vumpuses are wumpuses. Each wumpus is transparent. Wumpuses are zumpuses. Alex is an impus. True or false: Alex is not wooden.
+A: Alex is an impus. Impuses are dumpuses. Alex is a dumpus. Dumpuses are wooden. Alex is wooden. False
+
+Q: Every yumpus is blue. Yumpuses are wumpuses. Wumpuses are small. Wumpuses are jompuses. Jompuses are not dull. Jompuses are zumpuses. Each zumpus is nervous. Every zumpus is a rompus. Rompuses are floral. Every rompus is a numpus. Numpuses are sour. Tumpuses are not floral. Numpuses are vumpuses. Vumpuses are not opaque. Vumpuses are impuses. Every impus is metallic. Every impus is a dumpus. Polly is a zumpus. True or false: Polly is floral.
+A:
+
+Predicted answer: Polly is a zumpus. Each zumpus is a rompus. Polly is a rompus. Rompuses are floral. Polly is floral. True
+
+Q:
+
+Expected answer: Polly is a zumpus. Every zumpus is a rompus. Polly is a rompus. Rompuses are floral. Polly is floral.
+ True
+n: 38, (beta prior) mean: 0.025, 95% lower bound: 0.0006489638954819453, 95% upper bound: 0.09025110096033427
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each dumpus is not cold. Every dumpus is a rompus. Rompuses are fruity. Every rompus is a yumpus. Every yumpus is liquid. Each yumpus is a vumpus. Each vumpus is bright. Each vumpus is a jompus. Zumpuses are not liquid. Every jompus is sour. Jompuses are numpuses. Every numpus is red. Numpuses are impuses. Polly is a rompus. True or false: Polly is not liquid.
+A: Polly is a rompus. Every rompus is a yumpus. Polly is a yumpus. Every yumpus is liquid. Polly is liquid. False
+
+Q: Each jompus is not metallic. Each rompus is shy. Rompuses are zumpuses. Each zumpus is floral. Every zumpus is a yumpus. Yumpuses are metallic. Each yumpus is a numpus. Every numpus is transparent. Numpuses are dumpuses. Dumpuses are large. Dumpuses are impuses. Wren is a zumpus. True or false: Wren is metallic.
+A: Wren is a zumpus. Every zumpus is a yumpus. Wren is a yumpus. Yumpuses are metallic. Wren is metallic. True
+
+Q: Each numpus is bright. Each yumpus is not fruity. Each numpus is a wumpus. Wumpuses are luminous. Wumpuses are dumpuses. Each dumpus is fruity. Dumpuses are zumpuses. Each zumpus is nervous. Zumpuses are impuses. Each impus is not transparent. Impuses are vumpuses. Vumpuses are orange. Every vumpus is a rompus. Each rompus is aggressive. Rompuses are tumpuses. Each tumpus is temperate. Tumpuses are jompuses. Alex is a wumpus. True or false: Alex is not fruity.
+A: Alex is a wumpus. Wumpuses are dumpuses. Alex is a dumpus. Each dumpus is fruity. Alex is fruity. False
+
+Q: Dumpuses are not liquid. Dumpuses are impuses. Every impus is opaque. Every impus is a tumpus. Tumpuses are floral. Every tumpus is a jompus. Jompuses are large. Each jompus is a vumpus. Vumpuses are nervous. Each vumpus is a yumpus. Every yumpus is bright. Each wumpus is not bright. Yumpuses are numpuses. Numpuses are orange. Each numpus is a rompus. Rompuses are not bitter. Each rompus is a zumpus. Wren is a vumpus. True or false: Wren is bright.
+A: Wren is a vumpus. Each vumpus is a yumpus. Wren is a yumpus. Every yumpus is bright. Wren is bright. True
+
+Q: Tumpuses are brown. Tumpuses are jompuses. Jompuses are not large. Jompuses are rompuses. Every rompus is angry. Rompuses are yumpuses. Yumpuses are bitter. Each yumpus is a zumpus. Each zumpus is not opaque. Zumpuses are dumpuses. Each wumpus is large. Each dumpus is not cold. Every dumpus is a vumpus. Each vumpus is dull. Vumpuses are impuses. Impuses are happy. Impuses are numpuses. Fae is a tumpus. True or false: Fae is large.
+A: Fae is a tumpus. Tumpuses are jompuses. Fae is a jompus. Jompuses are not large. Fae is not large. False
+
+Q: Wumpuses are not sour. Wumpuses are zumpuses. Zumpuses are happy. Zumpuses are yumpuses. Each yumpus is red. Yumpuses are jompuses. Every jompus is angry. Every jompus is a tumpus. Every tumpus is metallic. Tumpuses are vumpuses. Every vumpus is not opaque. Each vumpus is a rompus. Rompuses are hot. Rompuses are dumpuses. Dumpuses are not small. Every dumpus is an impus. Numpuses are not metallic. Fae is a jompus. True or false: Fae is not metallic.
+A: Fae is a jompus. Every jompus is a tumpus. Fae is a tumpus. Every tumpus is metallic. Fae is metallic. False
+
+Q: Every dumpus is not bright. Every dumpus is a jompus. Jompuses are floral. Each jompus is a vumpus. Every vumpus is not aggressive. Vumpuses are impuses. Impuses are temperate. Impuses are wumpuses. Wumpuses are spicy. Wumpuses are tumpuses. Each tumpus is not small. Every tumpus is a yumpus. Every yumpus is not blue. Zumpuses are small. Each yumpus is a rompus. Rompuses are not liquid. Rompuses are numpuses. Max is a wumpus. True or false: Max is not small.
+A: Max is a wumpus. Wumpuses are tumpuses. Max is a tumpus. Each tumpus is not small. Max is not small. True
+
+Q: Each zumpus is not sour. Zumpuses are dumpuses. Every wumpus is not large. Dumpuses are blue. Every dumpus is an impus. Each impus is luminous. Impuses are rompuses. Rompuses are large. Rompuses are tumpuses. Tumpuses are not bright. Each tumpus is a jompus. Each jompus is not opaque. Jompuses are numpuses. Every numpus is not hot. Every numpus is a yumpus. Yumpuses are earthy. Each yumpus is a vumpus. Stella is an impus. True or false: Stella is not large.
+A: Stella is an impus. Impuses are rompuses. Stella is a rompus. Rompuses are large. Stella is large. False
+
+Q: Every yumpus is not sour. Every yumpus is a tumpus. Tumpuses are amenable. Every tumpus is a rompus. Every rompus is not shy. Rompuses are impuses. Impuses are not red. Every impus is a zumpus. Every zumpus is not earthy. Each zumpus is a jompus. Each jompus is dull. Every jompus is a wumpus. Every wumpus is small. Wumpuses are dumpuses. Each dumpus is transparent. Every numpus is shy. Dumpuses are vumpuses. Stella is a tumpus. True or false: Stella is not shy.
+A:
+
+Predicted answer: Stella is a tumpus. Every tumpus is a rompus. Stella is a rompus. Rompuses are not shy. Stella is not shy. True
+
+Q:
+
+Expected answer: Stella is a tumpus. Every tumpus is a rompus. Stella is a rompus. Every rompus is not shy. Stella is not shy.
+ True
+n: 39, (beta prior) mean: 0.024390243902439025, 95% lower bound: 0.0006327449320494188, 95% upper bound: 0.0880973028788024
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Tumpuses are not aggressive. Every tumpus is a vumpus. Every vumpus is temperate. Each vumpus is a yumpus. Yumpuses are not dull. Every yumpus is a jompus. Each jompus is opaque. Each jompus is an impus. Impuses are not fruity. Every impus is a zumpus. Each zumpus is not red. Every zumpus is a numpus. Each numpus is wooden. Every numpus is a dumpus. Dumpuses are not small. Dumpuses are wumpuses. Each rompus is small. Wren is a numpus. True or false: Wren is small.
+A: Wren is a numpus. Every numpus is a dumpus. Wren is a dumpus. Dumpuses are not small. Wren is not small. False
+
+Q: Jompuses are not luminous. Every impus is feisty. Every impus is a dumpus. Dumpuses are bright. Every dumpus is a yumpus. Yumpuses are orange. Every yumpus is a zumpus. Every zumpus is bitter. Zumpuses are numpuses. Numpuses are luminous. Each numpus is a tumpus. Each tumpus is not mean. Tumpuses are vumpuses. Stella is a zumpus. True or false: Stella is luminous.
+A: Stella is a zumpus. Zumpuses are numpuses. Stella is a numpus. Numpuses are luminous. Stella is luminous. True
+
+Q: Tumpuses are not happy. Every tumpus is an impus. Yumpuses are not floral. Each impus is dull. Each impus is a zumpus. Zumpuses are hot. Every zumpus is a dumpus. Each dumpus is floral. Every dumpus is a jompus. Each jompus is not small. Jompuses are rompuses. Rompuses are opaque. Each rompus is a vumpus. Vumpuses are not spicy. Every vumpus is a numpus. Every numpus is not metallic. Numpuses are wumpuses. Wren is a zumpus. True or false: Wren is not floral.
+A: Wren is a zumpus. Every zumpus is a dumpus. Wren is a dumpus. Each dumpus is floral. Wren is floral. False
+
+Q: Each vumpus is not aggressive. Every rompus is floral. Every rompus is a yumpus. Every yumpus is sour. Every yumpus is a zumpus. Zumpuses are small. Every zumpus is an impus. Every impus is wooden. Impuses are tumpuses. Every tumpus is not transparent. Every tumpus is a jompus. Each jompus is cold. Jompuses are wumpuses. Wumpuses are bright. Every wumpus is a numpus. Numpuses are aggressive. Every numpus is a dumpus. Stella is a wumpus. True or false: Stella is aggressive.
+A: Stella is a wumpus. Every wumpus is a numpus. Stella is a numpus. Numpuses are aggressive. Stella is aggressive. True
+
+Q: Every rompus is earthy. Numpuses are not feisty. Rompuses are impuses. Each impus is feisty. Impuses are vumpuses. Each vumpus is orange. Each vumpus is a dumpus. Rex is a rompus. True or false: Rex is not feisty.
+A: Rex is a rompus. Rompuses are impuses. Rex is an impus. Each impus is feisty. Rex is feisty. False
+
+Q: Every jompus is small. Jompuses are rompuses. Every rompus is not bright. Each rompus is a zumpus. Each zumpus is not happy. Zumpuses are tumpuses. Each tumpus is opaque. Every dumpus is happy. Each tumpus is a vumpus. Vumpuses are liquid. Vumpuses are impuses. Impuses are not brown. Impuses are numpuses. Every numpus is bitter. Numpuses are wumpuses. Each wumpus is temperate. Every wumpus is a yumpus. Rex is a rompus. True or false: Rex is not happy.
+A: Rex is a rompus. Each rompus is a zumpus. Rex is a zumpus. Each zumpus is not happy. Rex is not happy. True
+
+Q: Each vumpus is earthy. Each vumpus is a yumpus. Every yumpus is brown. Wumpuses are not brown. Yumpuses are tumpuses. Every tumpus is luminous. Tumpuses are zumpuses. Polly is a vumpus. True or false: Polly is not brown.
+A: Polly is a vumpus. Each vumpus is a yumpus. Polly is a yumpus. Every yumpus is brown. Polly is brown. False
+
+Q: Every impus is metallic. Each impus is a vumpus. Each vumpus is not hot. Rompuses are blue. Vumpuses are tumpuses. Each tumpus is not large. Tumpuses are numpuses. Numpuses are bitter. Numpuses are zumpuses. Each zumpus is not blue. Every zumpus is a wumpus. Rex is a numpus. True or false: Rex is not blue.
+A: Rex is a numpus. Numpuses are zumpuses. Rex is a zumpus. Each zumpus is not blue. Rex is not blue. True
+
+Q: Impuses are not wooden. Every zumpus is not kind. Impuses are vumpuses. Vumpuses are not bitter. Vumpuses are jompuses. Every jompus is brown. Every jompus is a rompus. Rompuses are feisty. Every rompus is a yumpus. Yumpuses are kind. Yumpuses are tumpuses. Polly is a rompus. True or false: Polly is not kind.
+A:
+
+Predicted answer: Polly is a rompus. Every rompus is a yumpus. Polly is a yumpus. Yumpuses are kind. Polly is kind. False
+
+Q:
+
+Expected answer: Polly is a rompus. Every rompus is a yumpus. Polly is a yumpus. Yumpuses are kind. Polly is kind.
+ False
+n: 40, (beta prior) mean: 0.023809523809523808, 95% lower bound: 0.0006173168932865189, 95% upper bound: 0.08604383629402848
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+

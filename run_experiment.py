@@ -745,6 +745,18 @@ def evaluate_response(response_proof, response_label, expected_answer, axioms, p
 
 		# check if we've gone down the wrong branch (i.e. whether this step is "misleading")
 		last_step = (proof[correct_steps[-1]] if len(correct_steps) > 0 else None)
+		print('not is_useful: {}'.format(not is_useful))
+		print('proof_step in axioms: {}'.format(proof_step in axioms))
+		print('type(proof_step) == fol.FOLForAll: {}'.format(type(proof_step) == fol.FOLForAll))
+		if type(proof_step) == fol.FOLForAll:
+			print('type(proof_step.operand) == fol.FOLIfThen: {}'.format(type(proof_step.operand) == fol.FOLIfThen))
+			if type(proof_step.operand) == fol.FOLIfThen:
+				print('type(proof_step.operand.antecedent) == fol.FOLFuncApplication: {}'.format(type(proof_step.operand.antecedent) == fol.FOLFuncApplication))
+		print('last_step != None: {}'.format(last_step != None))
+		if last_step != None and type(last_step) == fol.FOLFuncApplication and type(proof_step) == fol.FOLForAll and type(proof_step.operand) == fol.FOLIfThen and type(proof_step.operand.antecedent) == fol.FOLFuncApplication:
+			print('proof_step.operand.antecedent.function == last_step.function: {}'.format(proof_step.operand.antecedent.function == last_step.function))
+		print('last_step in expected_proof: {}'.format(last_step in expected_proof))
+		print('type(last_step) == fol.FOLFuncApplication: {}'.format(type(last_step) == fol.FOLFuncApplication))
 		if not is_useful and proof_step in axioms and type(proof_step) == fol.FOLForAll and type(proof_step.operand) == fol.FOLIfThen and type(proof_step.operand.antecedent) == fol.FOLFuncApplication and last_step != None and last_step in expected_proof and type(last_step) == fol.FOLFuncApplication and proof_step.operand.antecedent.function == last_step.function:
 			wrong_branch_steps.append(i)
 
@@ -871,6 +883,7 @@ def parse_log(log):
 		# read the predicted answer
 		expected_answer = None
 		predicted_answer = line[len('Predicted answer:'):]
+		print(predicted_answer)
 		while True:
 			line = log.readline()
 			line_number += 1
@@ -951,6 +964,8 @@ def run_experiment(model_name, args, num_proof_steps, test_num_proof_steps, log_
 		import opt
 	elif model_name == 'unifiedqa':
 		import unifiedqa
+	elif model_name == 'llama':
+		import llama
 	elif model_name not in ['dummy', 'json']:
 		raise ValueError('Unrecognized model_name "' + model_name + '"')
 
@@ -1067,6 +1082,8 @@ def run_experiment(model_name, args, num_proof_steps, test_num_proof_steps, log_
 				predict_func = lambda x, **kwargs : opt.predict(args.model_size, x, opt_server, **kwargs)
 			elif model_name == 'unifiedqa':
 				predict_func = lambda x, **kwargs : unifiedqa.predict(args.model_size.lower(), x, **kwargs)
+			elif model_name == 'llama':
+				predict_func = lambda x, **kwargs : llama.predict(x, stop='Q:', **kwargs)
 			elif model_name == 'dummy':
 				predict_func = lambda x, **kwargs : ''
 
@@ -1085,6 +1102,7 @@ def run_experiment(model_name, args, num_proof_steps, test_num_proof_steps, log_
 					print_output(' ' + answer, log)
 				too_long_responses += 1
 			else:
+				response = response[0]
 				print_output('\nPredicted answer:' + response, log)
 				print_output('\nExpected answer: ' + ' '.join(chain_of_thought), log)
 				if not args.proofs_only:
@@ -1119,7 +1137,7 @@ if __name__ == "__main__":
 	parser.add_argument("--model-name", type=str, required=True)
 	parser.add_argument("--model-size", type=str, required=True)
 	parser.add_argument("--ordering", type=str, default="postorder", choices=["postorder", "preorder", "random"])
-	parser.add_argument("--num-trials", type=int, default=500)
+	parser.add_argument("--num-trials", type=int, default=40)
 	parser.add_argument("--few-shot-examples", type=int, default=8)
 	parser.add_argument("--ontology", type=str, default="fictional", choices=["fictional", "true", "false"])
 	parser.add_argument("--opt-server", type=str, default=None)
@@ -1130,7 +1148,7 @@ if __name__ == "__main__":
 	parser.add_argument("--disjoint-concept-names", action='store_true')
 	parser.add_argument("--api-key", type=str, default=None)
 	parser.add_argument("--min-hops", type=int, default=1)
-	parser.add_argument("--max-hops", type=int, default=5)
+	parser.add_argument("--max-hops", type=int, default=4)
 	parser.add_argument("--proof-width", type=int, default=2)
 	parser.add_argument("--hops-skip", type=int, default=1)
 	parser.add_argument("--test-hops-diff", type=int, default=0)
@@ -1184,6 +1202,8 @@ if __name__ == "__main__":
 			run_experiment("opt", args, 1 + hops, 1 + hops + args.test_hops_diff, "opt" + args.model_size.lower() + log_suffix + ".log")
 		elif args.model_name == 'unifiedqa':
 			run_experiment("unifiedqa", args, 1 + hops, 1 + hops + args.test_hops_diff, "unifiedqa_" + args.model_size.lower() + log_suffix + ".log")
+		if args.model_name == 'llama':
+			run_experiment("llama", args, 1 + hops, 1 + hops + args.test_hops_diff, "llama" + log_suffix + ".log")
 		elif args.model_name == 'dummy':
 			run_experiment("dummy", args, 1 + hops, 1 + hops + args.test_hops_diff, "dummy" + log_suffix + ".log")
 		elif args.model_name == "json":
